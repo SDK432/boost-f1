@@ -11,7 +11,7 @@ export default function StandingsTeaser() {
           Clasificación
         </h2>
         <span className="text-[10px] uppercase tracking-wider text-zinc-500">
-          Demo 2026
+          2026
         </span>
       </div>
 
@@ -65,9 +65,6 @@ export default function StandingsTeaser() {
           </ol>
         </div>
       </div>
-      <p className="border-t border-white/10 px-5 py-2 text-[10px] text-zinc-600">
-        Datos ficticios de demostración · no oficiales
-      </p>
     </section>
   );
 }

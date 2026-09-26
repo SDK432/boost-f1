@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ArticleCard from "@/components/ArticleCard";
-import AdSlot from "@/components/AdSlot";
 import {
   allCategories,
   categoryLabels,
@@ -63,10 +62,6 @@ export default async function CategoryPage({ params }: PageProps) {
         {articles.length} artículo{articles.length !== 1 ? "s" : ""} en esta
         sección
       </p>
-
-      <div className="mb-8">
-        <AdSlot size="banner" label="Espacio publicitario — categoría" />
-      </div>
 
       {articles.length === 0 ? (
         <p className="text-zinc-400">Aún no hay artículos en esta categoría.</p>

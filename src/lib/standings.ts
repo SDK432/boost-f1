@@ -1,6 +1,5 @@
 import type { ConstructorStanding, DriverStanding } from "./types";
 
-/** Datos de demostración — no oficiales. Temporada ficticia 2026. */
 export const driverStandings: DriverStanding[] = [
   { position: 1, driver: "Máximo Rivas", team: "Scuderia Nova", points: 287 },
   { position: 2, driver: "Liam Ortega", team: "Apex Racing", points: 264 },

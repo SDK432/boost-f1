@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Quiénes somos",
   description:
-    "Boost F1 es un medio editorial independiente sobre Fórmula 1. Sin afiliación oficial.",
+    "Boost F1 es un medio independiente de noticias y análisis de Fórmula 1 para aficionados de habla hispana.",
 };
 
 export default function AboutPage() {
@@ -20,38 +20,25 @@ export default function AboutPage() {
       <div className="prose-f1 space-y-4">
         <p>
           <strong className="text-white">Boost F1</strong> es un medio
-          editorial independiente dedicado a la Fórmula 1. Ofrecemos noticias,
-          análisis, crónicas de resultados y columnas de opinión en español,
-          con un diseño pensado para aficionados que viven la parrilla a tope.
+          independiente de noticias y análisis de Fórmula 1. Cubrimos la
+          temporada para aficionados de habla hispana: lo que pasa en pista, el
+          contexto técnico y la lectura de cada gran premio.
         </p>
         <p>
-          Continuamos de forma independiente tras un proyecto anterior de
-          aficionados a la F1. Misma pasión, marca propia y sin ataduras
-          oficiales.
+          Publicamos con voz editorial propia. Preferimos explicar una carrera
+          con claridad —qué ocurrió, por qué importó y qué puede cambiar el
+          fin de semana siguiente— antes que repetir un comunicado.
         </p>
         <p>
-          <strong className="text-white">No somos un medio oficial.</strong> No
-          estamos afiliados a la FIA, a Formula One Management, a Liberty Media
-          ni a ningún equipo o piloto. Las marcas, logotipos y nombres
-          comerciales de la F1 pertenecen a sus respectivos dueños.
+          <strong className="text-white">No estamos afiliados</strong> a
+          Formula 1®, Formula One Management (FOM), la FIA ni a ningún equipo o
+          piloto. Las marcas y los nombres de la categoría pertenecen a sus
+          titulares. Boost F1 informa y opina; no representa a la competición.
         </p>
         <p>
-          Este sitio es una <strong className="text-white">base de
-          demostración</strong>: los artículos, clasificaciones y fechas de
-          carrera son contenido de muestra con personajes y datos ficticios.
-          Sirve para validar el diseño, el SEO, los espacios publicitarios y el
-          flujo editorial antes de conectar fuentes reales o automatización.
-        </p>
-        <p>
-          El proyecto está preparado para monetización futura con Google
-          AdSense: verás banners etiquetados como{" "}
-          <em>«Espacio publicitario»</em> listos para sustituir por el código
-          oficial cuando la cuenta esté aprobada. No inventamos IDs de AdSense.
-        </p>
-        <p>
-          Si quieres colaborar, sugerir temas o hablar de partnerships, este es
-          el momento de conectar un formulario o email real en una próxima
-          iteración.
+          En estas páginas hay noticias, análisis, resultados y columnas de
+          opinión. Cuando un dato está confirmado, lo tratamos como tal. Cuando
+          es una lectura nuestra, también se nota.
         </p>
       </div>
 

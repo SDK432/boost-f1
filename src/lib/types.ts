@@ -31,6 +31,6 @@ export interface NextRace {
   name: string;
   circuit: string;
   country: string;
-  date: string; // ISO date for countdown demo
+  date: string;
   round: number;
 }

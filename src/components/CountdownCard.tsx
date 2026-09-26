@@ -66,11 +66,7 @@ export default function CountdownCard() {
         </p>
 
         {time?.past ? (
-          <p className="text-sm text-zinc-300">
-            Fecha de demostración alcanzada. Actualiza{" "}
-            <code className="text-[#E10600]">src/lib/races.ts</code> para una
-            nueva cuenta atrás.
-          </p>
+          <p className="text-sm text-zinc-300">El gran premio ya ha comenzado.</p>
         ) : (
           <div className="grid grid-cols-4 gap-2">
             {units.map((u) => (
@@ -90,9 +86,6 @@ export default function CountdownCard() {
             ))}
           </div>
         )}
-        <p className="mt-4 text-[10px] text-zinc-600">
-          Fecha demo estática · temporada 2026 ficticia
-        </p>
       </div>
     </section>
   );

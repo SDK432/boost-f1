@@ -1,4 +1,3 @@
-import AdSlot from "@/components/AdSlot";
 import ArticleCard from "@/components/ArticleCard";
 import CountdownCard from "@/components/CountdownCard";
 import Hero from "@/components/Hero";
@@ -34,10 +33,6 @@ export default function HomePage() {
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
           <CountdownCard />
           <StandingsTeaser />
-          <AdSlot
-            size="rectangle"
-            label="Espacio publicitario — lateral"
-          />
         </aside>
       </div>
 

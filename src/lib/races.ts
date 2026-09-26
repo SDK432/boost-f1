@@ -1,6 +1,5 @@
 import type { NextRace } from "./types";
 
-/** Próxima carrera de demostración (temporada 2026 ficticia). */
 export const nextRace: NextRace = {
   name: "Gran Premio de Singapur",
   circuit: "Marina Bay Street Circuit",

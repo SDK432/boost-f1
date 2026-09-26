@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import AdSlot from "@/components/AdSlot";
 import ArticleCard from "@/components/ArticleCard";
 import ArticleCover from "@/components/ArticleCover";
 import {
@@ -116,29 +115,12 @@ export default async function ArticlePage({ params }: PageProps) {
 
           <div className="prose-f1 max-w-none">
             {article.body.map((paragraph, i) => (
-              <div key={i}>
-                <p>{paragraph}</p>
-                {i === 1 && (
-                  <div className="my-8">
-                    <AdSlot
-                      size="in-article"
-                      label="Espacio publicitario — en artículo"
-                    />
-                  </div>
-                )}
-              </div>
+              <p key={i}>{paragraph}</p>
             ))}
-          </div>
-
-          <div className="mt-10 rounded-lg border border-white/10 bg-zinc-950/80 p-4 text-xs text-zinc-500">
-            <strong className="text-zinc-400">Aviso:</strong> Este es un
-            artículo de demostración con contenido editorial original y
-            ficticio. No refleja hechos oficiales de la Fórmula 1.
           </div>
         </article>
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
-          <AdSlot size="rectangle" label="Espacio publicitario — lateral" />
           {sidebarRelated.length > 0 && (
             <div>
               <h2 className="mb-4 text-xs font-bold uppercase tracking-[0.2em] text-zinc-500">

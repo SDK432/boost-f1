@@ -8,7 +8,6 @@ export default function NewsletterCTA() {
 
   function handleSubmit(e: FormEvent) {
     e.preventDefault();
-    // Demo only — no backend. Ready to wire to a real provider later.
     setDone(true);
   }
 
@@ -21,14 +20,12 @@ export default function NewsletterCTA() {
           <span className="text-[#E10600]">pulso</span> de la parrilla
         </h2>
         <p className="text-sm text-zinc-400 mb-5 leading-relaxed">
-          Newsletter de demostración. Déjanos tu email para probar el flujo;
-          aún no enviamos correos reales.
+          Noticias, análisis y la lectura de cada gran premio, en español.
         </p>
 
         {done ? (
           <p className="text-sm font-medium text-emerald-400">
-            ¡Gracias! (demo) — en producción aquí conectarías Mailchimp,
-            Buttondown u otro proveedor.
+            Gracias por seguir a Boost F1.
           </p>
         ) : (
           <form

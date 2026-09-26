@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import AdSlot from "@/components/AdSlot";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -24,7 +23,7 @@ export const metadata: Metadata = {
     template: "%s | Boost F1",
   },
   description:
-    "Medio editorial independiente sobre Fórmula 1. Noticias, análisis, resultados y opinión. Contenido de demostración en español.",
+    "Medio independiente de noticias, análisis, resultados y opinión sobre Fórmula 1, en español.",
   keywords: [
     "Fórmula 1",
     "F1",
@@ -40,7 +39,7 @@ export const metadata: Metadata = {
     siteName: "Boost F1",
     title: "Boost F1 — Noticias y análisis de Fórmula 1",
     description:
-      "Medio editorial independiente sobre Fórmula 1. Contenido demo en español.",
+      "Noticias y análisis de Fórmula 1 para aficionados de habla hispana.",
   },
   twitter: {
     card: "summary_large_image",
@@ -65,9 +64,6 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <Header />
-        <div className="mx-auto w-full max-w-7xl px-4 pt-3 md:px-6">
-          <AdSlot size="leaderboard" label="Espacio publicitario — cabecera" />
-        </div>
         <main className="flex-1">{children}</main>
         <Footer />
       </body>

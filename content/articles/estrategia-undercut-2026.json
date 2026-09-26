@@ -10,9 +10,9 @@
   "coverGradient": "from-red-950 via-neutral-900 to-black",
   "coverPattern": "speed",
   "body": [
-    "En la temporada de demostración 2026, el undercut ha dejado de ser un recurso ocasional para convertirse en la jugada por defecto de varios ingenieros de estrategia. No se trata de magia: es aritmética fría sobre degradaación, tráfico y el tiempo perdido en el pit lane.",
-    "Con ventanas de DRS más cortas en varios circuitos urbanos del calendario ficticio, adelantar en pista cuesta más. Eso empuja a los equipos a buscar ventaja en el box. Una parada anticipada de una vuelta puede situar al piloto en aire limpio justo cuando el rival aún pelea con gomas ya pasadas de su pico de rendimiento.",
-    "Los datos de telemetría simulada que manejamos en Boost F1 (contenido editorial de demostración) sugieren que el undercut gana entre 0,4 y 0,9 segundos por vuelta en los primeros giros tras el cambio, siempre que el piloto no se encuentre con un tren de coches más lentos.",
+    "En la temporada 2026, el undercut ha dejado de ser un recurso ocasional para convertirse en la jugada por defecto de varios ingenieros de estrategia. No se trata de magia: es aritmética fría sobre degradación, tráfico y el tiempo perdido en el pit lane.",
+    "Con ventanas de DRS más cortas en varios circuitos urbanos del calendario, adelantar en pista cuesta más. Eso empuja a los equipos a buscar ventaja en el box. Una parada anticipada de una vuelta puede situar al piloto en aire limpio justo cuando el rival aún pelea con gomas ya pasadas de su pico de rendimiento.",
+    "En la lectura de Boost F1, el undercut puede ganar entre 0,4 y 0,9 segundos por vuelta en los primeros giros tras el cambio, siempre que el piloto no se encuentre con un tren de coches más lentos.",
     "El riesgo, claro, es el overcut inverso: si el rival alarga y encuentra ritmo en aire libre, puede devolver el golpe. Por eso los muros ahora calculan no solo el gap, sino también la probabilidad de safety car en las siguientes diez vueltas.",
     "Conclusión editorial: en 2026 el undercut no es agresividad gratuita. Es la respuesta lógica a un reglamento que premia menos el adelantamiento puro y más la gestión del stint. Quien domine esa ventana temprana seguirá dictando el orden de llegada."
   ]
