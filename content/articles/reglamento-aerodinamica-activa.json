@@ -1,0 +1,19 @@
+{
+  "slug": "reglamento-aerodinamica-activa",
+  "title": "Aerodinámica activa: lo que el aficionado debe entender del nuevo paquete",
+  "excerpt": "Explicamos, sin jerga innecesaria, cómo los elementos móviles cambian el compromiso entre carga y velocidad punta.",
+  "category": "noticias",
+  "author": "Diego Roldán",
+  "date": "2026-09-12",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-zinc-800 via-neutral-950 to-red-950",
+  "coverPattern": "grid",
+  "body": [
+    "La aerodinámica activa no es ciencia ficción ni un secreto de laboratorio. En este escenario editorial de 2026, los monoplazas pueden variar la incidencia de ciertos elementos al paso por recta y curva, con límites claros marcados por la FIA ficticia de nuestro universo demo.",
+    "En términos simples: más carga en curva para girar, menos resistencia en recta para ganar velocidad punta. El truco está en cuándo y cuánto se permite el cambio. Si la transición es demasiado brusca, el piloto siente un coche 'inestable'; si es demasiado lenta, se pierde la ventaja.",
+    "Los equipos con mejor correlación entre túnel de viento y pista están sacando más partido del sistema. No porque tengan 'más downforce mágico', sino porque calibran mejor el mapa de activación según el tipo de curva y la temperatura del asfalto.",
+    "Para el aficionado, el efecto visible será doble: rectas un poco más rápidas y combates más cerrados en zonas mixtas. Pero también habrá más discusiones sobre legalidad y sensores: cualquier sistema activo invita a la vigilancia técnica.",
+    "En Boost F1 lo vemos como una evolución natural, no como una revolución. El espectáculo gana si el reglamento mantiene el equilibrio entre ingenio y igualdad competitiva."
+  ]
+}
