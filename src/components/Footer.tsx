@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { allCategories, categoryLabels } from "@/lib/categories";
+import Logo from "@/components/Logo";
 
 export default function Footer() {
   return (
@@ -8,9 +9,7 @@ export default function Footer() {
         <div className="grid gap-10 md:grid-cols-3">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <span className="flex h-8 w-8 items-center justify-center bg-[#E10600] font-black text-white text-sm">
-                B
-              </span>
+              <Logo />
               <span className="text-lg font-bold text-white">Boost F1</span>
             </div>
             <p className="text-sm text-zinc-400 leading-relaxed">

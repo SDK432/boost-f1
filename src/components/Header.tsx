@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { allCategories, categoryLabels } from "@/lib/categories";
+import Logo from "@/components/Logo";
 
 export default function Header() {
   const [open, setOpen] = useState(false);
@@ -11,9 +12,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-white/10 bg-black/90 backdrop-blur-md">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 md:px-6">
         <Link href="/" className="group flex items-center gap-2 shrink-0">
-          <span className="flex h-8 w-8 items-center justify-center bg-[#E10600] font-black text-white text-sm tracking-tighter">
-            B
-          </span>
+          <Logo eager />
           <span className="text-lg font-bold tracking-tight text-white group-hover:text-[#E10600] transition-colors">
             Boost F1
           </span>
