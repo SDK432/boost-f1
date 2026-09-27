@@ -43,6 +43,22 @@ export default function Footer() {
                   Quiénes somos
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="/contacto"
+                  className="text-sm text-zinc-300 hover:text-[#E10600] transition-colors"
+                >
+                  Contacto
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/privacidad"
+                  className="text-sm text-zinc-300 hover:text-[#E10600] transition-colors"
+                >
+                  Política de privacidad
+                </Link>
+              </li>
             </ul>
           </div>
 
