@@ -51,14 +51,6 @@ export default function Footer() {
                   Contacto
                 </Link>
               </li>
-              <li>
-                <Link
-                  href="/privacidad"
-                  className="text-sm text-zinc-300 hover:text-[#E10600] transition-colors"
-                >
-                  Política de privacidad
-                </Link>
-              </li>
             </ul>
           </div>
 
@@ -78,7 +70,15 @@ export default function Footer() {
           <p className="text-xs text-zinc-600">
             © {new Date().getFullYear()} Boost F1
           </p>
-          <p className="text-xs text-zinc-600">Noticias y análisis en español</p>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
+            <Link
+              href="/privacidad"
+              className="text-xs text-zinc-600 hover:text-zinc-400 transition-colors"
+            >
+              Política de privacidad
+            </Link>
+            <p className="text-xs text-zinc-600">Noticias y análisis en español</p>
+          </div>
         </div>
       </div>
     </footer>

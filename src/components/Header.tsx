@@ -19,7 +19,7 @@ export default function Header() {
           </span>
         </Link>
 
-        <nav className="hidden md:flex flex-1 flex-wrap items-center justify-end gap-x-1 gap-y-1">
+        <nav className="hidden md:flex items-center gap-1">
           <Link
             href="/"
             className="px-3 py-2 text-sm text-zinc-300 hover:text-white transition-colors"
@@ -46,12 +46,6 @@ export default function Header() {
             className="px-3 py-2 text-sm text-zinc-300 hover:text-white transition-colors"
           >
             Contacto
-          </Link>
-          <Link
-            href="/privacidad"
-            className="px-3 py-2 text-sm text-zinc-300 hover:text-white transition-colors"
-          >
-            Política de privacidad
           </Link>
         </nav>
 
@@ -112,13 +106,6 @@ export default function Header() {
             onClick={() => setOpen(false)}
           >
             Contacto
-          </Link>
-          <Link
-            href="/privacidad"
-            className="px-3 py-3 text-sm text-zinc-200 hover:bg-white/5 rounded"
-            onClick={() => setOpen(false)}
-          >
-            Política de privacidad
           </Link>
         </nav>
       )}
