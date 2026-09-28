@@ -13,6 +13,7 @@ export default function ArticleCard({ article }: ArticleCardProps) {
       <Link href={`/articulo/${article.slug}`} className="block">
         <ArticleCover
           article={article}
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           className="aspect-[16/10] w-full transition duration-500 group-hover:scale-[1.02]"
         />
       </Link>
