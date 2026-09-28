@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { allCategories, categoryLabels } from "@/lib/categories";
 
@@ -8,9 +9,13 @@ export default function Footer() {
         <div className="grid gap-10 md:grid-cols-3">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <span className="flex h-8 w-8 items-center justify-center bg-[#E10600] font-black text-white text-sm">
-                B
-              </span>
+              <Image
+                src="/logo.svg"
+                alt="Boost F1"
+                width={36}
+                height={36}
+                className="h-9 w-9 shrink-0"
+              />
               <span className="text-lg font-bold text-white">Boost F1</span>
             </div>
             <p className="text-sm text-zinc-400 leading-relaxed">
