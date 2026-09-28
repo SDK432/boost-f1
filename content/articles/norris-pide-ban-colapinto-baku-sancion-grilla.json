@@ -1,0 +1,35 @@
+{
+  "slug": "norris-pide-ban-colapinto-baku-sancion-grilla",
+  "title": "Norris pide un ban de una carrera a Colapinto; Russell y Verstappen lo ven excesivo",
+  "excerpt": "Tras el choque en el reinicio de Bakú, Norris exige al menos un race ban; los comisarios convierten 10 s en cinco puestos de grilla en Sepang.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-09-28",
+  "readingMinutes": 5,
+  "featured": true,
+  "coverGradient": "from-red-950 via-neutral-950 to-stone-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/norris-pide-ban-colapinto-baku-sancion-grilla/cover.jpg",
+  "body": [
+    "El reinicio del Gran Premio de Azerbaiyán dejó más que restos de fibra de carbono. Dejó una grieta abierta entre quienes pedían castigo ejemplar y quienes pedían contexto.",
+    "Lando Norris, eliminado en la cadena de contactos de la curva 1, no midió las palabras. Pidió, como mínimo, una suspensión de una carrera para Franco Colapinto. “Give him a ban”, resumió. Añadió que la Federación debería ser más dura con este tipo de episodios, que hay piezas que terminan en el contenedor y que, a su juicio, hay conductores que no merecen estar en la Fórmula 1 si provocan un accidente en un reinicio de ese modo.",
+    "El argentino de Alpine se había trabado al frenar por el interior, perdió el control y golpeó a su compañero Pierre Gasly. El impacto empujó al francés hacia el McLaren. Los tres acabaron fuera de la carrera. Colapinto asumió el error de inmediato: se disculpó, reconoció el bloqueo de frenos y admitió que el coche se le fue de las manos.",
+    "En la sala de cooldown y en la rueda de prensa, el tono fue otro. George Russell, ganador de la prueba, calificó de excesiva la idea de un race ban. Argumentó que en reinicios con neumáticos fríos un error pequeño puede tener consecuencias enormes, y que lo que vio encaja en esa lógica: un fallo, no una acción deliberadamente temeraria.",
+    "Max Verstappen coincidió. Subrayó que, si el responsable es consciente y se disculpa, el episodio entra en el terreno de la mala suerte y el mal juicio en una zona de poco agarre. Un race ban, dijo, probablemente es demasiado. Isack Hadjar, tercero, apuntó al propio circuito: fuera de la línea ideal Bakú se vuelve irregular y genera poco grip; detrás del safety car cuesta calentar, se fuerza el frenaje y el resultado puede ser desproporcionado.",
+    "Los stewards no entraron en el debate público. Determinaron que Colapinto fue total o predominantemente culpable. Impusieron la pena estándar por causar una colisión: diez segundos. Como el argentino ya estaba retirado y no podía cumplirlos en pista, la sanción se convirtió en un descenso de cinco puestos en la grilla de la próxima carrera en la que participe.",
+    "Esa próxima cita es el Gran Premio de Baréin en Malasia, en el circuito de Sepang, del 2 al 4 de octubre de 2026. Colapinto llegará, pues, con un hándicap de salida. Norris, en cambio, se fue de Bakú sin puntos y con el monoplaza destrozado; McLaren aún evalúa el alcance del daño sobre las piezas nuevas estrenadas en Azerbaiyán.",
+    "El choque abre una pregunta más amplia que la de una sola sanción: ¿dónde se dibuja la línea entre un error de reinicio y una conducción que merece exclusión temporal? Bakú dejó la polémica viva. Sepang la tendrá de fondo cuando se apaguen los semáforos."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/norris-pide-ban-colapinto-baku-sancion-grilla/contacto.jpg",
+      "alt": "Ilustración geométrica de tres monoplazas genéricos en un contacto, sin libreas ni logos",
+      "afterParagraph": 2
+    },
+    {
+      "src": "/articles/norris-pide-ban-colapinto-baku-sancion-grilla/reinicio.jpg",
+      "alt": "Infografía editorial: reinicio, neumáticos fríos y poco agarre",
+      "afterParagraph": 4
+    }
+  ]
+}

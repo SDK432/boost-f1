@@ -6,7 +6,7 @@
   "author": "Rick Aules",
   "date": "2026-09-27",
   "readingMinutes": 5,
-  "featured": true,
+  "featured": false,
   "coverGradient": "from-red-950 via-neutral-950 to-amber-950",
   "coverPattern": "circuit",
   "coverImage": "/articles/russell-gana-baku-2026/cover.jpg",
