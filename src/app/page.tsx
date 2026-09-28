@@ -13,7 +13,7 @@ export default function HomePage() {
     <div className="mx-auto max-w-7xl px-4 py-8 md:px-6 md:py-10 space-y-10">
       {featured && <Hero article={featured} />}
 
-      <div className="grid gap-8 lg:grid-cols-[1fr_320px]">
+      <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_26rem]">
         <section>
           <div className="mb-6 flex items-end justify-between gap-4">
             <div>
