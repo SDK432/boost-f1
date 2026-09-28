@@ -84,7 +84,7 @@ Marca visible del sitio: **Boost F1**.
 
 ## Datos del sitio
 
-- Clasificación: `src/lib/standings.ts`
+- Clasificación 2026 (tras el GP de Azerbaiyán): `src/lib/standings.ts`
 - Próxima carrera / countdown: `src/lib/races.ts`
 
 ## Despliegue en Railway
