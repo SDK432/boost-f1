@@ -3,7 +3,7 @@
   "title": "Russell gana en Bakú por dos décimas; Norris pide sanción dura a Colapinto",
   "excerpt": "George Russell resistió a Max Verstappen hasta la bandera en Azerbaiyán. El accidente de Colapinto dejó fuera a Norris y Gasly y encendió el debate sobre una posible sanción de carrera.",
   "category": "resultados",
-  "author": "Redacción Boost F1",
+  "author": "Rick Aules",
   "date": "2026-09-27",
   "readingMinutes": 5,
   "featured": true,
@@ -21,9 +21,14 @@
   ],
   "bodyImages": [
     {
-      "src": "/articles/russell-gana-baku-2026/safety.jpg",
-      "alt": "Ambiente de boxes y safety car en un Gran Premio nocturno",
+      "src": "/articles/russell-gana-baku-2026/circuito.jpg",
+      "alt": "Circuito urbano de Bakú de día, con las murallas de la Ciudad Vieja y las Flame Towers",
       "afterParagraph": 2
+    },
+    {
+      "src": "/articles/russell-gana-baku-2026/podio.jpg",
+      "alt": "Piloto de espaldas, con el casco puesto, levanta el trofeo frente a las Flame Towers",
+      "afterParagraph": 6
     }
   ]
 }
