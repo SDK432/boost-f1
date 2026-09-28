@@ -1,0 +1,36 @@
+{
+  "slug": "briatore-alpine-colapinto-maniobra-pobre-baku",
+  "title": "Briatore tilda de “muy pobre” la maniobra de Colapinto y evalúa “qué curso de acción” tomar",
+  "excerpt": "Alpine pierde ambos coches y puntos potenciales en Bakú; Briatore critica el error de Colapinto y deja abierta una respuesta interna.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-09-28",
+  "readingMinutes": 5,
+  "featured": true,
+  "coverGradient": "from-blue-950 via-neutral-950 to-stone-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/briatore-alpine-colapinto-maniobra-pobre-baku/cover.jpg",
+  "body": [
+    "Para Alpine, Bakú no fue solo un abandono doble. Fue una tarde que se estaba escribiendo en positivo y se borró en una sola curva.",
+    "Antes del reinicio, ambos monoplazas rodaban en zona de puntos. Pierre Gasly había construido un fin de semana sólido. Franco Colapinto intentó aprovechar el relanzamiento por el interior de la curva 1, frenó demasiado tarde, se trabó y embistió al compañero. El efecto dominó también a Lando Norris. Los tres se quedaron sin carrera. Alpine pasó de aspirar a un botín de puntos a sumar cero.",
+    "Flavio Briatore no suavizó el diagnóstico. En el comunicado del equipo habló de decepción extrema por el resultado y por los puntos perdidos en la lucha de constructores. Calificó la acción de “very poor move” —una maniobra muy pobre— para un piloto con la experiencia de Colapinto, y remarcó que frenó demasiado tarde teniendo en cuenta el contexto del reinicio tras el safety car.",
+    "Briatore extendió las disculpas al equipo, a Gasly —a quien elogió por el trabajo de todo el fin de semana— y también a Norris y a McLaren por haberles arruinado la carrera. Anunció que tomará tiempo para reflexionar y “considerar qué curso de acción debería tomarse”, con el objetivo de aprender y evitar que se repita.",
+    "Colapinto no esquivó la responsabilidad. Se disculpó por radio y después en declaraciones: reconoció el gran error, el bloqueo y la pérdida de control. Gasly, por su parte, se mostró aplastado y decepcionado: no solo perdió su resultado, sino que lo hizo por contacto con el coche hermano.",
+    "Más allá de la sanción deportiva —diez segundos convertidos en cinco puestos de grilla en Sepang—, el mensaje de Briatore deja abierta una capa interna. Alpine no ha detallado en público medidas disciplinarias concretas, pero el tono deja claro que el episodio no se archivará como un simple “incidente de carrera”. En un deporte donde el compañero es a la vez escudo y amenaza, chocar al auto hermano en zona de puntos duele dos veces: en la clasificación y en la confianza del garaje.",
+    "En el campeonato de constructores, cada punto cuenta en la zona media. Alpine llegó a Bakú necesitando coherencia de ambos coches; se fue con dos ceros y un piloto bajo escrutinio. El doble abandono no solo borra el botín del domingo: también complica la narrativa de progreso que el equipo intentaba sostener frente a rivales directos de la zona media.",
+    "El próximo fin de semana, en Sepang, Colapinto largará con penalización de grilla. Gasly buscará recuperar el terreno perdido y demostrar que el ritmo de Azerbaiyán no fue un espejismo. Y la dirección del equipo deberá demostrar si el “curso de acción” se traduce en mensajes internos, ajustes de procedimiento en reinicios… o algo más visible ante los medios.",
+    "Bakú dejó a Alpine sin recompensa y con una pregunta incómoda: ¿cuánto se puede tolerar un error propio cuando arrastra al compañero y a un rival? Briatore ya puso la frase. Falta ver la respuesta antes de que se apaguen los semáforos en Malasia."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/briatore-alpine-colapinto-maniobra-pobre-baku/puntos.jpg",
+      "alt": "Infografía editorial: puntos de constructores que caen a cero tras Curva 1",
+      "afterParagraph": 2
+    },
+    {
+      "src": "/articles/briatore-alpine-colapinto-maniobra-pobre-baku/freno.jpg",
+      "alt": "Asfalto urbano de día con marca de frenada bloqueada y overlay reinicio",
+      "afterParagraph": 5
+    }
+  ]
+}

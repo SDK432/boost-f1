@@ -6,7 +6,7 @@
   "author": "Rick Aules",
   "date": "2026-09-28",
   "readingMinutes": 5,
-  "featured": true,
+  "featured": false,
   "coverGradient": "from-red-950 via-neutral-950 to-stone-900",
   "coverPattern": "circuit",
   "coverImage": "/articles/norris-pide-ban-colapinto-baku-sancion-grilla/cover.jpg",
