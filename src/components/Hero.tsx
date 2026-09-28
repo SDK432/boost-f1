@@ -14,6 +14,8 @@ export default function Hero({ article }: HeroProps) {
         <ArticleCover
           article={article}
           large
+          preload
+          sizes="(max-width: 768px) 100vw, 50vw"
           className="min-h-[220px] md:min-h-full md:order-2"
         />
         <div className="relative flex flex-col justify-end bg-zinc-950 p-6 md:p-10 md:order-1">

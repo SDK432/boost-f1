@@ -6,7 +6,7 @@
   "author": "Carla Méndez",
   "date": "2026-09-18",
   "readingMinutes": 6,
-  "featured": true,
+  "featured": false,
   "coverGradient": "from-red-950 via-neutral-900 to-black",
   "coverPattern": "speed",
   "body": [

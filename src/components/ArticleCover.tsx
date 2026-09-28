@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { Article } from "@/lib/types";
 
 const patterns: Record<Article["coverPattern"], string> = {
@@ -10,16 +11,40 @@ const patterns: Record<Article["coverPattern"], string> = {
 };
 
 interface ArticleCoverProps {
-  article: Pick<Article, "coverGradient" | "coverPattern" | "title">;
+  article: Pick<
+    Article,
+    "coverGradient" | "coverPattern" | "title" | "coverImage"
+  >;
   className?: string;
   large?: boolean;
+  sizes?: string;
+  preload?: boolean;
 }
 
 export default function ArticleCover({
   article,
   className = "",
   large = false,
+  sizes = "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
+  preload = false,
 }: ArticleCoverProps) {
+  if (article.coverImage) {
+    return (
+      <div className={`relative overflow-hidden bg-zinc-950 ${className}`}>
+        <Image
+          src={article.coverImage}
+          alt={article.title}
+          fill
+          preload={preload}
+          sizes={sizes}
+          className="object-cover"
+        />
+        <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-black/15" />
+        <div className="absolute top-0 left-0 z-10 h-full w-1 bg-[#E10600]" />
+      </div>
+    );
+  }
+
   return (
     <div
       className={`relative overflow-hidden bg-gradient-to-br ${article.coverGradient} ${className}`}
