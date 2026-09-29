@@ -1,0 +1,43 @@
+{
+  "slug": "mercedes-w17-upgrade-paquete-aerodinamico-sepang-malasia",
+  "title": "Mercedes rompe el freeze del W17: el paquete aerodinámico llega a Sepang",
+  "excerpt": "Tras Bakú sin gran update, Mercedes confirma que el desarrollo serio del W17 llega «desde Malasia en adelante». Sepang mezcla calor, rectas largas y el fantasma del superclipping.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-09-29",
+  "readingMinutes": 6,
+  "featured": false,
+  "coverGradient": "from-red-950 via-neutral-950 to-stone-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/mercedes-w17-upgrade-paquete-aerodinamico-sepang-malasia/cover.jpg",
+  "body": [
+    "Bakú fue victoria y alivio para George Russell. Para el departamento técnico de Mercedes, fue también el último fin de semana de espera.",
+    "Andrew Shovlin, director de ingeniería en pista, lo dejó dicho con claridad en el podcast NUNU Silver Arrows Radio Show: en Azerbaiyán no llegaba “mucho nuevo”, porque el circuito urbano premia drag bajo y velocidad punta más que carga pura. El paquete gordo, en cambio, viene desde Malasia en adelante.",
+    "«The updates… they're going to come Malaysia onwards and hopefully we'll make a decent step», explicó Shovlin. Y añadió la ambición realista del muro: no esperan volver a dominar “por millas”, pero sí recuperar la sensación de pelear la pole sabiendo que el coche está otra vez en la pelea de verdad.",
+    "Por qué el timing importa",
+    "Desde el Gran Premio de Canadá, cuando Mercedes estrenó un paquete amplio (alerón delantero, piso, pontones, carrocería y elementos ligados al difusor), el W17 vivió un tramo relativamente “congelado” en desarrollo visible. Mientras tanto, rivales como McLaren y Ferrari siguieron empujando actualizaciones. El liderazgo en ambos campeonatos no se derrumbó —Antonelli 302, Russell 236 tras Bakú; Mercedes cómodo en constructores—, pero el margen se estrechó respecto al inicio de temporada.",
+    "Sepang, sede del GP de Baréin en Malasia (2–4 octubre 2026), no es Bakú. Son 5,543 km, 15 curvas, dos rectas largas y un histórico de calor húmedo que pone el índice térmico cerca de los 40 °C. Lluvia tropical siempre en el radar. Para un monoplaza 2026 —menor carga aerodinámica que la generación anterior, más peso eléctrico, modos de recta y overtake—, el circuito es un laboratorio cruel.",
+    "Superclipping, modos y neumáticos",
+    "Las dos rectas de Sepang reabren el debate del superclipping: cuando la batería se vacía a fondo de acelerador y el sistema prioriza regenerar, el piloto siente que el coche “no empuja” aunque el pie esté a tabla. Tras ajustes de la FIA a lo largo del año, el fenómeno se atenuó, pero trazados de alta velocidad media —Monza ya dio pistas; Sepang puede ser más exigente— vuelven a ponerlo en el centro.",
+    "El mapa del evento marca dos zonas de Straight Mode (meta hacia T1/T2 y la recta trasera hacia T15) y puntos de detección/activación de Overtake Mode alrededor del hairpin. Traducción periodística: habrá adelantamientos… si la energía y los neumáticos acompañan.",
+    "Históricamente Sepang castiga el eje delantero-izquierdo y premia quien gestiona degradación en asfalto abrasivo. Con compuestos habitualmente duros y temperaturas de pista altas, el upgrade de Mercedes no puede ser solo “más carga”: tiene que funcionar cuando el coche ya va caliente, con batería al límite y con un set-up que no destruya el tren delantero en el sector 1.",
+    "Russell, Antonelli y el motor que aún falta",
+    "Russell llegó a Bakú con ritmo renovado y se llevó la victoria por apenas 0,196 s sobre Max Verstappen. El británico ha dicho en público que esta forma, si hubiera llegado antes, habría cambiado su temporada. El update de Sepang es la respuesta del equipo a esa ventana: convertir una victoria “de oportunidad” en una base de fin de semana.",
+    "En paralelo, Mercedes sigue trabajando una unidad de potencia mejorada. La instalación en el coche de Russell —con la penalización de grilla asociada— se baraja más adelante (ventana Estados Unidos / México, según filtraciones del paddock), no necesariamente en Malasia. Es decir: Sepang es, sobre todo, chasis y aero; el motor “extra” queda para el sprint final del campeonato.",
+    "Lectura Boost F1",
+    "Si el paquete funciona, Mercedes puede volver a clasificar con la certeza que Shovlin describe. Si no, el paddock interpretará que el freeze costó ritmo cuando Ferrari y McLaren sí actualizaron. Antonelli sigue con 66 puntos de colchón; Russell necesita que cada upgrade se traduzca en domingos de 25 puntos y en tropiezos del líder. Sepang es el primer examen serio de esa ecuación post-Bakú.",
+    "Boost F1 cubrirá libres, correlación de datos y si el W17 “nuevo” se nota ya el viernes… o necesita el domingo para hablar."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/mercedes-w17-upgrade-paquete-aerodinamico-sepang-malasia/piso.jpg",
+      "alt": "Detalle del piso y un endplate de fibra de carbono de un monoplaza, en un taller iluminado por luz natural",
+      "afterParagraph": 4
+    },
+    {
+      "src": "/articles/mercedes-w17-upgrade-paquete-aerodinamico-sepang-malasia/infografia.jpg",
+      "alt": "Esquema de Sepang: dos zonas de Straight Mode en las rectas y Overtake en el hairpin",
+      "afterParagraph": 8
+    }
+  ]
+}
