@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Article } from "@/lib/types";
 import { categoryLabels, formatDate } from "@/lib/articles";
 import ArticleCover from "./ArticleCover";
+import RelativeTime from "./RelativeTime";
 
 interface ArticleCardProps {
   article: Article;
@@ -38,7 +39,7 @@ export default function ArticleCard({ article }: ArticleCardProps) {
         </p>
         <div className="flex items-center justify-between text-xs text-zinc-500">
           <span>{article.author}</span>
-          <span>{article.readingMinutes} min</span>
+          <RelativeTime date={article.date} />
         </div>
       </div>
     </article>
