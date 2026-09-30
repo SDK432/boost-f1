@@ -1,0 +1,41 @@
+{
+  "slug": "sepang-lluvia-primera-sesion-mojada-2026-pronostico",
+  "title": "Sepang se prepara para lluvia y tormenta: 2026 aún no ha tenido una sesión mojada competitiva",
+  "excerpt": "Pronósticos de fin de septiembre apuntan a lluvia en Malasia, pero los porcentajes no coinciden. En 2026 todavía no hubo una sesión mojada competitiva.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-09-30",
+  "readingMinutes": 6,
+  "featured": false,
+  "coverGradient": "from-red-950 via-neutral-950 to-stone-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/sepang-lluvia-primera-sesion-mojada-2026-pronostico/cover.jpg",
+  "body": [
+    "El paddock llega a Kuala Lumpur con el radar encendido. El FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 se disputa en Sepang del 2 al 4 de octubre, y el jueves 1 es el último día seco de papel antes de que los monoplazas salgan a pista. El clima, como casi siempre en Malasia, es el invitado que nadie controla del todo.",
+    "Lo que sí está en las mesas de ingeniería es un dato incómodo de temporada: según F1.com (29 sep 2026), el campeonato llega a la ronda 16 sin haber visto todavía una sesión completamente mojada en 2026. No una carrera bajo agua: ni siquiera una tanda competitiva en condiciones wet de verdad. Sepang, históricamente, es el escenario donde esa racha puede romperse… o no. El pronóstico no es una sentencia.",
+    "Dos mapas, dos lecturas",
+    "Los medios no coinciden en los porcentajes, y conviene citarlos por separado.",
+    "GPFans (29 sep 2026) dibuja un fin de semana tormentoso: viernes con alrededor del 81 % de probabilidad de lluvia; sábado cerca del 69 % de lluvia y unos 41 % de tormenta; domingo cerca del 90 % de lluvia. En su tabla, el domingo es el día con mayor chance de precipitación del evento.",
+    "Grande Prêmio (28 sep) y GPblog (29 sep) manejan otra foto: domingo con cerca del 75 % de lluvia por la tarde y unos 3,6 mm estimados; índice de calor que puede rozar los 43 °C el viernes y situarse cerca de los 40 °C el domingo. Grande Prêmio subraya, con razón, que un porcentaje alto no equivale a afirmar que lloverá durante la carrera de las 15:00 MYT.",
+    "La diferencia entre 75 y 90 no es un detalle cosmético: es exactamente el tipo de margen que obliga a los equipos a preparar dos planes de viernes y a no casarse con un solo escenario.",
+    "Voces del paddock",
+    "Kimi Antonelli, líder del Mundial con 302 puntos tras Bakú, ya miró el radar. En la previa de F1.com habló de lluvia «pretty heavily at a specific time of the day»: bastante fuerte, en un momento concreto del día. No anunció diluvio de domingo; señaló un patrón tropical típico de Sepang.",
+    "En McLaren, Randy Singh fue más estructural. En la preview del equipo (29 sep), el Senior Director Racing explicó que la lluvia intensa de tarde entra en la preparación precisamente porque, bajo el reglamento actual, aún no ha habido sesiones mojadas competitivas, y Sepang es capaz de descargar con intensidad. Para un equipo que vuelve a un circuito sin datos recientes de esta generación de coches, un FP1 o FP2 interrumpido por agua no es solo “espejo mojado”: es perder el laboratorio del viernes.",
+    "Qué dice el reloj (y qué no)",
+    "El programa oficial en hora local (MYT) marca FP1 12:30–13:30 y FP2 16:00–17:00 el viernes; FP3 12:30–13:30 y clasificación 16:00–17:00 el sábado; carrera domingo 15:00, 56 vueltas sobre 5,543 km. Las ventanas de tarde —FP2, quali, carrera— son las que históricamente coinciden con chaparrones en la región.",
+    "Boost F1 no va a vender certeza meteorológica. Lo que sí se puede afirmar con lo publicado a finales de septiembre es esto: hay riesgo de lluvia en los tres días; los porcentajes varían según la fuente; y 2026 todavía no ha estrenado una sesión wet competitiva. Si el cielo abre el viernes, el fin de semana de Sepang deja de ser solo un regreso nostálgico y se convierte en el primer examen real de neumáticos de lluvia, visibilidad y criterios de bandera… con media parrilla sin kilómetros de F1 en ese asfalto.",
+    "El viernes, a las 12:30 MYT, el asfalto hablará. Hasta entonces, el radar manda más que el simulador."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/sepang-lluvia-primera-sesion-mojada-2026-pronostico/infografia.jpg",
+      "alt": "Infografía editorial Boost F1: pronóstico de lluvia en Sepang el viernes, sábado y domingo, y la racha de 2026 sin sesión mojada",
+      "afterParagraph": 6
+    },
+    {
+      "src": "/articles/sepang-lluvia-primera-sesion-mojada-2026-pronostico/boxes.jpg",
+      "alt": "Pit lane de Sepang bajo la lluvia, con un monoplaza naranja en boxes y el asfalto cubierto de charcos",
+      "afterParagraph": 9
+    }
+  ]
+}
