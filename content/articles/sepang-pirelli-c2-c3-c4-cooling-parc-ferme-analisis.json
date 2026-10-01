@@ -1,0 +1,42 @@
+{
+  "slug": "sepang-pirelli-c2-c3-c4-cooling-parc-ferme-analisis",
+  "title": "C2, C3 y C4, y batería caliente: el viernes de Sepang decide estrategia y refrigeración",
+  "excerpt": "Pirelli lleva C2, C3 y C4 para acercar una y dos paradas. El calor de 2026 convierte la refrigeración en parc fermé en una apuesta de sábado.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-09-30",
+  "readingMinutes": 6,
+  "featured": false,
+  "coverGradient": "from-red-950 via-neutral-950 to-stone-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/sepang-pirelli-c2-c3-c4-cooling-parc-ferme-analisis/cover.jpg",
+  "body": [
+    "Sepang no perdona improvisaciones. Tras nueve años fuera del calendario, el circuito malasio vuelve con asfalto abrasivo, calor húmedo y una generación de monoplazas 2026 que aquí no tiene historial. El viernes no es “rodaje de costumbre”: es el único laboratorio serio antes de que el parc fermé cierre apuestas.",
+    "El trío intermedio de Pirelli",
+    "Pirelli confirmó para el GP de Baréin en Malasia los compuestos C2 (duro), C3 (medio) y C4 (blando) —la terna intermedia del rango—. En su comunicado de septiembre de 2026, el proveedor sitúa la severidad del trazado en un nivel medio, comparable a Spa y Shanghái: energía a través del neumático sin llegar a los extremos más duros del calendario.",
+    "La elección no es inocente. En la nota de selección de compuestos (27 ago 2026) y en la previa de Sepang, Pirelli explica el objetivo: reducir la diferencia de tiempo entre una estrategia a una parada y otra a dos, abriendo el abanico estratégico sobre un asfalto relativamente abrasivo. El grip el viernes suele ser bajo y debería mejorar a medida que el circuito se “goma”; la gestión térmica en ambos ejes será el tema de cada debrief.",
+    "Calor 2026: menos electricidad en las rectas",
+    "GPblog (29 sep) pone el dedo en la otra herida del regreso. Con las unidades de potencia actuales, una batería caliente implica menos despliegue eléctrico. En Sepang eso duele doble: hay dos rectas largas donde la energía extra decide remates y defensas.",
+    "El mismo medio describe un escenario de cockpit entre unos 40 y 50 °C y pista que podría acercarse a los 60 °C. Es una proyección periodística de GPblog, no un dato oficial de la FIA: hay que leerlo como escenario de trabajo, no como medición homologada. Aun así, el problema de fondo es real para los muros: refrigerar de más pesa y resta; refrigerar de menos derratea la batería cuando más se necesita.",
+    "Y aquí llega el nudo: la configuración de cooling se cierra en parc fermé a partir de la clasificación. Apostar a seco-caliente o a fresco-lluvia el sábado es una decisión que el domingo ya no se corrige con un destornillador. Si el radar del domingo se equivoca —o si el equipo se equivoca leyéndolo—, el monoplaza paga en recta lo que el box no pudo reabrir.",
+    "McLaren: validar Bakú, no reinventar el coche",
+    "Randy Singh, en la preview de McLaren (29 sep), encuadra Sepang como un ejercicio de equilibrio entre carga y drag: las rectas premian potencia y despliegue; el abanico de curvas pide carga. Tras el paquete gordo estrenado en Azerbaiyán, el equipo no trae otro gran update a Malasia, aunque sí espera carrocería específica de circuito.",
+    "GPblog recoge la misma línea: McLaren espera sacar más jugo del paquete de Bakú en un trazado con mayor variedad de curvas que las calles de Azerbaiyán. Norris y Piastri, además, nunca han corrido aquí en F1; el viernes es, para ellos y para medio paddock, el primer contacto real con este asfalto en esta generación de coches.",
+    "Singh también recuerda el matiz estratégico: históricamente Sepang premiaba gestionar degradación alta y elegir la secuencia más rápida; con las nuevas UP, si adelantar cuesta más, ese equilibrio puede moverse. Añádase lluvia intensa de tarde —sin wet competitivas aún en 2026— y el viernes es correlación, neumáticos, refrigeración y radar.",
+    "Lectura Boost F1",
+    "El Mundial llega con Mercedes arriba en constructores (538) y Antonelli/Russell 1-2; Ferrari (378) y McLaren (306) persiguen. Sepang no se gana solo con la tabla: se gana quien lea el C3 en asfalto verde, no queme la batería en las rectas y acierte el cooling antes del parc fermé.",
+    "Boost F1 mirará el viernes con tres cronómetros: degradación Pirelli, temperatura de batería y si alguien apuesta set-up de lluvia… sabiendo que el sábado puede castigarlo."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/sepang-pirelli-c2-c3-c4-cooling-parc-ferme-analisis/infografia.jpg",
+      "alt": "Infografía Boost F1: compuestos Pirelli C2, C3 y C4 y escenarios de refrigeración en parc fermé en Sepang",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/sepang-pirelli-c2-c3-c4-cooling-parc-ferme-analisis/monitores.jpg",
+      "alt": "Monitores de pit y curvas térmicas genéricas en un box diurno, sin marcas identificables",
+      "afterParagraph": 7
+    }
+  ]
+}
