@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import ArticleBody from "@/components/ArticleBody";
 import ArticleCard from "@/components/ArticleCard";
 import ArticleCover from "@/components/ArticleCover";
 import {
@@ -10,7 +10,6 @@ import {
   getAllArticles,
   getArticleBySlug,
 } from "@/lib/articles";
-import type { Article } from "@/lib/types";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -50,13 +49,6 @@ export async function generateMetadata({
       images: article.coverImage ? [article.coverImage] : undefined,
     },
   };
-}
-
-function imagesAfterParagraph(article: Article, index: number) {
-  const fallbackIndex = Math.max(article.body.length - 1, 0);
-  return (article.bodyImages ?? []).filter(
-    (image) => (image.afterParagraph ?? fallbackIndex) === index
-  );
 }
 
 export default async function ArticlePage({ params }: PageProps) {
@@ -135,26 +127,7 @@ export default async function ArticlePage({ params }: PageProps) {
             className="mb-8 aspect-[21/9] w-full rounded-xl"
           />
 
-          <div className="prose-f1 max-w-none">
-            {article.body.map((paragraph, i) => (
-              <div key={i}>
-                <p>{paragraph}</p>
-                {imagesAfterParagraph(article, i).map((image) => (
-                  <figure key={image.src} className="my-8">
-                    <div className="relative aspect-video w-full overflow-hidden rounded-xl border border-white/10">
-                      <Image
-                        src={image.src}
-                        alt={image.alt}
-                        fill
-                        sizes="(max-width: 1024px) 100vw, 720px"
-                        className="object-cover"
-                      />
-                    </div>
-                  </figure>
-                ))}
-              </div>
-            ))}
-          </div>
+          <ArticleBody article={article} />
         </article>
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
