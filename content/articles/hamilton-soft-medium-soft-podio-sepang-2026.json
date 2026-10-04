@@ -1,0 +1,43 @@
+{
+  "slug": "hamilton-soft-medium-soft-podio-sepang-2026",
+  "title": "Soft-Medium-Soft: la apuesta de Hamilton que Ferrari convirtió en podio",
+  "excerpt": "Mientras el pelotón iba a intermedios, Hamilton se quedó en blandos, rodó 31 vueltas con ellos y cerró Soft-Medium-Soft. El resultado: P3 y un doblete Ferrari en el top 4 de Sepang.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-04",
+  "readingMinutes": 6,
+  "featured": false,
+  "coverGradient": "from-red-950 via-neutral-950 to-stone-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/hamilton-soft-medium-soft-podio-sepang-2026/cover.jpg",
+  "body": [
+    "La crónica de Sepang ya tiene ganador (**Max Verstappen**), drama de título (**George Russell** fuera) y un líder que dispara (**Kimi Antonelli**). Lo que Boost F1 aún no había desmenuzado es la otra historia del podio: cómo **Lewis Hamilton** y Ferrari transformaron una apuesta de slicks que parecía suicida en **tercer puesto** y en la primera lectura seria de neumáticos mixtos de 2026.",
+    "Pirelli lo dejó claro tras la bandera: el Gran Premio de Baréin en Malasia fue el **debut competitivo de los Intermedios** esta temporada. Nueve pilotos salieron con ellos; el resto, entre Soft y Medium. Hamilton fue de los que se quedaron en **blandos**. Al principio, el asfalto aún mojado lo empujó hacia el fondo. Al final, el mismo Soft se convirtió en el arma de una remontada de casi 15 posiciones.",
+    "## Tres estrategias, un mismo cajón",
+    "El podio de Sepang no compartió receta. Según el desglose oficial de Pirelli, **Verstappen** corrió **Intermedio–Soft–Soft–Soft**. **Antonelli** hizo **Intermedio–Medium–Soft–Soft**. **Hamilton** cerró **Soft–Medium–Soft**, sin pisar el Intermedio en toda la tarde. Tres equipos, tres compuestos de salida distintos, mismo top 3.",
+    "Eso importa porque el relato fácil («Ferrari se equivocó al inicio») es incompleto. Sí: en las primeras vueltas el slicks era lento y varios rivales que también salieron en seco —Leclerc incluido— pitaron pronto a Intermedios. Hamilton y el muro de Maranello **decidieron aguantar**. La radio lo reflejó: el asfalto seguía resbaladizo, pero la apuesta quedó firmada.",
+    "## 31 vueltas de Soft y el VSC que lo ordenó todo",
+    "El dato clave no es el podio en sí, sino la **longitud del primer stint**. Hamilton completó **31 vueltas** con el Soft de salida. En una pista abrasiva como Sepang, y con lluvia previa que bajó temperaturas de asfalto, el C4 (el blando del fin de semana) se comportó mejor de lo que el paddock temía el viernes. Pirelli habló de stints casi a media carrera y de degradación térmica contenida tras el chaparrón.",
+    "Después llegó el Medium usado y, tras el **Virtual Safety Car** de **Alexander Albon** (caja de cambios, vuelta 41), el pit final a Soft usado. Ese VSC —luego elevado a Safety Car completo— reordenó la cola y le dio a Ferrari neumático fresco justo cuando el campo se compactaba. Sin esa neutralización, la remontada habría sido más larga; con ella, Hamilton pasó de pelear el top 10 a cazar el cajón.",
+    "## De casi último a Turn 1: el pase a Hadjar",
+    "El reinicio final dejó a Verstappen delante de Antonelli y **Isack Hadjar**. Hamilton, cuarto o quinto según el momento del bunched field, no esperó: en la **curva 1** del sprint a bandera le quitó el tercer puesto a Hadjar. **Charles Leclerc** repitió la maniobra una vuelta después. Ferrari, que había salido hundida por la elección de slicks, cerró **P3 y P4** (+4,919 s y +7,258 s sobre Verstappen).",
+    "Para el Mundial, esos 15 puntos de Hamilton y 12 de Leclerc no son un detalle cosmétique. Hamilton queda con **214**, a **22** de Russell (236) y a **106** de Antonelli (320). El SF-26 no ganó en Malasia, pero demostró que, en condiciones mixtas y con Safety Cars, todavía puede meterse en la pelea cuando Mercedes se pelea consigo misma.",
+    "## Qué aprendió (y qué no) el paddock",
+    "Primera lección: el Intermedio de 2026 **funcionó**. Grip alto, consistencia en stint y solo un leve graining cuando la pista se secó del todo. Segunda: el Soft sigue siendo el compuesto rey cuando el asfalto está fresco o húmedo residual; varios pilotos casi lo usaron media carrera. Tercera: salir en slicks con agua estancada sigue siendo un riesgo —Gasly casi se va en la formación—, pero si el cielo se abre y aguantas el primer tercio, el undercut natural de los que pitan a Intermedio te deja puerta abierta cuando todos vuelven a seco.",
+    "Lo que Sepang **no** resuelve es si Ferrari puede repetir este ritmo en Singapur, de noche y con muro. Allí no habrá el mismo margen de error en la ventana Intermedio/slick. Sí deja una lectura clara para Boost F1: el podio de Hamilton no fue milagro de Safety Car aislado; fue el premio a una estrategia Soft–Medium–Soft que el resto del top 3 no quiso o no pudo copiar.",
+    "## Lectura Boost F1",
+    "Verstappen mereció la victoria con Intermedios bien leídos y Soft al final. Antonelli mereció el P2 y el colchón de 84 puntos. Hamilton mereció el análisis aparte: **perdió la salida y ganó la carrera estratégica**. En un Mundial que Mercedes quería cerrar por fiabilidad ajena, Ferrari acaba de recordar que 15 puntos de un domingo caótico pesan casi tanto como un abandono rival. Singapur dirá si fue un one-off de asfalto húmedo… o el primer aviso serio del tramo final."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/hamilton-soft-medium-soft-podio-sepang-2026/coche.jpg",
+      "alt": "Monoplaza rojo genérico sin logos ni números visto desde atrás en asfalto húmedo de circuito tropical de día, casco oscuro sin rostro visible",
+      "afterParagraph": 5
+    },
+    {
+      "src": "/articles/hamilton-soft-medium-soft-podio-sepang-2026/boxes.jpg",
+      "alt": "Pit lane vacío de circuito tropical de día tras la lluvia, asfalto reflectante, boxes sin marcas ni logos, palmeras al fondo",
+      "afterParagraph": 9
+    }
+  ]
+}
