@@ -1,0 +1,43 @@
+{
+  "slug": "fia-software-lluvia-singapur-parche-sepang",
+  "title": "El parche de Sepang viaja a Singapur: la lluvia puede poner a prueba el software de la FIA",
+  "excerpt": "La FIA arregló en unos 20 minutos el fallo que dejó coches parados en la formación de Sepang. Con tormentas previstas para el domingo en Marina Bay, el arreglo de emergencia puede tener su primer examen real en solo una semana.",
+  "category": "opinion",
+  "author": "Rick Aules",
+  "date": "2026-10-05",
+  "readingMinutes": 5,
+  "featured": true,
+  "coverGradient": "from-slate-950 via-zinc-950 to-sky-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/fia-software-lluvia-singapur-parche-sepang/cover.jpg",
+  "body": [
+    "Boost F1 ya contó la victoria de **Max Verstappen** en Sepang, el error del medio de McLaren y la cuenta del título de **Kimi Antonelli**. Esta nota mira otra cosa: el problema de software que dejó coches parados en la vuelta de formación y por qué puede volver a importar este mismo domingo en **Singapur**.",
+    "## Qué falló en Sepang",
+    "La explicación oficial de la FIA habla de una **combinación sin precedentes**: régimen de motor muy bajo, poco agarre, los ajustes de **gestión de energía para lluvia** y la forma en que estaban configurados los sectores del circuito de Sepang. El resultado fue una **pérdida de potencia no deseada** en varios coches. Verstappen y **Lewis Hamilton**, los dos de primera fila, llegaron a pisar el acelerador sin respuesta.",
+    "La clave está en el reglamento de 2026. Los nuevos motores obtienen cerca del **47 %** de su potencia de la parte eléctrica, y en mojado esa potencia eléctrica se recorta a **250 kW**. **Nikolas Tombazis**, director de monoplazas de la FIA, explicó que en la formación algunos coches fueron tan despacio que casi se detuvieron, con un **efecto acordeón** entre ellos. Ese fallo impidió que la potencia volviera a desplegarse para arrancar de nuevo.",
+    "## Un arreglo de minutos, no de días",
+    "La solución llegó durante el parón por la lluvia. El departamento técnico de la FIA **quitó el límite de energía** en los sectores afectados con una nueva versión del software, la envió a todos los equipos y cada uno tuvo que instalarla en sus coches. Tombazis dijo que todo eso llevó **unos 20 minutos** y pidió disculpas al público. Según Motorsport.com, la salida definitiva se retrasó **53 minutos**.",
+    "El propio Tombazis fue franco: no pudieron probar el software tanto como querían porque **apenas ha llovido este año**. El programa sí se había probado, pero no a esas velocidades tan bajas detrás del safety car. Su frase lo resume: «No teníamos cinco días para hacer las actualizaciones. Solo teníamos unos minutos». También aseguró que lo hicieron sin comprometer la seguridad, la competición ni la equidad.",
+    "## Singapur, otro trazado y otros sectores",
+    "Aquí empieza la duda para Marina Bay. El parche se diseñó para los **minisectores de Sepang**, y la FIA reconoció que la configuración de ese circuito fue parte del problema. Singapur es un trazado urbano de **4,927 km**, lento, lleno de curvas de 90 grados y con muros a centímetros. Hasta ahora no se ha explicado públicamente cómo quedarán allí los sectores del modo lluvia.",
+    "La FIA anunció una **revisión completa** junto a equipos y fabricantes de motores, pero no ha dicho si estará cerrada antes del domingo. Y el pronóstico no ayuda: según GPblog, el viernes y el sábado se esperan secos, pero para el gran premio del **domingo 11 de octubre** hay **tormentas** previstas, con temperaturas entre 28 y 33 grados.",
+    "Marina Bay ya sabe lo que es una tormenta en carrera. En **2022**, la lluvia retrasó la salida más de una hora y la prueba acabó por el límite de **dos horas** antes de completar todas las vueltas. Un trazado lento, coches detrás del safety car y salidas a muy baja velocidad son justo el escenario que activó el fallo en Malasia.",
+    "## Lo que dijeron los pilotos",
+    "El enfado en el paddock fue claro. **Sergio Pérez** calificó lo ocurrido de **«inaceptable»** y **Lando Norris** lo describió como **«simplemente horrible»**, añadiendo que no debería haber nada de eso en la parte electrónica. **Fernando Alonso**, octavo, prefirió la ironía: recordó que ha tenido un **50 % de abandonos** este año y que nunca pararon una carrera por ellos.",
+    "La FIA insiste en que el software es un **paquete estandarizado** para todos los coches. Eso significa que ningún equipo puede considerarse a salvo si llueve el domingo por la noche. Y en un fin de semana con **sprint** y una sola sesión de libres, nadie tendrá tiempo para ensayar con calma.",
+    "## Lectura Boost F1",
+    "Hay que darle a la FIA lo que merece: detectó el fallo, lo explicó en público, pidió perdón y salvó la carrera en minutos. Pero un arreglo de emergencia no es una solución. El reglamento de 2026 puso casi la mitad de la potencia en manos de la electrónica, y Sepang demostró que esa electrónica no estaba lista para la lluvia. Si el domingo cae una tormenta sobre Marina Bay, el problema no será solo de pilotos y neumáticos: será la prueba de si la revisión llegó a tiempo. Un segundo fallo en una semana ya no sería mala suerte. Sería un problema del reglamento."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/fia-software-lluvia-singapur-parche-sepang/pantalla-datos.jpg",
+      "alt": "Pantallas de telemetría con gráficas genéricas sin texto legible en un muro de boxes de día, sin logos ni marcas",
+      "afterParagraph": 6
+    },
+    {
+      "src": "/articles/fia-software-lluvia-singapur-parche-sepang/calle-mojada.jpg",
+      "alt": "Curva de un circuito urbano vacío con asfalto mojado, muros de hormigón y vallas sin publicidad bajo nubes de tormenta durante el día, sin logos",
+      "afterParagraph": 10
+    }
+  ]
+}
