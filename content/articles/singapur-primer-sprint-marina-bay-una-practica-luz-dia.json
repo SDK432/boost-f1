@@ -1,0 +1,42 @@
+{
+  "slug": "singapur-primer-sprint-marina-bay-una-practica-luz-dia",
+  "title": "El primer sprint de Marina Bay: una hora de práctica y una carrera con luz de día",
+  "excerpt": "Singapur estrena el formato sprint con una sola hora de libres antes de la clasificación y un sprint que saldrá a las 17:00, todavía de día. En el circuito con menos margen del año, menos práctica puede ser un problema o el remedio contra una carrera previsible.",
+  "category": "opinion",
+  "author": "Rick Aules",
+  "date": "2026-10-06",
+  "readingMinutes": 5,
+  "featured": true,
+  "coverGradient": "from-slate-950 via-zinc-950 to-amber-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/singapur-primer-sprint-marina-bay-una-practica-luz-dia/cover.jpg",
+  "body": [
+    "Boost F1 ya contó la penalización de **George Russell**, el humo sobre Marina Bay y el parche de software de la FIA. Esta nota mira otra cosa: el formato. Por primera vez en su historia, el **Gran Premio de Singapur** será un fin de semana sprint, y eso cambia mucho en el circuito urbano que menos perdona del calendario.",
+    "## Una hora para aprender un circuito de muros",
+    "Según el horario oficial de la F1, los equipos tendrán una sola sesión de **libres de 60 minutos**, el viernes 9 de octubre a las **16:30** hora local. A las **20:30** ya llega la clasificación sprint. En un fin de semana normal habría tres sesiones de práctica. Aquí habrá una, en un trazado de **4,927 km** y **19 curvas**, con baches de calle y muros a centímetros.",
+    "**Lewis Hamilton** lo anticipó hace un año, cuando se confirmó el sprint en Singapur. Dijo que sería «muy, muy duro», porque Marina Bay es una pista donde de verdad se aprovechan las tres sesiones. Pero añadió algo más interesante: pasar de una práctica directamente a la clasificación sprint podía ser bueno, porque aquí hace falta **un segundo de ventaja** sobre el coche de delante para poder adelantar. Su conclusión fue que el sprint lo convertiría «más en una lotería».",
+    "## El sprint, con luz de día",
+    "El detalle que más me interesa del horario es otro. El sprint de **21 vueltas**, unos 100 km, arrancará el sábado 10 a las **17:00** hora local, antes de que caiga la noche. La clasificación del gran premio será a las **21:00** y la carrera del domingo, de **62 vueltas**, a las **20:00**. Singapur fue la primera carrera nocturna de la historia de la F1, y ahora verá una carrera con puntos que sale con el sol todavía en el cielo.",
+    "No todos lo celebraron. **Gabriel Bortoleto** avisó en 2025 que correr de día en Singapur «no es lo ideal» y que la F1 «puede tener un problema». También dijo que, para los novatos, con sprints y una sola práctica, «no va a ser fácil». Este año ese aviso apunta a **Arvid Lindblad**, debutante que llega a una pista donde nunca ha corrido en Fórmula 1 con solo una hora para entenderla.",
+    "## Neumáticos: menos juegos, más dudas",
+    "Pirelli trae la misma gama que en 2025: **C3** como duro, **C4** como medio y **C5** como blando. Por ser fin de semana sprint, cada piloto tendrá **12 juegos** de slicks en lugar de 13. En la clasificación sprint, el medio es obligatorio en SQ1 y SQ2, y en SQ3 solo se permite el blando. En el sprint no hay parada obligatoria, así que la elección será entre medio y blando. La propia Pirelli cree que el blando puede tener más protagonismo que otros años.",
+    "Con tan poco rodaje, cada juego que se gaste el viernes es un juego que no estará el domingo. Como apunta F1 Tribune, quien guarde dos juegos de duros para la carrera tendrá más opciones en una prueba donde la parada única vuelve a ser el plan más lógico.",
+    "## Lo que no se puede ensayar",
+    "En Singapur, el **safety car** suele decidir la carrera. Según F1 Tribune, en las seis ediciones anteriores a 2025 salió el **83 %** de las veces. Y cuando no aparece, el espectáculo sufre: Hamilton recordó que en 2024 no hubo ninguno y que la carrera fue «bastante aburrida». Además, aunque el pit lane se ensanchó y el límite subió a **80 km/h**, una parada todavía cuesta entre **21 y 24 segundos**, según simulaciones de Pirelli citadas por ese mismo medio. La posición en pista vale oro.",
+    "El clima añade otra incógnita. El pronóstico que publica la F1 habla de posibles lluvias el viernes y el sábado, mientras otros medios apuntan a tormentas el domingo. Con una sola práctica, una sesión mojada el viernes dejaría a todos casi a ciegas antes de la clasificación sprint.",
+    "## Lectura Boost F1",
+    "Sobre el papel, el sprint en Singapur parecía una mala idea: un formato pensado para pistas con adelantamientos, llevado a un circuito donde casi no se adelanta. Pero Hamilton tenía razón en lo importante. Lo que hace previsible a Marina Bay es que todos llegan al domingo con el coche afinado después de tres prácticas. Con una hora, ese orden se rompe: habrá más errores, más roces con los muros y estrategias más distintas. Con **Kimi Antonelli** 84 puntos arriba, un poco de lotería le viene bien a cualquiera que lo persiga. El riesgo es que esa lotería castigue sobre todo a los que tienen menos experiencia. El sábado a las 17:00 sabremos si Singapur ganó un espectáculo o solo un dolor de cabeza."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/singapur-primer-sprint-marina-bay-una-practica-luz-dia/garaje-practica.jpg",
+      "alt": "Mecánicos vistos de espaldas preparando un monoplaza genérico sin decoración en un garaje de boxes abierto a la luz de la tarde, sin logos ni texto",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/singapur-primer-sprint-marina-bay-una-practica-luz-dia/neumaticos-sprint.jpg",
+      "alt": "Juegos de neumáticos lisos genéricos sin marcas apilados junto al muro de boxes de un circuito urbano durante el día, sin logos ni texto",
+      "afterParagraph": 9
+    }
+  ]
+}
