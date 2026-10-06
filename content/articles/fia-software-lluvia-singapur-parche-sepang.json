@@ -6,7 +6,7 @@
   "author": "Rick Aules",
   "date": "2026-10-05",
   "readingMinutes": 5,
-  "featured": true,
+  "featured": false,
   "coverGradient": "from-slate-950 via-zinc-950 to-sky-950",
   "coverPattern": "circuit",
   "coverImage": "/articles/fia-software-lluvia-singapur-parche-sepang/cover.jpg",
