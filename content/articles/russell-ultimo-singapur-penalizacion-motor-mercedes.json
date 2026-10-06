@@ -1,0 +1,43 @@
+{
+  "slug": "russell-ultimo-singapur-penalizacion-motor-mercedes",
+  "title": "Russell saldrá último en Singapur: el motor roto de Sepang le cuesta una penalización en el peor circuito para remontar",
+  "excerpt": "George Russell ya no tiene motores nuevos dentro del cupo de cuatro y tendrá que montar uno en Marina Bay. La sanción lo manda al fondo de la parrilla del domingo, en una pista donde casi no se adelanta.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-10-06",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-slate-950 via-zinc-950 to-teal-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/russell-ultimo-singapur-penalizacion-motor-mercedes/cover.jpg",
+  "body": [
+    "La mala semana de **George Russell** todavía no terminó. Después de abandonar en Sepang por un fallo de la unidad de potencia cuando iba tercero, el piloto de **Mercedes** saldrá desde el **fondo de la parrilla** en el **Gran Premio de Singapur** del domingo 11 de octubre. Boost F1 ya analizó lo que ese abandono significó para el Mundial; la novedad de este martes es que el castigo no se quedó en Malasia.",
+    "## Por qué llega la penalización",
+    "Cada piloto puede usar **cuatro unidades de potencia** en toda la temporada sin sanción. Según Reuters, Mercedes confirmó el martes que Russell ya no tiene motores disponibles dentro de ese cupo y que tendrá que montar uno nuevo para el fin de semana de Singapur. Sky Sports informa que el cambio se hará el **viernes**. Al superar el límite, la sanción lo enviará a la última fila de la parrilla.",
+    "Hay un detalle importante: Singapur es fin de semana **sprint**, y la penalización solo se aplica al Gran Premio del domingo. En la carrera corta del **sábado 10 de octubre**, de unos 100 kilómetros, Russell saldrá desde donde se clasifique. Además, será la **última sprint de la temporada**.",
+    "## El plan era esperar a Austin",
+    "Mercedes ya sabía que Russell iba a necesitar otro motor con sanción, pero quería hacer el cambio en el **Gran Premio de Estados Unidos**, en Austin, la carrera siguiente. Allí pensaba estrenar una **mejora del motor** gracias al sistema de la FIA que da oportunidades extra de desarrollo a los fabricantes que van por detrás.",
+    "Ahora hay dos caminos. Sky Sports cuenta que esa mejora podría adelantarse para que Russell la tenga ya en Singapur y así evite otra penalización más adelante. Pero su periodista Craig Slater cree que eso no es probable, y que Russell podría acabar sancionado **en Singapur y también en Austin**.",
+    "Sobre la causa del fallo de Sepang todavía no hay respuesta. **Bradley Lord**, director adjunto de Mercedes, dijo que ya tienen el coche de vuelta y que tras una primera inspección está claro que fue **un fallo mecánico en la unidad de potencia**. La causa exacta aún la están investigando.",
+    "## El peor lugar para salir último",
+    "Marina Bay es un circuito urbano lento, con muros muy cerca y pocas zonas para adelantar. Según Reuters, de las **16 carreras** disputadas allí, **11** las ganó el piloto que salió desde la pole. La victoria desde más atrás sigue siendo la de **Fernando Alonso** en 2008, desde el puesto **15**, en aquella carrera marcada por el accidente provocado de su compañero en Renault.",
+    "La comparación con su compañero duele. **Kimi Antonelli** también tuvo que salir desde atrás por cambiar motor en **Monza**, su carrera de casa, y ganó desde el puesto **19**. Pero Monza es una de las pistas donde más fácil resulta adelantar, y Singapur es justo lo contrario. Slater, de Sky Sports, ve difícil incluso que Russell entre en el **top cinco**.",
+    "## El Mundial, casi fuera de alcance",
+    "Russell es segundo con **236 puntos**, a **84** de Antonelli, que tiene **320**. Después de Singapur quedan seis carreras. Con una salida desde el fondo en Marina Bay, la remontada que necesitaba se vuelve todavía más improbable. Slater lo resumió así en Sky Sports: «Es absolutamente la gota que colma el vaso para esta candidatura al título».",
+    "Hay un dato que lo hace más amargo: Russell ganó el Gran Premio de Singapur en **2025** saliendo desde la pole. Esta vez no tendrá esa opción el domingo. Su mejor oportunidad para sumar en serio puede estar en la **sprint del sábado**, donde no hay sanción.",
+    "## Lectura Boost F1",
+    "Para Russell, el título ya dependía de que Antonelli fallara varias veces. Ahora, además, tendrá que remontar en el circuito menos indicado del calendario. Lo que de verdad está en juego para él en este final de temporada es el mensaje para **2027**: terminar fuerte, ganar carreras y demostrar que puede batir a su compañero con un coche fiable. Para Mercedes, la pregunta es otra: después de los problemas de motor de sus dos pilotos este año, ¿llegará a tiempo la mejora para que no vuelva a pasar?"
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/russell-ultimo-singapur-penalizacion-motor-mercedes/motor-taller.jpg",
+      "alt": "Unidad de potencia genérica de monoplaza sobre un soporte en un taller luminoso de día, sin logos ni texto, sin personas",
+      "afterParagraph": 5
+    },
+    {
+      "src": "/articles/russell-ultimo-singapur-penalizacion-motor-mercedes/circuito-urbano.jpg",
+      "alt": "Recta de un circuito urbano vacío durante el día, con muros de hormigón, vallas sin publicidad y rascacielos al fondo, sin logos",
+      "afterParagraph": 9
+    }
+  ]
+}
