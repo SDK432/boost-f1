@@ -1,0 +1,43 @@
+{
+  "slug": "verstappen-singapur-unica-pista-sin-ganar-red-bull-sepang",
+  "title": "Singapur, la única pista que se le resiste a Verstappen: ¿sirve el triunfo de Sepang en Marina Bay?",
+  "excerpt": "Max Verstappen llega a Singapur con su primera victoria del año, pero Marina Bay es el único circuito veterano del calendario donde nunca ganó. Lo que hizo volar al Red Bull en Sepang puede jugar en contra entre los muros.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-10-07",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-slate-950 via-zinc-950 to-indigo-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/verstappen-singapur-unica-pista-sin-ganar-red-bull-sepang/cover.jpg",
+  "body": [
+    "**Max Verstappen** llega a Singapur con algo que no tenía hace una semana: una victoria en 2026. En Sepang logró su primera pole del año y la convirtió en un triunfo cómodo, el primero de **Red Bull** esta temporada. Con eso mantiene una racha que viene desde **2016**: ganar al menos una carrera cada año. Pero el calendario le pone enfrente justo el circuito que nunca pudo conquistar.",
+    "## El hueco en su lista",
+    "Según Motor Sport Magazine, si se deja de lado el nuevo **Madring** de Madrid, **Marina Bay** es el único circuito del calendario actual donde Verstappen nunca subió a lo más alto del podio. Ha sido segundo allí, la última vez en **2025**, detrás de George Russell. La victoria, en cambio, nunca llegó.",
+    "Lo llamativo es que Singapur se le escapó incluso en sus años de dominio total. En **2022** ganó 15 carreras, pero en Marina Bay clasificó octavo y terminó séptimo, y la victoria fue para su compañero **Sergio Pérez**. En **2023** llegó con **10 triunfos seguidos**, salió undécimo, remontó hasta el quinto puesto y **Carlos Sainz** cortó su racha con Ferrari.",
+    "## Sepang y Marina Bay piden coches distintos",
+    "La gran pregunta del fin de semana es si el salto de Red Bull en Malasia se puede repetir en una pista que no se parece en nada. Sepang tiene rectas largas, curvas rápidas y un asfalto muy abrasivo. Singapur es lento y estrecho: **4,927 km**, **19 curvas**, muros a centímetros y un piso urbano lleno de baches.",
+    "El análisis de Mark Hughes en Motor Sport Magazine da una pista clave. Su teoría es que el Red Bull usa una suspensión muy rígida para mantener la altura del coche casi fija y que la aerodinámica no se altere con un asfalto roto. En Sepang, el piso más áspero del año, eso lo convirtió en el coche más rápido «por mucho». Pero Hughes también advierte que ese mismo coche sigue siendo malo pasando por encima de los pianos, algo que en Malasia casi no importó.",
+    "En Marina Bay pasa lo contrario: hay que atacar pianos en casi todas las curvas lentas y el coche tiene que copiar los baches de la calle. Además, en Sepang el Ferrari fue el más rápido en las curvas lentas. Lewis Hamilton le sacó tres décimas a Verstappen en el segundo sector de la clasificación, según Autosport, y solo perdió la vuelta por la velocidad del Red Bull en la recta final. En Singapur casi no hay rectas largas que salven ese déficit.",
+    "Hasta el propio jefe de Red Bull, **Laurent Mekies**, admitió a The Race que la ventaja de Sepang fue una «sorpresa». Dijo que el calor extremo, el asfalto rugoso y el trazado dejaron a la mayoría de los coches fuera de su ventana ideal. Esa es la duda: ¿Red Bull mejoró de verdad, o Sepang fue la combinación perfecta de pista, clima y circunstancias?",
+    "## Menos práctica, más calor y posible lluvia",
+    "El fin de semana tampoco ayuda a resolverlo con calma. Singapur es **sprint** por primera vez, así que habrá una sola hora de libres antes de la clasificación sprint. The Straits Times recuerda que es la carrera más agotadora del año: los pilotos pueden perder hasta **3 kilos** en las 62 vueltas, y hay pronóstico de tormentas para el sábado y el domingo.",
+    "Para quienes lo siguen desde Ecuador, Singapur va 13 horas adelante. La sprint será el **sábado 10 de octubre a las 04:00**, la clasificación del Gran Premio ese mismo sábado a las **08:00**, y la carrera el **domingo 11 a las 07:00**, hora de Ecuador.",
+    "## Lo que está en juego",
+    "En el Mundial, Verstappen ya no pelea el título. Tiene **188 puntos**, empatado con Lando Norris, y está a **132** de Kimi Antonelli, que suma **320**. Lo que sí está en juego es otra cosa: borrar el único gran hueco de su palmarés en los circuitos actuales y demostrar que el Red Bull de Sepang no fue un espejismo.",
+    "## Lectura Boost F1",
+    "Si Verstappen gana en Marina Bay, el mensaje es fuerte: Red Bull no solo acertó en una pista rara, sino que encontró un coche competitivo en cualquier lugar, y eso importa para lo que queda de 2026 y para 2027. Si vuelve a sufrir, la conclusión será que Sepang fue una excepción hecha a la medida de su suspensión rígida. En ese caso, Ferrari, que en Malasia ya fue la referencia en las curvas lentas, puede ser el equipo que más gane con el cambio de escenario."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/verstappen-singapur-unica-pista-sin-ganar-red-bull-sepang/pianos-curva.jpg",
+      "alt": "Pianos rojos y blancos en una curva lenta de un circuito urbano de día, con asfalto irregular y muros de hormigón sin publicidad",
+      "afterParagraph": 6
+    },
+    {
+      "src": "/articles/verstappen-singapur-unica-pista-sin-ganar-red-bull-sepang/monoplaza-calle.jpg",
+      "alt": "Monoplaza genérico gris sin logos ni números rodando de día por una calle de circuito urbano entre muros, visto desde atrás y a lo lejos",
+      "afterParagraph": 11
+    }
+  ]
+}
