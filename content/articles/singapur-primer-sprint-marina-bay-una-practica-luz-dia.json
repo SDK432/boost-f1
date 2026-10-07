@@ -6,7 +6,7 @@
   "author": "Rick Aules",
   "date": "2026-10-06",
   "readingMinutes": 5,
-  "featured": true,
+  "featured": false,
   "coverGradient": "from-slate-950 via-zinc-950 to-amber-950",
   "coverPattern": "circuit",
   "coverImage": "/articles/singapur-primer-sprint-marina-bay-una-practica-luz-dia/cover.jpg",
