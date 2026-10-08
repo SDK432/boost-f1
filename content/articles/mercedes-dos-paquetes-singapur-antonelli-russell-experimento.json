@@ -1,0 +1,40 @@
+{
+  "slug": "mercedes-dos-paquetes-singapur-antonelli-russell-experimento",
+  "title": "Mercedes parte su garaje en dos en Singapur: Antonelli sigue con la mejora y Russell vuelve al coche de Bakú",
+  "excerpt": "La mejora del W17 no convenció en Sepang y Mercedes hará algo poco común: correr todo el fin de semana de Marina Bay con dos coches distintos. Antonelli, líder por 84 puntos, estrena además alerón delantero. Russell, que saldrá último el domingo, vuelve al paquete con el que ganó en Bakú.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-08",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-slate-950 via-zinc-950 to-teal-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/mercedes-dos-paquetes-singapur-antonelli-russell-experimento/cover.jpg",
+  "body": [
+    "Mercedes llega a Singapur con una decisión que pocas veces se ve en plena pelea por un campeonato: sus dos W17 correrán con paquetes aerodinámicos diferentes durante todo el fin de semana. Según la web oficial de la F1, **Kimi Antonelli** mantendrá la mejora que el equipo estrenó en Sepang, mientras que **George Russell** volverá a la especificación anterior. La idea es tener una comparación directa, coche contra coche, durante los tres días de Marina Bay.",
+    "## Una mejora que no dio lo que prometía",
+    "No fue un desastre. En Sepang, Antonelli terminó segundo y Russell iba camino del podio hasta que su motor se rompió a pocas vueltas del final. Pero dentro del equipo quedó la sensación de que las piezas nuevas no dieron la ganancia de tiempo por vuelta que esperaban. El jefe de equipo, **Toto Wolff**, lo resumió en su previa: «Malasia fue obviamente un fin de semana muy difícil para nosotros» y desde entonces trabajan para entender por qué el rendimiento no estuvo donde debía.",
+    "Russell, de todos modos, no cree que la mejora esté mal. Su argumento es que el rendimiento de esta temporada cambia muchísimo de un circuito a otro, incluso con el mismo coche: «Sabemos que el coche que teníamos en Bakú era el mismo que en Budapest y Zandvoort, y en Bakú estuvimos en la pole por ocho décimas, y en Budapest, a cuatro décimas del ritmo». Por eso está bastante convencido de que lo de Sepang fue algo propio de Malasia.",
+    "## Russell vuelve al coche de Bakú",
+    "El británico contó que fue él quien propuso el experimento, incluso antes de la carrera del domingo en Sepang. «Estábamos más o menos 50-50 antes de la carrera», explicó. La rotura del motor terminó de decidirlo: como ya superó el cupo de unidades de potencia de la temporada, saldrá desde el fondo de la parrilla en el Gran Premio del domingo. Si su fin de semana ya estaba comprometido, tenía sentido usarlo como banco de pruebas. «Ahora es una decisión obvia», resumió.",
+    "La sanción no se aplica al Sprint del sábado, que reparte ocho puntos, así que Russell todavía tiene una oportunidad clara de sumar. Y el coche al que vuelve no es cualquiera: «Es el coche con el que gané en Bakú», recordó. Tampoco será la última penalización. Según la BBC, Russell avisó que tendrá que montar otro motor cuando llegue la mejora de la unidad de potencia, porque con cuatro motores por temporada y siete carreras por delante las cuentas no le dan.",
+    "## Antonelli, con alerón delantero nuevo",
+    "Antonelli no solo se queda con las piezas de Sepang. En Singapur estrena también un **alerón delantero nuevo** que, en la práctica, completa el paquete de mejoras. El italiano admite que los números de Malasia no fueron buenos, pero cree que Sepang fue un caso aparte: «El asfalto era muy rugoso. De hecho, en algunas curvas faltaba asfalto, y además hacía mucho calor. Tuvimos a veces más de 60 grados en la pista».",
+    "Para él, Marina Bay será una prueba más representativa: menos temperatura en pista, mejor asfalto y muchas curvas lentas, justo donde sufrieron en Sepang. «Sería una pena descartarlo tan pronto», dijo sobre el trabajo del equipo con el paquete nuevo. Eso sí, aclaró que la decisión de devolver a Russell al paquete viejo fue del equipo, no suya.",
+    "## Lectura Boost F1",
+    "El experimento tiene una lógica clara, pero también un riesgo. Es un fin de semana Sprint, con una sola sesión de práctica antes de la clasificación, así que habrá muy poco tiempo para ajustar el coche nuevo. Y quien carga con la parte más incierta es el líder del campeonato. Si el paquete nuevo funciona en las curvas lentas de Singapur, Antonelli suma puntos y Mercedes confirma que Sepang fue la excepción. Si no, el italiano pierde terreno justo cuando tiene la mayor ventaja del año.",
+    "Para Russell, en cambio, el escenario tiene poco que perder. Sale último el domingo, corre con un coche que conoce de memoria y puede convertir el Sprint en su gran oportunidad. Con **84 puntos** de diferencia entre los dos, el campeonato parece encaminado. Pero lo que se aprenda este fin de semana en Marina Bay va a definir con qué coche cierra Mercedes las últimas carreras del año."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/mercedes-dos-paquetes-singapur-antonelli-russell-experimento/aleron-delantero.jpg",
+      "alt": "Alerón delantero genérico de monoplaza, sin logos ni texto, sobre un soporte en un garaje de boxes iluminado por luz de día",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/mercedes-dos-paquetes-singapur-antonelli-russell-experimento/curva-lenta.jpg",
+      "alt": "Monoplaza genérico blanco sin logos ni números trazando una curva lenta entre muros de concreto de un circuito urbano a plena luz del día",
+      "afterParagraph": 8
+    }
+  ]
+}
