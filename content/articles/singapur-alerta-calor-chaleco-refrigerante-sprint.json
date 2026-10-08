@@ -1,0 +1,43 @@
+{
+  "slug": "singapur-alerta-calor-chaleco-refrigerante-sprint",
+  "title": "Alerta de calor en Singapur: la FIA activa el chaleco refrigerante y Verstappen dice que no lo necesita",
+  "excerpt": "La FIA declaró peligro de calor para el sprint y la carrera de Marina Bay. Todos los coches deben llevar el sistema de enfriamiento, pero cada piloto decide si usa el chaleco. Verstappen lo rechaza, Leclerc lo agradece y Mercedes ni siquiera lo desarrolló.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-10-08",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-orange-950 via-zinc-950 to-slate-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/singapur-alerta-calor-chaleco-refrigerante-sprint/cover.jpg",
+  "body": [
+    "Singapur ya tenía humo, un sprint nuevo y una sola práctica. Ahora suma una alerta oficial de calor. Este jueves, el director de carrera de la FIA, **Rui Marques**, avisó a los equipos que el servicio meteorológico pronostica un índice de calor mayor a **31 °C** en algún momento del sprint o de la carrera. Por eso se declaró un **heat hazard**, o peligro de calor, para las dos tandas del fin de semana.",
+    "Es la **cuarta vez** en 2026 que se activa esta norma, después de Austria, Monza y la carrera de la semana pasada en Sepang. Y es el segundo año seguido en Marina Bay, donde la regla se usó por primera vez en 2025.",
+    "## Qué cambia en los coches",
+    "La declaración obliga a montar en todos los coches el **sistema de enfriamiento del piloto**: una bomba, tuberías y un depósito que enfría un líquido y lo hace circular por una camiseta ignífuga con tubos que el piloto lleva bajo el mono. Por el peso extra, el mínimo del coche sube **2 kilos** en prácticas y clasificaciones y **5 kilos** en el sprint y la carrera.",
+    "El detalle importante es que el piloto **no está obligado a ponerse el chaleco**. Si decide no usarlo, el sistema igual tiene que ir en el coche y el equipo debe compensar la diferencia con lastre en la cabina. La idea es que nadie gane ventaja de peso por elegir pasar calor.",
+    "## Verstappen: «No es un sauna»",
+    "El ganador de Sepang fue directo. «Para mí no es necesario. Sí, hace calor, pero no es un sauna», dijo **Max Verstappen** a la BBC. Su queja es práctica: los cables del chaleco le limitan el movimiento en la cabina y, según él, ningún sistema que probó en ninguna categoría aguantó frío una hora y media.",
+    "**Charles Leclerc** ve el vaso medio lleno. Contó que el chaleco funciona bien durante unas **15 o 20 vueltas** y que después el piloto queda tan caliente como sin él. Aun así, lo agradece: en Singapur se pierde tanta agua que, desde la mitad de la carrera, ningún piloto está al cien por ciento.",
+    "## Mercedes eligió no desarrollarlo",
+    "La postura más llamativa es la de **Mercedes**. Según la BBC, el equipo decidió no usar el sistema y dedicar esos recursos al rendimiento del coche. La FIA da un margen extra dentro del tope presupuestario: **50 000 dólares** si un equipo logra que el líquido se mantenga frío toda la carrera y **75 000 más** si hace cómoda la camiseta. **Bradley Lord**, subdirector del equipo, dijo que esa cifra es «pequeña» y que no alcanzaba para crear algo robusto.",
+    "Es una apuesta con riesgo. En **2024**, George Russell y Lewis Hamilton necesitaron atención médica por agotamiento por calor al final de la carrera de Singapur. Y la regla nació después de **Qatar 2023**, cuando Logan Sargeant abandonó deshidratado y Alex Albon terminó en el hospital.",
+    "## Por qué Singapur es tan duro",
+    "Marina Bay es la carrera más larga del año. La temperatura casi no baja de noche, la humedad suele estar entre el **70 y el 90 %** y, según RacingNews365, un piloto puede perder **tres o cuatro kilos** de líquido. Este año además hay sprint: **21 vueltas** el sábado a las **17:00** locales, con luz de día y más sol que en la carrera nocturna. **James Vowles**, jefe de Williams, cree que el domingo será algo más llevadero que Sepang, pero el sprint le preocupa más.",
+    "Para seguirlo desde Ecuador: el sprint es el sábado a las **04:00** y la carrera, el domingo a las **07:00**.",
+    "## Lectura Boost F1",
+    "El chaleco hoy es más una opción que una solución. Si dura 20 vueltas en una carrera de más de 60, el piloto que lo usa gana un rato de aire al inicio y luego pelea igual que todos. Por eso la diferencia de este fin de semana no la hará el sistema, sino la preparación física. Lo que sí me hace ruido es lo de Mercedes: con **Antonelli** a punto de cerrar el título y **Russell** remontando desde el fondo, cualquier bajón físico en las últimas vueltas puede costar caro. Si el calor y el humo se juntan, Singapur va a premiar al que llegue más entero al final, no solo al más rápido."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/singapur-alerta-calor-chaleco-refrigerante-sprint/chaleco-refrigerante.jpg",
+      "alt": "Camiseta ignífuga blanca sin marcas con finos tubos de refrigeración sobre un banco de trabajo en un garaje de boxes iluminado por luz de día, sin logos ni texto",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/singapur-alerta-calor-chaleco-refrigerante-sprint/cabina-sol.jpg",
+      "alt": "Cabina vacía de un monoplaza genérico gris con halo bajo el sol fuerte de la tarde en una calle de circuito urbano, sin logos ni texto",
+      "afterParagraph": 10
+    }
+  ]
+}
