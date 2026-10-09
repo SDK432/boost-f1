@@ -1,0 +1,45 @@
+{
+  "slug": "fia-error-humano-overtake-mode-singapur-aston-martin",
+  "title": "Un botón olvidado en Singapur: el error humano de la FIA que dejó sin potencia la clasificación sprint y enfurece a Aston Martin",
+  "excerpt": "Tras la bandera roja en la SQ1 de Marina Bay, Control de Carrera no reactivó el Overtake Mode. Lo encendió 27 segundos y lo volvió a apagar. Stroll, Lindblad y los dos Williams quedaron fuera, y Aston Martin estudia sus opciones.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-09",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-emerald-950 via-zinc-950 to-slate-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/fia-error-humano-overtake-mode-singapur-aston-martin/cover.jpg",
+  "body": [
+    "La pole del sprint de **Max Verstappen** en Marina Bay se llevó los titulares, pero la conversación en el paddock de Singapur va por otro lado. Por segunda semana consecutiva, la Fórmula 1 tuvo un fallo técnico que alteró la pista. Esta vez no fue un software de motor: fue, según la propia FIA, un **error humano en Control de Carrera**.",
+    "## Qué pasó en la SQ1",
+    "La primera fase de la clasificación sprint se detuvo con bandera roja para limpiar los restos del alerón delantero del Cadillac de **Sergio Pérez**. Por seguridad, la bandera roja suspende automáticamente el **Overtake Mode**, el impulso eléctrico extra que en 2026 está activo durante toda la clasificación. Al reanudarse la sesión, alguien en Control de Carrera tenía que volver a activarlo. No lo hizo.",
+    "Varios pilotos avisaron por radio que iban, sin explicación, cortos de potencia. Cuando la FIA se dio cuenta, activó el modo durante **27 segundos** y luego lo desactivó otra vez, preocupada por la equidad deportiva. El resultado fue peor que el error original: según dónde estuviera cada coche en la vuelta, unos tuvieron la energía extra y otros no.",
+    "## Los perjudicados",
+    "Los que habían marcado su mejor tiempo antes de la bandera roja quedaron a salvo. Los que necesitaban mejorar después, no. Según Motorsport.com, los más afectados fueron **Arvid Lindblad**, **Lance Stroll** y los dos **Williams**, todos eliminados en la SQ1. Por si fuera poco, un problema de cronometraje separado, a cargo de la F1, no registró varias vueltas, y algunos pilotos no sabían si habían pasado el corte.",
+    "## Peticiones rechazadas",
+    "Williams pidió que los 22 coches pudieran disputar la SQ2 desde cero. Los comisarios lo rechazaron por no estar seguros de tener la capacidad reglamentaria para hacerlo. Repetir la SQ1 tampoco era posible: no había juegos de neumáticos suficientes. **Nikolas Tombazis**, director de monoplazas de la FIA, se reunió con los equipos afectados. Williams y Racing Bulls están muy molestos, pero indicaron que no protestarán.",
+    "**Aston Martin** es la excepción. El equipo de Stroll y **Fernando Alonso** quiere que la parrilla del sprint del sábado refleje condiciones justas y deja sus opciones abiertas. Según Motorsport.com, sin embargo, no habrá más cambios en el resultado y la SQ1, por ahora, no es susceptible de protesta.",
+    "## La disculpa oficial",
+    "La FIA lo reconoció por escrito: «La FIA reconoce que este desafortunado error humano tuvo un impacto en el rendimiento de ciertos coches según el momento de su intento y su posición en la vuelta». También aclaró que la SQ2 y la SQ3 no se vieron afectadas, así que la pole de Verstappen no está en cuestión por este tema.",
+    "## Lectura Boost F1",
+    "El problema de fondo no es un botón. Es que el reglamento de 2026 hizo que la potencia de los coches dependa de una gestión de energía que, en parte, se controla desde Control de Carrera. Hace cinco días, en Sepang, un fallo de software dejó a los coches casi parados en las vueltas de formación. Ahora, un olvido decide quién pasa a la SQ2. Dos fallos en dos fines de semana no son mala suerte: son una señal de que la FIA necesita protocolos automáticos y redundancia antes de que un error así decida una carrera, y no solo una sesión de sprint. Para Stroll, Lindblad y Williams, el daño ya está hecho: largarán desde atrás el sábado, en un circuito donde adelantar es casi imposible."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/fia-error-humano-overtake-mode-singapur-aston-martin/control-carrera.jpg",
+      "alt": "Sala de control genérica con monitores apagados y consola con botones, de día, sin textos ni logos",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/fia-error-humano-overtake-mode-singapur-aston-martin/pitlane-espera.jpg",
+      "alt": "Monoplaza genérico verde oscuro sin logos ni números detenido en un pit lane urbano de día",
+      "afterParagraph": 7
+    },
+    {
+      "src": "/articles/fia-error-humano-overtake-mode-singapur-aston-martin/neumaticos-apilados.jpg",
+      "alt": "Juegos de neumáticos de carreras sin marcas apilados con mantas grises en un garaje de boxes con luz de día",
+      "afterParagraph": 10
+    }
+  ]
+}
