@@ -1,0 +1,42 @@
+{
+  "slug": "verstappen-pole-sprint-singapur-investigacion-bandera-amarilla",
+  "title": "Verstappen, por fin el más rápido en Singapur: pole del sprint, pero bajo investigación por bandera amarilla",
+  "excerpt": "Max Verstappen fue el más rápido en la clasificación sprint de Marina Bay, por delante de Russell y Leclerc, pero está bajo investigación por adelantar a Hamilton con banderas amarillas. Antonelli, líder del Mundial, saldrá séptimo.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-10-09",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-blue-950 to-neutral-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/verstappen-pole-sprint-singapur-investigacion-bandera-amarilla/cover.jpg",
+  "body": [
+    "**Max Verstappen** nunca había sido el más rápido en una clasificación de ningún tipo en Marina Bay. Este viernes lo consiguió: 1:31.156 en la SQ3 y primer puesto para el sprint del sábado en Singapur. Pero la pole llega con asterisco. Los comisarios lo investigan por adelantar a **Lewis Hamilton** con banderas amarillas.",
+    "## Una vuelta que dejó a todos lejos",
+    "Verstappen fue el más rápido en las tres fases de la clasificación sprint. En la última sacó **0,120 segundos** a **George Russell** (Mercedes) y 0,243 a **Charles Leclerc** (Ferrari). Detrás quedaron Piastri, Norris y Hamilton.",
+    "Lo hizo con un solo intento en la SQ3. Y lo hizo después de un susto previo: antes de la SQ1, Red Bull le cambió el sistema de recuperación de energía (ERS). El equipo explicó que la unidad tenía una «sospecha de falla» y que la reemplazó como precaución, porque todavía tenía margen para hacerlo.",
+    "## El adelantamiento que puede costarle caro",
+    "El problema viene de la SQ1. **Sergio Pérez** golpeó las barreras con su Cadillac, siguió con el alerón delantero colgando y dejó piezas en la pista. Hubo banderas amarillas y luego bandera roja. En medio de esa amarilla, Verstappen pasó a Hamilton, que estaba levantando el pie.",
+    "Hamilton lo reportó de inmediato por radio. Verstappen también habló con su equipo y aseguró que le había devuelto la posición al piloto de Ferrari. Los comisarios anotaron el incidente y anunciaron que lo investigarían al terminar la sesión. A Pérez no lo sancionaron.",
+    "Si confirman la infracción, Verstappen puede recibir una penalización en la parrilla del sprint. Al cierre de esta nota, la decisión todavía no se había publicado.",
+    "## Antonelli, séptimo y con dudas",
+    "El líder del Mundial, **Kimi Antonelli**, quedó séptimo, a 0,693 de Verstappen y a más de medio segundo de su compañero Russell. Mercedes llegó a Singapur con dos especificaciones distintas de coche, y en este primer examen la versión antigua, la de Russell, fue la que brilló. No está claro si Antonelli tuvo algún problema.",
+    "Ya en la única práctica libre del fin de semana, Russell había marcado el mejor tiempo (1:32.274) con 53 °C de pista, mientras Antonelli se pasó de largo en la curva 16 en su última vuelta rápida.",
+    "## Una sesión con fallas de la FIA",
+    "La clasificación tuvo otro protagonista incómodo: el sistema. Al final de la SQ1 falló el cronometraje y varios tiempos no aparecieron en pantalla. Además, el modo de adelantamiento (overtake) se activó y desactivó en cuestión de segundos, y algunos pilotos se quejaron de falta de potencia. Todo pasó cinco días después del fallo de software que dejó a los coches casi parados en las vueltas de formación de Sepang.",
+    "## Lo que viene",
+    "Red Bull llega en alza tras la victoria de Verstappen en Malasia, la primera del equipo en la temporada. Si la pole se mantiene, el neerlandés saldrá adelante en el último sprint del año en una pista que todavía no ha podido ganar. Si no, Russell hereda la primera posición. Todo depende de lo que digan los comisarios."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/verstappen-pole-sprint-singapur-investigacion-bandera-amarilla/ers-garaje.jpg",
+      "alt": "Mecánicos de espaldas trabajando en la parte trasera de un monoplaza genérico azul oscuro sin decoración en un garaje de boxes de día, sin rostros, logos ni texto",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/verstappen-pole-sprint-singapur-investigacion-bandera-amarilla/bandera-amarilla.jpg",
+      "alt": "Bandera amarilla lisa agitada junto a muros de concreto en un circuito callejero de día, con restos de fibra de carbono en el asfalto, sin logos ni texto",
+      "afterParagraph": 6
+    }
+  ]
+}
