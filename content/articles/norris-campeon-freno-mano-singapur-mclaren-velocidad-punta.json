@@ -1,0 +1,37 @@
+{
+  "slug": "norris-campeon-freno-mano-singapur-mclaren-velocidad-punta",
+  "title": "El campeón que corrió con el freno de mano: Norris llega a Singapur con un arreglo de inyección y algo que demostrar",
+  "excerpt": "Hace un año, en Marina Bay, Lando Norris empezó a ganar el título. Hoy llega como campeón, tras dos carreras perdiendo velocidad punta por un fallo de inyección. McLaren dice que ya lo arregló. Singapur dirá si es verdad.",
+  "category": "opinion",
+  "author": "Rick Aules",
+  "date": "2026-10-09",
+  "readingMinutes": 4,
+  "featured": true,
+  "coverGradient": "from-orange-950 via-zinc-950 to-slate-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/norris-campeon-freno-mano-singapur-mclaren-velocidad-punta/cover.jpg",
+  "body": [
+    "Hace exactamente un año, en este mismo circuito, **Lando Norris** firmó una de las carreras que definieron su campeonato. Tocó al inicio, no se arrugó y remontó hasta el tercer puesto detrás de George Russell y Max Verstappen. Esa noche McLaren cerró el título de constructores, y Norris empezó a recortar la distancia que lo llevaría a ganar el Mundial en Abu Dabi por dos puntos.",
+    "## Un campeón con un coche más lento",
+    "En 2026 la historia es otra. Durante Bakú y Sepang, Norris corrió con un problema que no se veía desde fuera: le faltaban entre uno y dos km/h en las rectas. Parece poco, pero **Andrea Stella** confirmó que eso costaba más de una décima por vuelta. En Sepang clasificó sexto, a solo cinco milésimas de **Oscar Piastri**, pero a más de seis décimas de la pole de Verstappen. La telemetría lo mostraba siempre detrás en la recta trasera.",
+    "McLaren buscó primero en el chasis y la resistencia aerodinámica. Al final el fallo estaba en la unidad de potencia: un problema de **inyección de combustible**. El equipo cambió componentes antes de Singapur. Norris dijo en rueda de prensa que el trabajo está hecho, pero que necesita vueltas para confirmarlo.",
+    "## Por qué Singapur es la prueba justa",
+    "Marina Bay es, paradójicamente, el peor lugar para comprobar si el arreglo funciona y el mejor para que no importe. Tiene pocas rectas largas y premia la tracción, la frenada y la confianza en las paredes. Si Norris vuelve a estar cerca de Piastri y de la punta aquí, nadie sabrá del todo si fue el arreglo o el trazado. Si sigue lejos, ya no podrá culpar a la recta.",
+    "Además, el formato sprint reduce los ensayos a una sola práctica. Hay menos tiempo para confirmar datos y menos margen para equivocarse con la puesta a punto.",
+    "## Lectura Boost F1",
+    "A un campeón se le exige más, no menos. Norris pasó dos fines de semana defendiéndose con un coche que no le daba lo que necesitaba, y lo hizo sin señalar al equipo en público. Eso dice mucho de la madurez que ganó en 2025. Pero el campeonato de 2026 ya tiene dueño provisional en **Kimi Antonelli** y Mercedes, y a Norris le quedan siete carreras para algo más que salvar el orgullo: demostrar que su título no fue un año aislado.",
+    "Singapur fue el lugar donde empezó a ganarlo. Sería justo que fuera también el lugar donde demuestre que sigue siendo el piloto a batir dentro de McLaren, ahora que ya no tiene excusas mecánicas."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/norris-campeon-freno-mano-singapur-mclaren-velocidad-punta/recta-velocidad.jpg",
+      "alt": "Monoplaza genérico color papaya sin logos ni números en una recta urbana con luz de día",
+      "afterParagraph": 2
+    },
+    {
+      "src": "/articles/norris-campeon-freno-mano-singapur-mclaren-velocidad-punta/motor-inyeccion.jpg",
+      "alt": "Mecánicos de espaldas trabajando en la unidad de potencia de un monoplaza papaya en un garaje con luz de día, sin logos",
+      "afterParagraph": 3
+    }
+  ]
+}
