@@ -1,0 +1,40 @@
+{
+  "slug": "russell-desde-el-fondo-singapur-mundial-mercedes-opinion",
+  "title": "Russell sale 21º en Singapur: el domingo que decide si todavía hay Mundial",
+  "excerpt": "Una penalización de 40 puestos por cambiar el motor manda a George Russell al fondo de la parrilla en Marina Bay, con 89 puntos de desventaja frente a Antonelli. Opinión: o remonta con una estrategia valiente, o el título se resuelve en Austin.",
+  "category": "opinion",
+  "author": "Rick Aules",
+  "date": "2026-10-10",
+  "readingMinutes": 4,
+  "featured": true,
+  "coverGradient": "from-teal-950 via-zinc-950 to-neutral-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/russell-desde-el-fondo-singapur-mundial-mercedes-opinion/cover.jpg",
+  "body": [
+    "**George Russell** hizo el sábado una clasificación correcta en Singapur: sexto, a 0,374 segundos de la pole de Max Verstappen. Pero esa posición no sirve de nada. El abandono en Sepang le obligó a montar elementos nuevos de la unidad de potencia y la sanción suma **40 puestos**. El domingo saldrá **21º**, solo por delante de Isack Hadjar, que no marcó tiempo.",
+    "El contexto lo hace todavía más duro. En el sprint, Russell le ganó la salida a Verstappen y lideró una vuelta, hasta que perdió el coche sobre el piano de la última curva y acabó contra el muro. Con ese cero, **Kimi Antonelli** amplió su ventaja a **89 puntos**. Y el líder sale cuarto.",
+    "## Marina Bay, el peor lugar para remontar",
+    "Si hay un circuito donde salir último es casi una condena, es este. El sprint seco fue una fila india y el propio Lewis Hamilton reconoció que, sin lluvia, habría sido una carrera muy aburrida. Los muros están cerca, las zonas de adelantamiento son pocas y el aire sucio castiga a quien va detrás en las curvas lentas.",
+    "Por ritmo puro, Russell tiene coche para estar entre los seis primeros. Pero tener ritmo no basta en Singapur: hay que poder usarlo, y detrás de un Cadillac o un Aston Martin eso es casi imposible.",
+    "## La única salida es arriesgar",
+    "Mi opinión: Mercedes no debe plantear una carrera prudente para Russell. Desde el 21º, una estrategia normal le deja, como mucho, en la zona baja de los puntos. La jugada tiene que ser distinta al resto: un primer stint largo con neumático duro, esperando un coche de seguridad, que en Singapur aparece casi siempre. Si llega en el momento justo, una parada barata puede valerle diez posiciones de golpe.",
+    "Si no llega, habrá perdido poco. Un noveno puesto o un decimocuarto apenas cambian la cuenta frente a Antonelli. En su situación, el riesgo no es un lujo; es la única opción con premio.",
+    "## El dilema de Mercedes",
+    "El problema es que Mercedes no tiene un solo piloto en juego. Antonelli sale cuarto y es el gran favorito al título. Si en algún momento los dos coincidieran en pista, nadie en el muro pediría a Kimi que deje pasar a su compañero. Toto Wolff ha dicho varias veces que dejará correr a los dos, pero 89 puntos de diferencia hablan solos: hoy el equipo apuesta por el líder, aunque no lo diga.",
+    "Si Antonelli sale de Singapur con más de **100 puntos** de ventaja, podrá cerrar el campeonato en Austin. Para Russell, eso significa que este domingo no es una carrera más: es la última oportunidad real de llevar la pelea más allá de Estados Unidos.",
+    "## Lectura Boost F1",
+    "Russell no ha perdido el Mundial en Singapur; lo perdió en parte en el muro del sprint y en el motor de Sepang. Pero sí puede salvarlo, aunque sea por unas semanas, con una remontada de las que se recuerdan. Necesita valentía en la estrategia, una carrera limpia y algo de suerte con el coche de seguridad. Si Mercedes juega a lo seguro, el domingo por la noche el título será, en la práctica, de Antonelli."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/russell-desde-el-fondo-singapur-mundial-mercedes-opinion/recta.jpg",
+      "alt": "Recta de un circuito urbano vacío de día, con muros, pianos rojos y blancos, palmeras y rascacielos, sin personas ni logos",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/russell-desde-el-fondo-singapur-mundial-mercedes-opinion/neumaticos.jpg",
+      "alt": "Neumáticos de competición apilados en un box de día, sin marcas ni texto",
+      "afterParagraph": 6
+    }
+  ]
+}
