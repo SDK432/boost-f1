@@ -1,0 +1,38 @@
+{
+  "slug": "verstappen-gana-sprint-singapur-lluvia-russell-mclaren",
+  "title": "Verstappen gana su primer sprint en Singapur bajo la lluvia: Russell se estrella líder y los McLaren chocan entre sí",
+  "excerpt": "Un aguacero retrasó media hora la salida. Russell perdió el liderato contra el muro en la primera vuelta, Norris y Piastri se tocaron al final y Verstappen sumó su segunda victoria en siete días.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-10-10",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-blue-950 via-zinc-950 to-slate-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/verstappen-gana-sprint-singapur-lluvia-russell-mclaren/cover.jpg",
+  "body": [
+    "**Max Verstappen** ganó este sábado el primer sprint de la historia en Singapur. Fue una carrera de 20 vueltas, mojada al principio y casi seca al final, en la que el piloto de Red Bull cruzó la meta 2,591 segundos por delante de **Lewis Hamilton**. **Charles Leclerc** completó el podio. Es su segunda victoria en siete días, tras ganar en Sepang, y la primera de cualquier tipo en Marina Bay.",
+    "## Un aguacero antes de la salida",
+    "A unos diez minutos de la hora prevista, una tormenta tropical empapó el primer y el tercer sector. Había agua acumulada en las curvas 2 y 3, así que la FIA retrasó la salida media hora. Tras dos vueltas de formación detrás del coche de seguridad, todos salieron con neumáticos intermedios y desde parado.",
+    "## Russell, del liderato al muro",
+    "Como en Sepang, **George Russell** salió mejor que Verstappen y le quitó el primer puesto en la curva 1. Le duró una vuelta: a la salida de la última curva perdió el control sobre el piano y se estrelló contra el muro. \"Estoy bien. Perdón, perdón, perdón\", dijo por radio. Hamilton, que remontó del sexto al tercer puesto en la salida, heredó el segundo lugar.",
+    "La primera vuelta dejó más bajas. **Sergio Pérez** y **Lance Stroll** chocaron en la curva 16, y **Isack Hadjar** y **Franco Colapinto** se detuvieron en los primeros giros. En la relanzada, **Alex Albon** golpeó a **Gabriel Bortoleto** y **Valtteri Bottas** a Albon. Al final abandonaron nueve coches, un récord para un sprint.",
+    "## El choque de McLaren",
+    "Con Leclerc quejándose de que sus intermedios estaban \"destrozados\", los dos McLaren se acercaban al podio. En la curva 5, **Lando Norris** intentó pasar a **Oscar Piastri**, sus trayectorias se juntaron y ambos trompearon. Norris terminó octavo y Piastri, decimocuarto y con una vuelta perdida.",
+    "El gran beneficiado fue **Kimi Antonelli**, que terminó cuarto, a 0,367 segundos de Leclerc. Con Russell fuera, el líder del Mundial amplía su ventaja sobre su compañero a **89 puntos**. Completaron los puntos Liam Lawson, Oliver Bearman, Nico Hülkenberg y Norris.",
+    "## Lectura Boost F1",
+    "Verstappen no ocultó lo que le preocupa: \"La salida fue horrible otra vez\", reconoció. \"Si me pasa algo así mañana, se acabó la carrera\". En Marina Bay casi no se puede adelantar, y el domingo no habrá un muro que le devuelva el liderato. La clasificación para el Gran Premio, retrasada a las 21:30 hora local (08:30 en Ecuador) por las normas que obligan a dejar tres horas tras el sprint, dirá si Red Bull también tiene ritmo en seco."
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/verstappen-gana-sprint-singapur-lluvia-russell-mclaren/lluvia.jpg",
+      "alt": "Monoplaza genérico azul marino y amarillo con neumáticos intermedios levantando agua en un circuito urbano mojado de día, sin logos ni números",
+      "afterParagraph": 2
+    },
+    {
+      "src": "/articles/verstappen-gana-sprint-singapur-lluvia-russell-mclaren/muro.jpg",
+      "alt": "Monoplaza plateado genérico dañado contra la barrera en una curva urbana mojada, con comisarios de espaldas y bandera amarilla, sin logos",
+      "afterParagraph": 4
+    }
+  ]
+}
