@@ -1,9 +1,10 @@
 import Image from "next/image";
+import Link from "next/link";
 import type { ReactNode } from "react";
 import type { Article } from "@/lib/types";
 
 function renderInline(text: string): ReactNode {
-  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  const parts = text.split(/(\*\*[^*]+\*\*|\[[^\]]+\]\([^)\s]+\))/g);
   if (parts.length === 1) return text;
 
   return parts.map((part, index) => {
@@ -13,6 +14,22 @@ function renderInline(text: string): ReactNode {
           {part.slice(2, -2)}
         </strong>
       );
+    }
+    const link = part.match(/^\[([^\]]+)\]\(([^)\s]+)\)$/);
+    if (link) {
+      const label = link[1];
+      const href = link[2];
+      if (href.startsWith("/") && !href.startsWith("//")) {
+        return (
+          <Link
+            key={index}
+            href={href}
+            className="font-semibold text-[#E10600] underline decoration-[#E10600]/40 underline-offset-2 hover:decoration-[#E10600]"
+          >
+            {label}
+          </Link>
+        );
+      }
     }
     return <span key={index}>{part}</span>;
   });
