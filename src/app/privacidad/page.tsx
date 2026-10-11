@@ -48,7 +48,7 @@ export default function PrivacyPage() {
         Política de privacidad
       </h1>
       <p className="text-sm text-zinc-500 mb-6">
-        Última actualización: 26 de septiembre de 2026.
+        Última actualización: 11 de octubre de 2026.
       </p>
 
       <div className="prose-f1">
@@ -128,8 +128,13 @@ export default function PrivacyPage() {
       <Section title="Cookies">
         <p>
           Puedes leer Boost F1 sin registrarte. El sitio, en su funcionamiento
-          editorial, no instala por sí mismo cookies de analítica ni de
-          publicidad.
+          editorial, no instala por sí mismo cookies de publicidad.
+        </p>
+        <p>
+          Este sitio usa Google Analytics para medir las visitas de forma
+          anónima, con cookies. Esas cookies distinguen una sesión de otra y
+          cuentan las páginas vistas; no identifican a quien visita por su
+          nombre.
         </p>
         <p>
           Tu navegador puede guardar datos técnicos de la sesión. Si se activan
