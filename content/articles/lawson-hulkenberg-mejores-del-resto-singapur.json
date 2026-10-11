@@ -1,0 +1,46 @@
+{
+  "slug": "lawson-hulkenberg-mejores-del-resto-singapur",
+  "title": "Lawson y Hülkenberg, los mejores del resto: los que le cerraron la puerta a Russell en Singapur",
+  "excerpt": "Séptimo con Racing Bulls y octavo con Audi. Lawson ganó la carrera en la curva 1 y Hülkenberg aguantó a Russell hasta la bandera. Dos domingos perfectos lejos de los focos.",
+  "category": "opinion",
+  "author": "Rick Aules",
+  "date": "2026-10-11",
+  "readingMinutes": 4,
+  "featured": true,
+  "coverGradient": "from-blue-950 via-zinc-950 to-slate-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/lawson-hulkenberg-mejores-del-resto-singapur/cover.jpg",
+  "body": [
+    "Singapur se recordará por la primera victoria de **Max Verstappen** en Marina Bay, por el error de estrategia de **Lewis Hamilton** y por las cuentas de **Kimi Antonelli** para Austin. Pero hubo dos carreras que merecen más atención: la de **Liam Lawson**, séptimo con **Racing Bulls**, y la de **Nico Hülkenberg**, octavo con **Audi**. Fueron los mejores del resto, y los dos dejaron detrás a **George Russell**.",
+    "La crónica completa está aquí: [Verstappen gana por fin en Singapur](/articulo/verstappen-gana-singapur-leclerc-antonelli-podio-102-puntos). Esta nota mira la mitad de la parrilla.",
+    "## Lawson lo ganó en la curva 1",
+    "Lawson salió octavo, justo detrás de **Pierre Gasly**. Según Speedcafe, cuando le quitaron las mantas a los neumáticos y vio que el Alpine montaba medios, supo que la carrera se jugaba en la primera curva. «Es prácticamente en lo único que he pensado hoy: salir bien e intentar pasarlo en la curva 1, porque aquí la posición en pista lo es todo», contó a Sky Sports F1.",
+    "Lo pasó con el blando y ya no soltó el séptimo puesto. En el segundo tramo, con medios, mantuvo a raya a Hülkenberg, que iba con blandos. The Race lo eligió entre los ganadores del día y destacó cómo ha crecido como líder de equipo desde su breve paso por Red Bull.",
+    "Los números le dan la razón. Es su **13.º resultado en puntos** del año. Según Speedcafe, ahora tiene **34 puntos** de ventaja sobre Gasly en el Mundial y está a **22** de **Isack Hadjar**. Racing Bulls amplió a **32 puntos** su ventaja sobre Alpine en la pelea por el quinto puesto de constructores, a seis carreras del final.",
+    "## Hülkenberg, «un poco de Tony Hawk»",
+    "La carrera de Hülkenberg tuvo otro mérito. Audi venía con dudas sobre cómo afectaría el calor a su motor, y su otro coche se quedó sin tracción y acabó ardiendo en el pit lane. Del lado de Hülkenberg no pasó nada de eso: salió bien, ganó una posición por dentro en la curva 2 y mantuvo los medios vivos en el primer tramo.",
+    "El final fue sufrido. Primero Gasly y luego Russell, con un Mercedes mucho más rápido, se le pegaron. Hülkenberg admitió que en algún momento iba patinando sobre los pianos, «un poco de Tony Hawk», según The Race, pero aguantó. «Fue cuestión de cuidar los neumáticos y mantener la concentración, sobre todo en las últimas vueltas con George presionando», dijo. Audi se llevó seis puntos entre la sprint y la carrera.",
+    "## Por qué importa",
+    "Russell salía desde el fondo por cambiar piezas del motor y terminó noveno. Sus opciones al título ya eran mínimas, pero en esa remontada el muro no lo pusieron Ferrari ni McLaren: lo pusieron un Racing Bulls y un Audi. Cada punto que Russell no sumó ahí deja a Antonelli más cerca de cerrar el Mundial en Austin.",
+    "## Lectura Boost F1",
+    "En una temporada en la que los focos van a Verstappen, Antonelli y las peleas internas de McLaren, Lawson y Hülkenberg hicieron lo más difícil en un circuito urbano: salir bien, no fallar y defender. Lawson ya no parece el piloto al que Red Bull bajó tras tres carreras; parece el líder que Racing Bulls necesitaba para asegurar el quinto puesto. Y Hülkenberg sigue demostrando que, cuando el coche le da una oportunidad, no la deja pasar.",
+    "*Fuentes: F1.com, FIA, Speedcafe, The Race, Sky Sports y Grandprix.com.*"
+  ],
+  "bodyImages": [
+    {
+      "src": "/articles/lawson-hulkenberg-mejores-del-resto-singapur/barreras-circuito.jpg",
+      "alt": "Barreras y vallas del circuito urbano de Marina Bay de día, frente a un edificio histórico de Singapur",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/lawson-hulkenberg-mejores-del-resto-singapur/pitlane.jpg",
+      "alt": "Mecánicos de espaldas esperando en un pit lane de día la llegada de un monoplaza genérico, sin logos ni números",
+      "afterParagraph": 7
+    },
+    {
+      "src": "/articles/lawson-hulkenberg-mejores-del-resto-singapur/marina-bay-dia.jpg",
+      "alt": "Bahía de Marina Bay de día, con el skyline de Singapur",
+      "afterParagraph": 10
+    }
+  ]
+}
