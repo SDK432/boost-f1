@@ -1,0 +1,42 @@
+{
+  "slug": "mercedes-titulo-mano-coche-por-entender-austin-2027",
+  "title": "Mercedes llega a Austin con el título en la mano y un coche que todavía no entiende",
+  "excerpt": "Antonelli está a un paso del título, pero la mejora que Mercedes estrenó en Sepang aún no rinde lo esperado. Wolff admite que pide otra filosofía de reglaje, Russell señala a Red Bull como el equipo a batir y Austin decidirá el rumbo de 2027.",
+  "category": "opinion",
+  "author": "Rick Aules",
+  "date": "2026-10-12",
+  "readingMinutes": 5,
+  "featured": true,
+  "coverGradient": "from-zinc-950 via-teal-950 to-neutral-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/mercedes-titulo-mano-coche-por-entender-austin-2027/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/mercedes-titulo-mano-coche-por-entender-austin-2027/ala-delantera.jpg",
+      "alt": "Manos con guantes ajustan con una llave dinamométrica los flaps de un alerón delantero plateado y verde azulado sobre un soporte en el garaje, de día, sin logos",
+      "afterParagraph": 4
+    },
+    {
+      "src": "/articles/mercedes-titulo-mano-coche-por-entender-austin-2027/muro-datos.jpg",
+      "alt": "Dos ingenieros de espaldas con auriculares miran pantallas de telemetría en el muro de boxes, con la recta vacía y una tribuna al sol, sin logos",
+      "afterParagraph": 10
+    }
+  ],
+  "body": [
+    "Mercedes está a una carrera de poder cerrar el Mundial de Pilotos y, al mismo tiempo, todavía no sabe del todo qué coche tiene. Esa es la paradoja con la que sale de Singapur: **Kimi Antonelli** suma **340 puntos** y 102 de ventaja sobre George Russell, pero la mejora que el equipo estrenó en Sepang sigue sin dar lo que prometían el túnel de viento y el simulador. En Austin, el **25 de octubre**, Mercedes se juega algo más que el título: el rumbo de 2027.",
+    "## El experimento dio respuestas, pero no todas",
+    "En Singapur, Mercedes hizo algo que casi nunca se ve en plena pelea por un campeonato: corrió con dos coches distintos. Antonelli siguió con la mejora y Russell volvió a la especificación con la que ganó en Bakú. Lo contamos [antes del fin de semana](/articulo/mercedes-dos-paquetes-singapur-antonelli-russell-experimento). Ahora llegan las conclusiones, y no son tan sencillas como sugiere el resultado.",
+    "Sobre el papel, el veredicto es claro. «Al final del fin de semana, el paquete de Kimi era claramente el más rápido de los dos, y eso nos da confianza en que vamos en la dirección correcta», dijo **Andrew Shovlin**, jefe de ingeniería en pista. Antonelli terminó tercero y Russell, noveno, después de salir desde el fondo por la penalización de motor. Pero ese noveno puesto no sirve como comparación, y en el equipo lo saben: las conclusiones salen de los datos, no de la clasificación.",
+    "Y los datos dicen algo incómodo. El viernes, Antonelli estuvo casi siete décimas lejos de la pole. El trabajo de esa noche y algunos ajustes del diferencial durante la sprint lo dejaron a dos décimas en la clasificación del Gran Premio. «La ventana en la que funciona el coche ahora mismo es muy pequeña, y es muy sensible a cómo lo conduces, cómo tomas una curva, cómo frenas», explicó el italiano. **Toto Wolff** fue todavía más directo: «¿Tiene el rendimiento que esperábamos de la mejora? Creo que todavía no. Pero fue un paso en la dirección correcta».",
+    "## Un coche nuevo que pide otra forma de trabajar",
+    "La frase clave de Wolff no fue esa, sino la siguiente: «Este coche nuevo necesita una filosofía de puesta a punto muy diferente a la del anterior». Es decir, el problema no sería tanto la pieza como la forma de usarla. Russell lo resumió desde el otro lado del garaje: «Lo que llevó Kimi, los números dicen que rinde como esperamos, pero los tiempos por vuelta no han sido tan buenos. Tenemos que entender cómo hacer que funcione».",
+    "Por eso Austin importa tanto. A diferencia de Sepang y Singapur, el Gran Premio de Estados Unidos no tiene sprint, así que habrá tres sesiones de libres para probar reglajes con calma. Wolff ya adelantó que, salvo sorpresa en los análisis, **los dos coches** llevarán la mejora: «Los pilotos creen que debería ser una ventaja en Austin, y pensando en lo que podemos aprender para el año que viene, también es el enfoque correcto».",
+    "## Red Bull ya marca el ritmo",
+    "El problema es que ese aprendizaje coincide con el mejor momento de Red Bull. Max Verstappen ganó en Sepang y en Singapur, y Russell no lo esconde: «El rendimiento de Red Bull ha sido muy impresionante las últimas tres semanas, en tres circuitos muy diferentes. Ahora mismo son el equipo a batir». Según PlanetF1, Mercedes ganó ocho de las diez primeras carreras del año; en las seis siguientes, solo la mitad.",
+    "Wolff, que suele medir cada palabra, se quitó el sombrero: «De verdad, hay que reconocer lo que ha hecho Red Bull esta temporada, cómo ha desarrollado el coche». Y añadió la frase que de verdad le preocupa: «El año que viene será una pelea total entre equipos, y Red Bull es parte de ella».",
+    "## Lectura Boost F1",
+    "Mercedes hace bien en arriesgar en Austin. Con 102 puntos de margen, el título de Antonelli ya no depende de unas décimas: como mucho, decide si la fiesta es en Texas, en México o en Brasil. Para cerrarlo en Austin tiene que ganar y que Russell y Hamilton tengan un mal domingo ([aquí están las cuentas](/articulo/antonelli-campeon-austin-cuentas-singapur)). Lo que sí está en juego es si el equipo entiende su propio coche antes de que todo el esfuerzo pase al de 2027. Volver a la especificación de Bakú sería más cómodo, y quizá hasta más rápido algún domingo, pero solo aplazaría el problema hasta marzo, justo cuando Red Bull llegue con Verstappen convencido de que tiene un coche ganador.",
+    "Hay una lectura más incómoda. Mercedes va a ganar este Mundial gracias a lo que construyó en la primera mitad del año, no a lo que está construyendo ahora. Para un equipo que quiere repetir en 2027, eso es una advertencia. Austin dirá si la mejora es un paso adelante que todavía no saben usar o un camino equivocado. Por ahora, la mejor noticia para Mercedes es que puede permitirse averiguarlo con el título casi en el bolsillo.",
+    "*Fuentes: F1.com, Motorsport.com, The Race, PlanetF1, Speedweek, TSN y New Straits Times.*"
+  ]
+}
