@@ -1,0 +1,44 @@
+{
+  "slug": "ferrari-deficit-potencia-cuatro-decimas-mercedes-singapur",
+  "title": "Ferrari pierde casi cuatro décimas en recta ante Mercedes: la alarma que dejó Singapur",
+  "excerpt": "Más allá del error de Hamilton, los datos de Jolyon Palmer muestran que el SF-26 cedió casi cuatro décimas en las rectas frente a Mercedes en una pista lenta como Marina Bay. Austin traerá mejoras, pero el motor no se arregla hasta 2027.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-13",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-red-950 to-neutral-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/ferrari-deficit-potencia-cuatro-decimas-mercedes-singapur/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/ferrari-deficit-potencia-cuatro-decimas-mercedes-singapur/recta-dia.jpg",
+      "alt": "Recta larga de un circuito vacío a pleno sol, con pianos rojos y blancos y la zona de frenada al fondo, sin logos",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/ferrari-deficit-potencia-cuatro-decimas-mercedes-singapur/coche-rojo-trasera.jpg",
+      "alt": "Parte trasera de un monoplaza rojo genérico con el alerón trasero y la cubierta del motor, en un pit lane soleado, sin logos ni números",
+      "afterParagraph": 6
+    }
+  ],
+  "body": [
+    "El error de estrategia de Lewis Hamilton se llevó los titulares del domingo en Singapur, pero el dato que más debería preocupar en Maranello es otro. Según el análisis de **Jolyon Palmer** en el podcast *F1 Nation*, el Ferrari SF-26 perdió **casi cuatro décimas por vuelta solo en las rectas** frente al Mercedes en Marina Bay. Y lo hizo en un circuito urbano, lento y lleno de curvas, el tipo de pista donde ese defecto debería notarse menos.",
+    "## Un dato que asusta precisamente por dónde se midió",
+    "Palmer comparó la telemetría del Ferrari con la del Mercedes de **George Russell** el viernes, después de la clasificación sprint, con la herramienta del coche fantasma que usa para sus análisis. Su conclusión fue clara: «Estaban perdiendo casi cuatro décimas en recta en Singapur. Fue enorme». Contra el Red Bull de **Max Verstappen** el patrón se repetía, aunque con menos diferencia.",
+    "Ese es el punto clave. Singapur no es Monza ni Bakú: las rectas son cortas y la vuelta se decide en la tracción y en las curvas de media velocidad, justo donde el SF-26 es fuerte. Si aun así Ferrari cede casi medio segundo entre aceleraciones, en una pista rápida la cuenta será mucho peor. Los datos de la clasificación sprint ya apuntaban en esa dirección, con los Ferrari perdiendo entre **4 y 5 km/h** al final de cada zona de aceleración frente al Red Bull.",
+    "## Buen chasis, motor corto",
+    "La situación de Ferrari en 2026 es casi una paradoja. El coche gira muy bien, tiene buena plataforma aerodinámica y responde en los cambios de dirección. Por eso **Charles Leclerc** pudo salir segundo, ponerse a la par de Verstappen en la primera curva y terminar en esa misma posición, su primer podio desde Bélgica y el 11.º de la Scuderia en el año.",
+    "El problema está detrás del piloto. Ferrari ha concentrado casi todas sus mejoras de la temporada en la aerodinámica, mientras la unidad de potencia sigue sin el empuje del motor Mercedes ni del Red Bull-Ford. La evolución que llegó en **Monza** debía cerrar la brecha y no lo consiguió del todo: Hamilton ya hablaba de cuatro décimas antes de esa actualización y llegó a estimar unas seis en los libres del Gran Premio de Italia. En Bakú, el propio Palmer vio un Ferrari competitivo en la recta en los primeros libres, pero Singapur ha devuelto el problema a primera línea. **Fred Vasseur** ya admitió en su momento que el equipo tiene «un déficit de rendimiento en recta».",
+    "## Lo de Hamilton fue un error; esto es estructural",
+    "Hamilton salió tercero y acabó sexto después de no entrar a boxes en el Virtual Safety Car y estirar unos blandos gastados hasta el final. Él mismo asumió la culpa. Es un fallo que se corrige con mejor comunicación entre piloto y muro, y que no tiene por qué repetirse en Austin.",
+    "El déficit en recta es otra cosa. No depende de una decisión tomada en diez segundos, sino del hardware, y no tiene arreglo rápido. Según la prensa italiana, la solución de fondo para el motor tendrá que esperar a **2027**. Hasta entonces, el objetivo es sacar el máximo del paquete actual y asegurar el **segundo puesto en el Mundial de Constructores**.",
+    "Los números del año reflejan ese techo. Hamilton ganó en Barcelona y Leclerc en Silverstone, pero desde entonces cada uno solo ha sumado **dos podios**. Ferrari está cerca: en sus mejores días pelea con Verstappen, pero no logra sostener ese nivel carrera tras carrera.",
+    "## Austin, México y la lista de pistas peligrosas",
+    "La próxima cita es el **Gran Premio de Estados Unidos**, en Austin, el **25 de octubre**. Ferrari llevará allí un nuevo paquete de mejoras que, según Autosprint, en Maranello esperan que suponga «un salto importante». Es lo que Leclerc pidió después de Bakú y Sepang. Pero si el déficit en recta es de casi cuatro décimas en Singapur, la actualización tendrá que ser muy completa para notarse en una pista con la recta larga del COTA.",
+    "Palmer señala otra fecha en el calendario: **México**. «Creo que México es su oportunidad», explicó. Por la altitud, los equipos montan la carga aerodinámica máxima pero el aire fino reduce la resistencia, y eso suaviza la ventaja de los motores más potentes. Además, Ferrari suele rendir bien allí. La otra cara es **Las Vegas**, un circuito de rectas eternas donde el SF-26 puede sufrir mucho.",
+    "## Lo que nos dice Singapur",
+    "El podio de Leclerc y el ritmo de Hamilton antes del VSC demuestran que el chasis de Ferrari está para pelear arriba. El dato de Palmer explica por qué no consigue convertir eso en victorias con regularidad. Si las cuatro décimas aparecen en Marina Bay, la verdadera prueba llega en las pistas rápidas que quedan, y la del motor no se resolverá con una estrategia mejor en el muro.",
+    "*Fuentes: F1 Oversteer (13 de octubre de 2026), F1 Nation / Jolyon Palmer, The Race, Scuderia Ferrari, Formula1.com, Autosprint y ScuderiaFans.*"
+  ]
+}
