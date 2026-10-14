@@ -1,0 +1,40 @@
+{
+  "slug": "alonso-honda-turbo-energia-singapur-austin",
+  "title": "Alonso contra Honda: el turbo «roto» que no estaba roto y el problema de energía que sí lo está",
+  "excerpt": "Alonso pidió un turbo nuevo en Singapur y salió desde el pit lane; Honda dice que los datos no mostraban fallo. Detrás del choque hay algo más serio: un despliegue de energía que le costó posiciones tras los VSC. Honda tiene dos semanas antes de Austin para dar respuestas.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-14",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-emerald-950 to-lime-950",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/alonso-honda-turbo-energia-singapur-austin/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/alonso-honda-turbo-energia-singapur-austin/motor-banco-pruebas.jpg",
+      "alt": "Unidad de potencia híbrida turbo en un banco de pruebas de fábrica a plena luz del día, con pantallas de datos desenfocadas, sin logos",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/alonso-honda-turbo-energia-singapur-austin/coche-verde-calle-dia.jpg",
+      "alt": "Monoplaza verde sin logos ni números acelerando en un circuito urbano bajo sol de tarde, visto desde atrás",
+      "afterParagraph": 7
+    }
+  ],
+  "body": [
+    "Singapur dejó a **Fernando Alonso** con un **16.º puesto**, una vuelta perdida y una discusión abierta con su propio motorista. El asturiano aseguró tras la clasificación que su turbo estaba **«roto»** y había que cambiarlo. Honda, dos días después, le corrigió en público: la pieza no había fallado. Entre ambas versiones hay algo más importante que un turbo, y es lo que debería preocupar de verdad a Aston Martin de cara a Austin.",
+    "## Qué pasó con el turbo",
+    "Aston Martin montó en el coche de Alonso el **sexto turbocompresor** de la temporada, lo que ya suponía cinco puestos de sanción. Además, el equipo cambió el reglaje de suspensión en parque cerrado sin permiso del delegado técnico y siguió trabajando después de la hora de tapar el coche. Los comisarios lo mandaron a **salir desde el pit lane**, y la sanción de parrilla quedó sin efecto. Había clasificado con 1:34.223, lejos de la zona de puntos.",
+    "La versión de Honda llegó por boca de su ingeniero jefe en pista, **Shintaro Orihara**: «No estaba roto, pero decidimos cambiar los componentes por el feedback de Fernando. En los datos todavía no vemos grandes problemas, pero el piloto es el mejor sensor». Es decir, Honda cambió una pieza cara y se comió una salida desde el pit lane sin una prueba clara de que hiciera falta. Orihara prometió revisar en fábrica los datos de la carrera y de la clasificación: «Por suerte tenemos dos semanas».",
+    "## El problema que sí aparece en pantalla: la energía",
+    "Si el turbo es una cuestión de confianza, la energía es una cuestión de rendimiento. En carrera, Alonso lo resumió por radio con su estilo habitual: «Ja, ja. Energía. Es ridículo este motor». Después lo explicó con más calma: «Muchos problemas de despliegue de energía en carrera, sin desplegar en el lugar correcto en el momento correcto, sobre todo después de los coches de seguridad virtuales. Perdimos muchos puestos».",
+    "Con el reglamento de 2026, la potencia se reparte casi **mitad y mitad entre el motor térmico y la parte eléctrica**. Eso convierte la gestión de energía en un arma de carrera. Tras un VSC, el piloto necesita batería y una entrega limpia para relanzar el coche y defenderse. Si el sistema no despliega cuando toca, el coche queda expuesto justo en el momento en que más se gana o se pierde.",
+    "Orihara no lo niega del todo. Admite que Singapur es especialmente difícil porque «en cada curva la potencia que se recupera es distinta», y que Honda tiene que afinar la **conducibilidad** y el **boost al ir detrás de otro coche**. Llegó a decir que otro fabricante ya está trabajando en eso mismo. Traducción: la diferencia no está solo en los caballos, sino en cómo y cuándo se entregan.",
+    "## Las cifras de una temporada perdida",
+    "Aston Martin es **décimo de 11** en el Mundial de constructores con **7 puntos**, solo por delante de Cadillac. Los siete los ha sumado Alonso. El fichaje de Adrian Newey, la nueva fábrica y la alianza de fábrica con Honda prometían otra cosa. Honda ya introdujo su segundo motor con mejoras ADUO, con turbo nuevo estrenado por Stroll en España y por Alonso en Bakú, precisamente para atacar la conducibilidad. En Singapur, un circuito donde la potencia pura pesa poco y donde el equipo esperaba rendir, no se notó.",
+    "## Lectura Boost F1",
+    "La pelea por el turbo es pequeña y hasta comprensible. Un piloto de 45 años que siente algo raro pide el cambio, y el motorista se lo concede aunque los datos no lo confirmen. Lo preocupante es el otro frente. Si Honda no encuentra una gestión de energía fiable, Aston Martin seguirá perdiendo posiciones en cada relanzada, en cada VSC y en cada intento de adelantar. Austin, con rectas largas y zonas de recuperación muy distintas a Singapur, será el examen. Allí veremos si las dos semanas de fábrica sirven para algo o si Alonso vuelve a hablar por radio de un motor «ridículo». Con el cambio de reglas de 2027 empujando hacia más potencia térmica, el margen de paciencia del asturiano se acorta cada fin de semana.",
+    "*Fuentes: f1i.com (Phillip van Osten), RacingNews365 (Jake Nichol, Sàndor Mészáros), documentos de los comisarios de la FIA y clasificación oficial del GP de Singapur 2026.*"
+  ]
+}
