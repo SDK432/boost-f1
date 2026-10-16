@@ -1,0 +1,40 @@
+{
+  "slug": "ferrari-ultimo-paquete-sf26-austin-fondo-pontones",
+  "title": "Ferrari dispara su última bala en Austin: suelo nuevo, pontones más estrechos y adiós al desarrollo del SF-26",
+  "excerpt": "La Scuderia llevará a COTA su cuarto y último gran paquete de la temporada: suelo rediseñado, entradas de pontón más estrechas, carrocería y refrigeración revisadas y algo menos de peso. Después de Austin, Maranello piensa solo en 2027. Vasseur avisa que el orden de la parrilla todavía puede cambiar.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-10-16",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-red-950 via-neutral-950 to-red-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/ferrari-ultimo-paquete-sf26-austin-fondo-pontones/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/ferrari-ultimo-paquete-sf26-austin-fondo-pontones/fondo-carbono-taller-dia.jpg",
+      "alt": "Suelo de fibra de carbono de un monoplaza sobre un banco de trabajo junto a un pontón rojo, en un taller iluminado con luz natural, sin logos",
+      "afterParagraph": 4
+    },
+    {
+      "src": "/articles/ferrari-ultimo-paquete-sf26-austin-fondo-pontones/monoplaza-rojo-cota-dia.jpg",
+      "alt": "Monoplaza rojo genérico sin números ni logos trazando una curva de un circuito estilo Austin bajo el sol de Texas, casco con visera cerrada",
+      "afterParagraph": 9
+    }
+  ],
+  "body": [
+    "**Ferrari** ya eligió dónde dispara su última bala de 2026. Según la prensa italiana, encabezada por *AutoRacer.it* y recogida por *FormulaPassion*, la Scuderia llevará al **Gran Premio de Estados Unidos** (Austin, 23 al 25 de octubre) el **cuarto y último gran paquete aerodinámico** del **SF-26**: suelo nuevo, pontones rediseñados y carrocería revisada. Después de COTA, el desarrollo serio del coche actual se cierra y Maranello se vuelca casi por completo en el proyecto de 2027.",
+    "## Qué cambia en el SF-26",
+    "La pieza central es el **suelo**. Ferrari lo diseñó para generar **más carga en la parte inferior** del coche y, sobre todo, para que esa carga sea **más estable** en distintas condiciones: con más o menos combustible, en curvas lentas o rápidas, con baches o sin ellos. La idea es ampliar la ventana de funcionamiento sin volver más nervioso el equilibrio del monoplaza, que ha sido uno de sus puntos fuertes durante la temporada.",
+    "El suelo nuevo obliga a tocar los **pontones**. La entrada de aire será **un poco más estrecha**, un cambio pequeño pero visible a simple vista. Al reducir el volumen frontal queda más espacio para manejar el flujo exterior y llevar mejor el aire hacia el suelo y la zona trasera, con menos pérdidas en la parte central del coche.",
+    "Ese recorte tiene un coste térmico. Con tomas más estrechas entra menos aire para refrigerar, así que Ferrari también rediseñó la **carrocería** y las **salidas de aire caliente** de la cubierta del motor para no perder capacidad de enfriamiento. Según los informes italianos, también se espera una **ligera reducción de peso**. Lo que **no** llega es un alerón delantero nuevo: se había especulado con una evolución del concepto estrenado en Barcelona, pero no forma parte del paquete.",
+    "## Vasseur no se rinde ante Red Bull",
+    "El paquete explica la cautela de **Frédéric Vasseur** después de Singapur. Cuando le preguntaron si Red Bull ya era el equipo a batir tras las dos victorias seguidas de **Max Verstappen**, respondió con un seco «no estoy seguro». «Lo están haciendo muy bien, pero no es el único equipo a batir», añadió. «Si miras desde el inicio de la temporada, Mercedes volaba. Luego ganamos nosotros dos carreras, después McLaren ganó dos y luego Red Bull dos o tres».",
+    "Y dejó la frase que resume este 2026: «Si alguien trae mejoras la próxima semana, la clasificación puede cambiar». En un año en el que cada paquete ha cambiado el orden de la parrilla, Ferrari quiere ser el próximo en hacerlo. **Charles Leclerc**, segundo en Marina Bay, lo dijo casi igual: «Esperemos ser nosotros los que saquemos ventaja con el último paquete».",
+    "## Lo que el paquete no puede arreglar",
+    "Conviene no venderlo como una revolución. Las mejoras son **aerodinámicas** y no tocan la **unidad de potencia**, el talón de Aquiles del SF-26. En Singapur, un circuito lento, el coche ya perdía casi cuatro décimas por vuelta solo en las rectas frente a Mercedes. COTA tiene una recta trasera larga y zonas de alta velocidad, así que el suelo nuevo tendrá que compensar en las curvas lo que el motor deja escapar en las rectas. Austin servirá además para algo menos vistoso pero clave: comprobar si lo que dicen el túnel de viento y el simulador de Maranello coincide con lo que pasa en la pista, un dato que también alimenta el coche de 2027.",
+    "## Por qué importa en la pelea por el título",
+    "Ferrari no pelea el Mundial de pilotos, pero puede decidir **cuándo** se resuelve. **Kimi Antonelli** (340 puntos) será campeón en Austin si gana, **George Russell** (238) termina noveno o peor y **Lewis Hamilton** (229) acaba quinto o peor. Es decir, un Hamilton en el **top 4** basta para aplazar la fiesta de Mercedes al menos hasta México. Y el británico llega a su circuito talismán: es el piloto con más victorias en COTA, con **cinco**.",
+    "La Scuderia, que este año ganó en **Barcelona** y **Silverstone**, tiene bastante encaminado el segundo puesto de Constructores. El objetivo en Texas es otro: volver a ganar una carrera antes de cerrar el capítulo del SF-26. La primera respuesta llegará el viernes 23 con la primera sesión libre (12:30 hora local de Austin, la misma de Ecuador), y la carrera, a 56 vueltas y sin sprint, arranca el domingo 25 a las 15:00."
+  ]
+}
