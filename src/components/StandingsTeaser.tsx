@@ -1,9 +1,4 @@
-import {
-  constructorStandings,
-  driverStandings,
-  standingsAsOf,
-  standingsSeason,
-} from "@/lib/standings";
+import { getChampionshipStandings } from "@/lib/standings";
 import type { ConstructorStanding, DriverStanding } from "@/lib/types";
 
 function positionClass(position: number) {
@@ -12,11 +7,19 @@ function positionClass(position: number) {
   return "text-zinc-500";
 }
 
-function DriverTable({ rows }: { rows: DriverStanding[] }) {
+function DriverTable({
+  rows,
+  season,
+  asOf,
+}: {
+  rows: DriverStanding[];
+  season: number;
+  asOf: string;
+}) {
   return (
     <table className="w-full text-left">
       <caption className="sr-only">
-        Campeonato de pilotos {standingsSeason}, {standingsAsOf}
+        Campeonato de pilotos {season}, {asOf}
       </caption>
       <thead>
         <tr className="text-[10px] uppercase tracking-wider text-zinc-500">
@@ -57,11 +60,19 @@ function DriverTable({ rows }: { rows: DriverStanding[] }) {
   );
 }
 
-function ConstructorTable({ rows }: { rows: ConstructorStanding[] }) {
+function ConstructorTable({
+  rows,
+  season,
+  asOf,
+}: {
+  rows: ConstructorStanding[];
+  season: number;
+  asOf: string;
+}) {
   return (
     <table className="w-full text-left">
       <caption className="sr-only">
-        Campeonato de constructores {standingsSeason}, {standingsAsOf}
+        Campeonato de constructores {season}, {asOf}
       </caption>
       <thead>
         <tr className="text-[10px] uppercase tracking-wider text-zinc-500">
@@ -97,10 +108,12 @@ function ConstructorTable({ rows }: { rows: ConstructorStanding[] }) {
   );
 }
 
-export default function StandingsTeaser() {
+export default async function StandingsTeaser() {
+  const standings = await getChampionshipStandings();
+
   return (
     <section
-      aria-label={`Clasificación ${standingsSeason}`}
+      aria-label={`Clasificación ${standings.season}`}
       className="overflow-hidden rounded-xl border border-white/10 bg-zinc-950"
     >
       <div className="flex items-start justify-between gap-3 border-b border-white/10 px-4 py-4">
@@ -108,10 +121,10 @@ export default function StandingsTeaser() {
           <h2 className="text-sm font-bold uppercase tracking-[0.15em] text-white">
             Clasificación
           </h2>
-          <p className="mt-1 text-[11px] text-zinc-400">{standingsAsOf}</p>
+          <p className="mt-1 text-[11px] text-zinc-400">{standings.asOf}</p>
         </div>
         <span className="text-[10px] uppercase tracking-wider text-zinc-500">
-          {standingsSeason}
+          {standings.season}
         </span>
       </div>
 
@@ -121,11 +134,15 @@ export default function StandingsTeaser() {
             Pilotos
           </h3>
           <span className="text-[10px] text-zinc-500">
-            {driverStandings.length} en total
+            {standings.drivers.length} en total
           </span>
         </div>
         <div className="standings-scroll max-h-80 overflow-y-auto overscroll-contain px-1">
-          <DriverTable rows={driverStandings} />
+          <DriverTable
+            rows={standings.drivers}
+            season={standings.season}
+            asOf={standings.asOf}
+          />
         </div>
       </div>
 
@@ -135,11 +152,15 @@ export default function StandingsTeaser() {
             Constructores
           </h3>
           <span className="text-[10px] text-zinc-500">
-            {constructorStandings.length} en total
+            {standings.constructors.length} en total
           </span>
         </div>
         <div className="standings-scroll max-h-64 overflow-y-auto overscroll-contain px-1">
-          <ConstructorTable rows={constructorStandings} />
+          <ConstructorTable
+            rows={standings.constructors}
+            season={standings.season}
+            asOf={standings.asOf}
+          />
         </div>
       </div>
     </section>
