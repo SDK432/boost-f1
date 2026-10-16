@@ -1,7 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { nextRace } from "@/lib/races";
+import { getNextRace, isSeasonComplete } from "@/lib/races";
+import type { NextRace } from "@/lib/types";
 
 interface TimeLeft {
   days: number;
@@ -23,14 +24,21 @@ function calcTimeLeft(target: string): TimeLeft {
   return { days, hours, minutes, seconds, past: false };
 }
 
-export default function CountdownCard() {
+export default function CountdownCard({ initialRace }: { initialRace: NextRace }) {
+  const [race, setRace] = useState(initialRace);
   const [time, setTime] = useState<TimeLeft | null>(null);
+  const [seasonOver, setSeasonOver] = useState(false);
 
   useEffect(() => {
-    setTime(calcTimeLeft(nextRace.date));
-    const id = setInterval(() => {
-      setTime(calcTimeLeft(nextRace.date));
-    }, 1000);
+    const tick = () => {
+      const now = new Date();
+      const next = getNextRace(now);
+      setRace(next);
+      setSeasonOver(isSeasonComplete(now));
+      setTime(calcTimeLeft(next.date));
+    };
+    tick();
+    const id = setInterval(tick, 1000);
     return () => clearInterval(id);
   }, []);
 
@@ -55,17 +63,19 @@ export default function CountdownCard() {
         <div className="mb-1 flex items-center gap-2">
           <span className="h-2 w-2 rounded-full bg-[#E10600] animate-pulse" />
           <span className="text-[10px] uppercase tracking-[0.25em] text-[#E10600] font-bold">
-            Próxima carrera · Ronda {nextRace.round}
+            Próxima carrera · Ronda {race.round}
           </span>
         </div>
         <h2 className="text-xl md:text-2xl font-black text-white mb-1">
-          {nextRace.name}
+          {race.name}
         </h2>
         <p className="text-sm text-zinc-400 mb-5">
-          {nextRace.circuit} · {nextRace.country}
+          {race.circuit} · {race.country}
         </p>
 
-        {time?.past ? (
+        {seasonOver ? (
+          <p className="text-sm text-zinc-300">La temporada ha terminado.</p>
+        ) : time?.past ? (
           <p className="text-sm text-zinc-300">El gran premio ya ha comenzado.</p>
         ) : (
           <div className="grid grid-cols-4 gap-2">

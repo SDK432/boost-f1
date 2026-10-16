@@ -39,8 +39,11 @@ export interface ConstructorStanding {
 
 export interface NextRace {
   name: string;
+  /** Short country or event name used in "tras GP …". */
+  shortName: string;
   circuit: string;
   country: string;
+  /** Scheduled race start, as an ISO 8601 instant. */
   date: string;
   round: number;
 }

@@ -4,10 +4,14 @@ import Hero from "@/components/Hero";
 import NewsletterCTA from "@/components/NewsletterCTA";
 import StandingsTeaser from "@/components/StandingsTeaser";
 import { getAllArticles, getFeaturedArticle } from "@/lib/articles";
+import { getNextRace } from "@/lib/races";
+
+export const revalidate = 3600;
 
 export default function HomePage() {
   const featured = getFeaturedArticle();
   const rest = getAllArticles().filter((a) => a.slug !== featured?.slug);
+  const nextRace = getNextRace(new Date());
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 md:px-6 md:py-10 space-y-10">
@@ -31,7 +35,7 @@ export default function HomePage() {
         </section>
 
         <aside className="space-y-6 lg:sticky lg:top-24 lg:self-start">
-          <CountdownCard />
+          <CountdownCard initialRace={nextRace} />
           <StandingsTeaser />
         </aside>
       </div>
