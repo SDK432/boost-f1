@@ -1,0 +1,44 @@
+{
+  "slug": "aston-martin-chasis-gps-alonso-newey-honda-pole",
+  "title": "El chasis de Newey ya pelea; el motor Honda no: lo que dice el GPS de Alonso en Sepang y Singapur",
+  "excerpt": "Mark Hughes descompone con GPS las vueltas de Alonso en Sepang y Singapur: el AMR26 pierde más de dos segundos a fondo, pero en curvas aparece por delante del coche de pole. El paquete de Hungría mejoró el chasis; las actualizaciones ADUO de Honda no cerraron la brecha.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-18",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-emerald-950 via-teal-950 to-zinc-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/aston-martin-chasis-gps-alonso-newey-honda-pole/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/aston-martin-chasis-gps-alonso-newey-honda-pole/apex-curva-verde-dia.jpg",
+      "alt": "Monoplaza genérico verde británico de carreras visto de tres cuartos en el ápice de una curva soleada con pianos rojo-blanco, sin logotipos ni números",
+      "afterParagraph": 5
+    },
+    {
+      "src": "/articles/aston-martin-chasis-gps-alonso-newey-honda-pole/taller-composites-verde-dia.jpg",
+      "alt": "Técnico de espaldas con polo verde oscuro revisando una pieza de fibra de carbono verde en un taller de composites luminoso, sin logotipos",
+      "afterParagraph": 9
+    }
+  ],
+  "body": [
+    "La pregunta que se hace Mark Hughes en The Race es la que todo el paddock murmura desde hace semanas: ¿el **AMR26** de **Adrian Newey** es un chasis mediocre con un motor malo, o un buen coche atrapado detrás de una unidad de potencia **Honda** que no da la talla? Los resultados en clasificación pintan un cuadro gris. Los datos de GPS, en cambio, cuentan otra historia.",
+    "## Sepang: a 2,090 s… y aún así «adelante» en curvas",
+    "En **Sepang**, **Fernando Alonso** calificó a **2,090 segundos** de la pole de **Max Verstappen**. Parece un abismo. Pero Hughes descompone la vuelta con telemetría GPS y se fija solo en los tramos a **acelerador a fondo** —casi todo rectas y zonas de potencia plena—. Ahí el Aston Martin pierde **2,238 s**. Si restas esa sangría del déficit total, el resto del circuito —curvas, frenadas, tracción a la salida— deja al AMR26 unas **+0,148 s** respecto al Red Bull.",
+    "Es una estadística **reductiva**, como insiste el propio Hughes: no es una prueba de que Alonso habría hecho la pole con paridad de motor. Pero el orden de magnitud es claro. El coche no se está deshaciendo en las curvas; se está desangrando donde el motor manda.",
+    "## Singapur: peor en la hoja, mejor en el chasis",
+    "Una semana después, en **Singapur**, el panorama se volvió aún más extremo. Alonso salió en **Q1** convencido de que el turbo estaba roto; Honda no encontró fallo. El déficit total frente a la pole fue de **2,85 s**, pero en tramos a fondo se fueron **3,22 s**. Fuera de esa zona de potencia, el chasis aparece **+0,370 s** respecto al coche de pole. Más fuerte que en Sepang, justo en el fin de semana en el que el resultado fue más duro de tragar.",
+    "Esa lectura encaja con lo que ya contamos en Boost F1 sobre la disputa del turbo y la energía en Marina Bay ([Alonso, Honda y el turbo de Singapur](/articulo/alonso-honda-turbo-energia-singapur-austin)). Aquí el ángulo es otro: no el choque verbal, sino lo que dicen los números cuando separas motor de chasis.",
+    "## Hungría cambió el coche; Honda no acompañó",
+    "Hughes marca dos inflexiones en la temporada. Primero, el AMR26 se quedó congelado en especificación de carrera uno mientras los de arriba apilaban desarrollo entre Barcelona y Spa. Luego llegó el **único gran paquete aerodinámico** en **Hungría**, y el salto de calidad del chasis se nota en la tabla de déficits «fuera de full throttle»: Hungaroring, Zandvoort, Monza, Madrid, Bakú… y, al final, Sepang y Singapur con cifras **negativas** (es decir, chasis por delante del pole en ese recorte).",
+    "El problema es que el seguimiento esperado de **Honda** no llegó. Con el **ADUO 1**, Alonso elogió el coche en el cooling lap de Zandvoort («Thanks to everyone at Silverstone… A lovely car to drive»), pero ambos pilotos reportaron que se perdieron ganancias de **manejabilidad** respecto a la versión anterior. El **ADUO 2** llegó en **Bakú**; en Singapur la entrega de potencia y el despliegue se vivieron como una pesadilla. El chasis mejoró. La unidad de potencia, no al mismo ritmo.",
+    "## Por qué «pole con paridad» no es una sentencia",
+    "Hughes enumera los sesgos que cualquier aficionado serio debe tener en la cabeza. Evolución de pista entre vueltas. Gestión de neumáticos en Q. Niveles de carga aerodinámica y drag que nadie publica. Y un matiz técnico de arquitectura: el **MGU-K** de Honda, montado hacia adelante, puede favorecer la sensación y el rendimiento en curva aunque el tren motriz falle en recta. Por eso la «pole hipotética» es una brújula de magnitud, no un veredicto de tribunal.",
+    "Aun así, cuando dos circuitos tan distintos como Sepang (rápido, potencia) y Singapur (stop-and-go, turbulencia) apuntan en la misma dirección —déficit que se come entero en full throttle y chasis que «gana» el resto—, el patrón deja de ser anécdota.",
+    "## Qué implica para Aston Martin",
+    "En el Mundial, Aston Martin sigue cerca del fondo (**siete puntos** de constructores) y Alonso no está peleando poles reales. Pero la lectura de Hughes cambia la conversación interna: el trabajo de Newey y Silverstone no parece un fiasco; el cuello de botella está en la relación con Honda y en cómo se cierra la brecha de potencia antes de que el reglamento de 2027–2030 reordene otra vez el mapa.",
+    "Si el chasis ya pelea en curvas con el coche de pole en un recorte GPS —con todos los asteriscos del mundo—, entonces cada décima que Honda recupere en recta no es cosmética: es la diferencia entre salir en Q1 y pelear la zona de puntos… o más. La pregunta ya no es solo «¿qué tan malo es el motor?». Es «¿cuánto del potencial de Newey estamos dejando en la mesa cada domingo?».",
+    "*Fuentes: The Race (Mark Hughes, 16 oct 2026), Read Motorsport, GPFans, Grande Prêmio y Motor.es.*"
+  ]
+}
