@@ -7,6 +7,15 @@ export interface ArticleBodyImage {
   afterParagraph?: number;
 }
 
+/** Optional social post. Only x/twitter and instagram are rendered, and only after URL checks. */
+export interface ArticleEmbed {
+  platform: "x" | "twitter" | "instagram";
+  url: string;
+  caption?: string;
+  /** Same 0-based index convention as `ArticleBodyImage.afterParagraph`. */
+  afterParagraph?: number;
+}
+
 export interface Article {
   slug: string;
   title: string;
@@ -22,6 +31,8 @@ export interface Article {
   coverImage?: string;
   body: string[];
   bodyImages?: ArticleBodyImage[];
+  /** Optional. Articles without this field render exactly as before. */
+  embeds?: ArticleEmbed[];
 }
 
 export interface DriverStanding {

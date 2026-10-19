@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
+import SocialEmbed, { EmbedScripts } from "@/components/SocialEmbed";
+import { sanitizeEmbeds, type ValidEmbed } from "@/lib/embeds";
 import type { Article } from "@/lib/types";
 
 function renderInline(text: string): ReactNode {
@@ -143,12 +145,28 @@ function imagesAfterParagraph(article: Article, index: number) {
   );
 }
 
+function embedsAfterParagraph(embeds: ValidEmbed[], index: number, fallbackIndex: number) {
+  return embeds.filter((embed) => (embed.afterParagraph ?? fallbackIndex) === index);
+}
+
 export default function ArticleBody({ article }: { article: Article }) {
+  const embeds = sanitizeEmbeds(article.embeds) ?? [];
+  const fallbackIndex = Math.max(article.body.length - 1, 0);
+  const platforms = [
+    ...new Set(
+      embeds.map((embed) => (embed.platform === "instagram" ? "instagram" : "x") as "x" | "instagram")
+    ),
+  ];
+
   return (
     <div className="prose-f1 max-w-none">
+      <EmbedScripts platforms={platforms} />
       {article.body.map((block, index) => (
         <div key={index}>
           {renderBlock(block)}
+          {embedsAfterParagraph(embeds, index, fallbackIndex).map((embed) => (
+            <SocialEmbed key={`${embed.platform}-${embed.url}`} embed={embed} />
+          ))}
           {imagesAfterParagraph(article, index).map((image) => (
             <figure key={image.src} className="my-8">
               <div className="relative aspect-video w-full overflow-hidden rounded-xl border border-white/10">
