@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import type { Article, Category } from "./types";
 import { allCategories, categoryLabels } from "./categories";
+import { sanitizeEmbeds } from "./embeds";
 
 export { allCategories, categoryLabels };
 
@@ -12,7 +13,9 @@ export function getAllArticles(): Article[] {
   const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith(".json"));
   const articles = files.map((file) => {
     const raw = fs.readFileSync(path.join(CONTENT_DIR, file), "utf-8");
-    return JSON.parse(raw) as Article;
+    const article = JSON.parse(raw) as Article;
+    if (article.embeds == null) return article;
+    return { ...article, embeds: sanitizeEmbeds(article.embeds) };
   });
   return articles.sort(
     (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
