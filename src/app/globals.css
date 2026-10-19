@@ -13,6 +13,7 @@
   --color-f1-red: #e10600;
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-brand: var(--font-barlow-condensed), "Arial Narrow", Impact, sans-serif;
 }
 
 html {

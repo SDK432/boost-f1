@@ -1,5 +1,5 @@
-import Image from "next/image";
 import Link from "next/link";
+import BrandLockup from "@/components/BrandLockup";
 import { allCategories, categoryLabels } from "@/lib/categories";
 
 export default function Footer() {
@@ -8,15 +8,8 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 md:px-6">
         <div className="grid gap-10 md:grid-cols-3">
           <div>
-            <div className="flex items-center gap-2 mb-4">
-              <Image
-                src="/logo.svg"
-                alt="Boost F1"
-                width={36}
-                height={36}
-                className="h-9 w-9 shrink-0"
-              />
-              <span className="text-lg font-bold text-white">Boost F1</span>
+            <div className="mb-4">
+              <BrandLockup />
             </div>
             <p className="text-sm text-zinc-400 leading-relaxed">
               Medio independiente de noticias y análisis de Fórmula 1 para
