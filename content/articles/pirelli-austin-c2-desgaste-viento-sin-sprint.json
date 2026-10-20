@@ -1,0 +1,45 @@
+{
+  "slug": "pirelli-austin-c2-desgaste-viento-sin-sprint",
+  "title": "Pirelli vuelve al C2 en Austin: sin sprint, con viento y el desgaste como juez",
+  "excerpt": "Pirelli lleva el C2, C3 y C4 al GP de Estados Unidos y corrige el experimento de 2025, cuando nadie usó el C1. Sin sprint, con tres libres, viento de hasta 30 km/h y un asfalto viejo, el desgaste puede decidir la carrera de COTA.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-10-20",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-zinc-900 via-yellow-950 to-slate-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/pirelli-austin-c2-desgaste-viento-sin-sprint/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/pirelli-austin-c2-desgaste-viento-sin-sprint/cota-salida-curva-lenta-dia.jpg",
+      "alt": "Monoplaza genérico gris y negro acelerando a la salida de una curva lenta en un circuito soleado de Texas, con marcas de goma en el asfalto, sin logotipos ni números",
+      "afterParagraph": 7
+    },
+    {
+      "src": "/articles/pirelli-austin-c2-desgaste-viento-sin-sprint/neumatico-desgaste-medicion-dia.jpg",
+      "alt": "Manos con guantes midiendo el desgaste de un neumático slick usado sobre un carro de ruedas en un garaje abierto de día, sin marcas ni texto",
+      "afterParagraph": 10
+    }
+  ],
+  "body": [
+    "El **Gran Premio de Estados Unidos** ya tiene sus neumáticos, y la elección dice mucho de lo que puede pasar el domingo en el **Circuit of The Americas**. **Pirelli** llevará a Austin el **C2 como duro, el C3 como medio y el C4 como blando**, una gama consecutiva que corrige el experimento del año pasado. El fabricante italiano publicó este martes su previa de la carrera, que se disputa del 23 al 25 de octubre y abre el triplete americano con México y Brasil.",
+    "El cambio parece pequeño, pero no lo es. En 2025 Pirelli dejó un hueco entre el duro y el medio: llevó el **C1** como compuesto duro y nadie lo usó en carrera. Los equipos fueron a **una sola parada** con el C3 y el C4, y la estrategia más repetida fue medio-blando, elegida por **13 pilotos**. Con el C2, el duro vuelve a ser una opción real para hacer tandas largas.",
+    "## Sin sprint: más tiempo para entender las gomas",
+    "Otro cambio importante: Austin vuelve al **formato tradicional, sin sprint**. El último sprint del año fue en Singapur. Eso significa **tres sesiones de entrenamientos libres** para trabajar el equilibrio del coche y medir el desgaste en tandas largas, algo que en COTA pesa mucho.",
+    "Ese tiempo extra le viene bien a los que estrenan piezas. **Ferrari** llega con su último gran paquete del SF26 y un fondo nuevo, y **Mercedes** montará su versión actualizada en los dos coches. Tener tres horas de práctica, en lugar de una sola, da margen para entender las mejoras antes de la clasificación del sábado.",
+    "## Delante en el sector 1, detrás en el sector 3",
+    "El trazado de **5,513 kilómetros** castiga a los dos ejes. En el primer sector, con curvas rápidas y cambios de dirección inspirados en circuitos europeos clásicos, sufren sobre todo los **neumáticos delanteros**. En el tercer sector, las aceleraciones desde curvas lentas calientan las **ruedas traseras** y provocan degradación térmica.",
+    "El asfalto no es especialmente abrasivo, pero está viejo. Este año se reasfaltó el tramo entre las **curvas 9 y 11**, mientras el resto del trazado sigue envejeciendo. Según Pirelli, el **desgaste**, más que el graining, puede ser la clave del fin de semana. El año pasado varios neumáticos terminaron con niveles de desgaste muy altos.",
+    "## El viento, el otro rival",
+    "El pronóstico añade un factor que no siempre se tiene en cuenta: el **viento**. Para el viernes se esperan rachas de **16 a 17 millas por hora** (unos 26–27 km/h), con máximas de 24–26 °C. El sábado puede subir a **18–19 mph** (unos 29–31 km/h) para la clasificación, con unos 27 °C. Para el domingo se esperan nubes, 26–27 °C y ráfagas de alrededor de 17 mph.",
+    "Con viento, un coche puede perder carga de golpe en una curva rápida, y eso se nota en los neumáticos. Un piloto que desliza más gasta más goma. En una pista donde el desgaste ya es el tema central, el viento puede abrir diferencias en las tandas largas.",
+    "## Una parada... o dos",
+    "La lógica dice **una parada**. El C2 permite estirar las tandas y la pista tiene buen agarre gracias a las categorías de apoyo, como la Porsche Carrera Cup North America. Pero Pirelli también advierte que el calor típico de Texas puede aumentar la degradación y abrir la puerta a **estrategias alternativas**, incluidas dos paradas.",
+    "El año pasado, **Charles Leclerc** fue la excepción en el podio: salió con blando para ganar agarre al principio y terminó tercero. Solo tres pilotos, más atrás, salieron con el duro. Este año, con un duro más rápido, ese tablero puede cambiar.",
+    "## Lectura Boost F1",
+    "Para **Kimi Antonelli**, que llega con **102 puntos** de ventaja sobre George Russell y solo puede ser campeón en Austin si gana, esto no es un detalle. Una carrera a una parada premia al que cuida las gomas. Una a dos paradas abre la puerta a sorpresas. La carrera se corre a **56 vueltas** el domingo a las **15:00, hora de Austin** (también 15:00 en Ecuador).",
+    "La historia también juega. **Lewis Hamilton** es el piloto con más victorias en el Gran Premio de Estados Unidos, con seis, y **Ferrari** es el equipo con más triunfos, con 11. Pero en 2026 no gana el que tiene más historia, sino el que mejor lee las gomas. El viernes, en las tandas largas, sabremos quién entendió primero COTA.",
+    "*Fuentes: Pirelli Press — previa del GP de Estados Unidos 2026 (20 oct 2026); Pirelli — elección de compuestos para Austin, México y São Paulo; F1 Oversteer — pronóstico del tiempo para COTA (20 oct 2026); Formula1.com — horarios del GP de Estados Unidos 2026; The Independent — clasificación del Mundial (20 oct 2026).*"
+  ]
+}
