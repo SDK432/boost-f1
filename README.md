@@ -35,6 +35,8 @@ Abre [http://localhost:3000](http://localhost:3000).
 │   ├── components/       # UI (Header, Hero…)
 │   └── lib/              # Artículos, standings, tipos
 ├── railway.toml          # build y start para Railway
+├── wrangler.jsonc        # Worker de Cloudflare (OpenNext)
+├── open-next.config.ts
 ├── package.json
 └── README.md
 ```
@@ -80,7 +82,7 @@ Marca visible del sitio: **Boost F1**.
 3. `category` debe ser una de: `noticias` | `analisis` | `resultados` | `opinion`.
 4. `coverPattern`: `carbon` | `stripes` | `grid` | `chequered` | `speed` | `circuit`.
 5. Pon `"featured": true` en un solo artículo para el hero de la home.
-6. Reinicia o recarga `npm run dev`; el listado se lee del sistema de archivos.
+6. Reinicia o recarga `npm run dev`. Los JSON se importan al compilar, así que el listado no depende del disco en el servidor.
 
 ## Datos del sitio
 
@@ -89,12 +91,29 @@ Marca visible del sitio: **Boost F1**.
 
 ## Despliegue en Railway
 
-El repositorio [SDK432/boost-f1](https://github.com/SDK432/boost-f1) está listo para Railway. `railway.toml` en la raíz define:
+El repositorio [SDK432/boost-f1](https://github.com/SDK432/boost-f1) sigue pudiendo desplegarse en Railway. `railway.toml` en la raíz define:
 
-- build: `npm run build`
+- build: `npm run build` (sin `WORKERS_CI`, ejecuta `next build`)
 - start: `npm run start` (`next start` en `0.0.0.0`; Railway inyecta `PORT`)
 
 Conecta el repo de GitHub en Railway (rama `main`, directorio raíz). Opcional: define `NEXT_PUBLIC_SITE_URL` con el dominio público (sitemap, Open Graph y robots).
+
+## Despliegue en Cloudflare Workers
+
+Workers Builds (proyecto `boost-f1`), directorio raíz, rama de producción `main`. El build de Cloudflare define `WORKERS_CI=1`, y `npm run build` ejecuta entonces `opennextjs-cloudflare build`.
+
+| Campo del dashboard | Valor |
+|---------------------|--------|
+| Build command | `npm run build` |
+| Deploy command | `npx wrangler deploy` |
+| Preview command | `npx wrangler preview` |
+| Root directory | vacío (raíz del repo) |
+
+Variable de **build** (no basta con definirla solo en runtime; Next la incrusta al compilar):
+
+- `NEXT_PUBLIC_SITE_URL` = `https://boostf1.com`
+
+No hay más variables. El id de Google Analytics está en el código.
 
 ## Stack
 

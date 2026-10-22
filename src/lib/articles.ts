@@ -1,24 +1,23 @@
-import fs from "fs";
-import path from "path";
 import type { Article, Category } from "./types";
 import { allCategories, categoryLabels } from "./categories";
 import { sanitizeEmbeds } from "./embeds";
 
 export { allCategories, categoryLabels };
 
-const CONTENT_DIR = path.join(process.cwd(), "content/articles");
+// Article JSON is imported at build time so the data ships inside the server
+// bundle. Cloudflare Workers have no project filesystem at runtime.
+const articleModules = import.meta.glob<Article>(
+  "../../content/articles/*.json",
+  { eager: true, import: "default" },
+);
 
 export function getAllArticles(): Article[] {
-  if (!fs.existsSync(CONTENT_DIR)) return [];
-  const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith(".json"));
-  const articles = files.map((file) => {
-    const raw = fs.readFileSync(path.join(CONTENT_DIR, file), "utf-8");
-    const article = JSON.parse(raw) as Article;
+  const articles = Object.values(articleModules).map((article) => {
     if (article.embeds == null) return article;
     return { ...article, embeds: sanitizeEmbeds(article.embeds) };
   });
   return articles.sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
   );
 }
 
