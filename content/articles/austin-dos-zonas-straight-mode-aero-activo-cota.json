@@ -1,0 +1,42 @@
+{
+  "slug": "austin-dos-zonas-straight-mode-aero-activo-cota",
+  "title": "Solo dos zonas de Straight Mode: Austin pone a prueba los adelantamientos de 2026",
+  "excerpt": "La FIA fija dos zonas de aerodinámica activa en COTA, una de las cifras más bajas del año. La salida de la curva 20, el desgaste trasero y la clasificación pueden decidir quién adelanta.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-22",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-sky-950 to-zinc-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/austin-dos-zonas-straight-mode-aero-activo-cota/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/austin-dos-zonas-straight-mode-aero-activo-cota/monoplaza-recta-alerones-abiertos-dia.jpg",
+      "alt": "Monoplaza genérico negro y azul con los alerones en posición de baja resistencia en una larga recta de día, sin logotipos, números ni texto",
+      "afterParagraph": 5
+    },
+    {
+      "src": "/articles/austin-dos-zonas-straight-mode-aero-activo-cota/monoplazas-frenada-subida-curva-dia.jpg",
+      "alt": "Dos monoplazas genéricos frenando al final de una recta en subida hacia una curva cerrada bajo el cielo de Texas, pilotos con visera cerrada, sin logotipos, números ni texto",
+      "afterParagraph": 10
+    }
+  ],
+  "body": [
+    "El Circuito de las Américas estrena este fin de semana algo que nunca había visto: la **aerodinámica activa** de la Fórmula 1 de 2026. La FIA confirmó que en el **Gran Premio de Estados Unidos** habrá solo **dos zonas de Straight Mode**, el modo en el que los alerones delantero y trasero se abren para recortar resistencia en las rectas. Es una cifra baja para una pista de 20 curvas que, sobre el papel, siempre fue buena para adelantar.",
+    "## Dónde estarán las zonas",
+    "Según la FIA, la primera zona empieza **120 metros después de la curva 20**, en la recta principal que sube hacia la famosa curva 1. La segunda arranca **110 metros después de la curva 11**, en la larga recta de atrás que termina en la frenada de la curva 12. El punto de detección del **Overtake Mode** está 30 metros después de la curva 20, y su activación, 120 metros después de esa misma curva.",
+    "Con dos zonas, Austin iguala a Japón, Países Bajos, Madrid y Bakú. En el otro extremo están Australia, Bélgica y Singapur, con cinco, y Mónaco, que no tuvo ninguna por lo estrecho y revirado de sus calles.",
+    "## Dos herramientas distintas",
+    "Conviene no mezclar los conceptos, porque en 2026 ya no existe el DRS. El **Straight Mode** lo pueden usar todos los pilotos en las zonas marcadas, sin necesidad de ir a menos de un segundo del rival: es aerodinámica pura, los alerones pasan a baja carga en la recta y vuelven a su posición normal para las curvas.",
+    "La herramienta de ataque es el **Overtake Mode**. Si un piloto pasa por el punto de detección a menos de un segundo del coche de delante, en la vuelta siguiente puede recuperar **0,5 MJ** extra de energía y usar una curva de potencia eléctrica más alta. Según la Fórmula 1, el coche perseguidor mantiene hasta **350 kW** hasta los **337 km/h**, mientras que al de delante la entrega empieza a caer antes. El piloto decide si lo gasta todo de golpe en una recta o lo reparte a lo largo de la vuelta.",
+    "## Una pista que pide de todo",
+    "COTA mide **5,513 km** y mezcla un primer sector rápido de cambios de dirección con zonas lentas donde manda la tracción. Pirelli trae los compuestos **C2, C3 y C4** y avisa que el desgaste, más que el graining, puede ser el factor clave. En el tercer sector, las aceleraciones desde curvas lentas castigan sobre todo a los neumáticos traseros, y con el C2 como duro la marca italiana ve probable una carrera a **una parada**.",
+    "Los números de la Fórmula 1 ayudan a dimensionar el reto: en 2025 hubo **71 adelantamientos** en Austin, desde la pole hasta el punto de frenada de la curva 1 hay **230 metros** y una parada en boxes cuesta unos **19,9 segundos**. En las últimas siete visitas, la probabilidad de coche de seguridad fue del 29 % y la de coche de seguridad virtual, del 43 %.",
+    "## La lectura de Boost F1",
+    "Para nosotros, la clave de Austin no está en las rectas, sino en la **curva 20**. Ahí se detecta el Overtake Mode y de ahí sale la primera zona de Straight Mode, así que quien salga mejor de esa curva lenta tendrá más opciones de atacar en la subida a la curva 1. Es justo la zona donde Pirelli espera más castigo en las ruedas traseras: el piloto que cuide sus neumáticos al final de cada vuelta tendrá ventaja en las frenadas de la 1 y de la 12.",
+    "Dos zonas también significan que la clasificación vale más. Max Verstappen ganó cuatro de las últimas cinco ediciones en COTA y, según Motorsport.com, llega habiendo ganado las tres últimas carreras desde la pole. Si Red Bull vuelve a salir delante, los rivales tendrán pocas ventanas para devolver el golpe. Y para Kimi Antonelli, que puede ser campeón si gana y se dan otros resultados, salir adelante pesa todavía más.",
+    "La propia FIA explicó antes del arranque de la temporada qué busca con estas herramientas. «No queremos pilotos que simplemente se pasen sin pelear. Siempre queremos que haya lucha. Pero tampoco queremos que sea imposible», dijo Nikolas Tombazis, director de monoplazas de la FIA, citado por Motorsport.com. Austin será un buen examen de ese equilibrio. ¿Tú qué crees: con solo dos zonas veremos más o menos adelantamientos que los 71 de 2025?",
+    "*Fuentes: FIA vía PlanetF1 — Michelle Foster, «FIA makes key decision for United States Grand Prix» (22 oct 2026); Formula1.com — Need to Know GP de Estados Unidos 2026 (22 oct 2026) y guías del reglamento 2026; Pirelli — previa del GP de Estados Unidos; Motorsport.com — «Five things to watch out for at the F1 United States GP» (21 oct 2026) y explicación del Overtake Mode con Nikolas Tombazis.*"
+  ]
+}
