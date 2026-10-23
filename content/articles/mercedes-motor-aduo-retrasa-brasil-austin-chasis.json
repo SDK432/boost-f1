@@ -1,0 +1,42 @@
+{
+  "slug": "mercedes-motor-aduo-retrasa-brasil-austin-chasis",
+  "title": "Mercedes retrasa su motor ADUO: no llega a Austin y apunta a Brasil",
+  "excerpt": "La unidad de potencia mejorada de Mercedes no estará en COTA ni en México. El equipo solo la usará cuando sea un paso real, Russell sumará otra penalización y el chasis nuevo llega a los dos coches.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-10-23",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-teal-950 to-zinc-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/mercedes-motor-aduo-retrasa-brasil-austin-chasis/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/mercedes-motor-aduo-retrasa-brasil-austin-chasis/motor-hibrido-banco-pruebas-dia.jpg",
+      "alt": "Unidad de potencia híbrida genérica de Fórmula sobre un soporte en un taller luminoso de día, sin logotipos, números ni texto",
+      "afterParagraph": 4
+    },
+    {
+      "src": "/articles/mercedes-motor-aduo-retrasa-brasil-austin-chasis/monoplaza-plateado-pitlane-dia.jpg",
+      "alt": "Monoplaza genérico plateado con detalles verde azulado en un pit lane soleado de Texas, piloto con visera cerrada, sin logotipos, números ni texto",
+      "afterParagraph": 9
+    }
+  ],
+  "body": [
+    "Mercedes llega a Austin con un cambio de planes. El motor mejorado que la marca alemana tenía previsto estrenar en el **Gran Premio de Estados Unidos** no estará en el Circuito de las Américas. Según informó **The Race**, la nueva unidad de potencia, permitida por el sistema **ADUO**, todavía no está lista, y tampoco se espera para el **Gran Premio de México** del próximo fin de semana. La fecha más probable pasa a ser **Brasil**, la carrera que cierra el actual triplete del calendario.",
+    "## Qué es el ADUO y por qué Mercedes puede usarlo",
+    "El ADUO (*Additional Development and Upgrade Opportunities*) es el mecanismo que la Fórmula 1 creó para el reglamento de motores de 2026: permite a los fabricantes que se quedan atrás introducir mejoras extra durante la temporada. Según The Race, Mercedes fue evaluada como más de un **2 %** por detrás de la unidad de potencia de referencia del año, que es la de **Red Bull**. Por eso tiene derecho a una actualización a mitad de campaña.",
+    "Puede sonar extraño que el equipo que domina el campeonato tenga permiso para mejorar su motor, pero el sistema mide la unidad de potencia, no los resultados. La lectura lógica es que Mercedes compensa con el chasis y el conjunto lo que, según esa medición, le falta en el motor.",
+    "## Sin prisa: solo cuando sea un paso real",
+    "De acuerdo con The Race, Mercedes solo quiere introducir el motor ADUO cuando esté convencida de que es un **verdadero paso adelante**. El medio italiano FormulaPassion añade que la fecha marcada en rojo en Brixworth, la sede de los motores de Mercedes, es el **Gran Premio de Brasil en Interlagos, el 8 de noviembre**.",
+    "El retraso tiene un efecto directo sobre **George Russell**. El británico sufrió una rotura de motor en Sepang a comienzos de octubre que le costó una penalización en la parrilla de Singapur, y según The Race tendrá que asumir **otra penalización** cuando monte el nuevo motor. Esperar a Brasil, por lo tanto, también es elegir dónde pagar ese precio.",
+    "## El chasis, en los dos coches desde el FP1",
+    "Lo que sí llega a Austin es la gran actualización de chasis que Mercedes estrenó en Sepang. En Singapur el equipo tomó un camino poco habitual: dividió las especificaciones entre sus dos coches y, según FormulaPassion, solo Kimi Antonelli usó el paquete nuevo. Ese experimento y los análisis posteriores dieron al equipo nuevas pistas sobre cómo sacarle partido. En COTA, **Antonelli y Russell** tendrán el coche actualizado desde la **primera sesión de libres**.",
+    "El contexto ayuda a entender la calma. Antonelli llega a Texas con **102 puntos** de ventaja sobre Russell y **111** sobre Lewis Hamilton, con ocho victorias en 17 carreras, según la BBC. Puede ser campeón este domingo si gana, Russell termina por debajo del octavo puesto y Hamilton por debajo del cuarto. «Es una locura si lo piensas, pero por eso no voy a pensarlo», dijo el italiano el jueves.",
+    "## La lectura de Boost F1",
+    "Para nosotros, esta noticia dice más de 2027 que de 2026. The Race lo resume bien: cualquier progreso con el motor ADUO, aunque solo se use dos o tres fines de semana este año, puede ser muy útil para la próxima temporada. Mercedes no necesita el motor para ganar el título; lo necesita para aprender. Y para aprender bien, primero tiene que funcionar bien.",
+    "También hay una lectura de riesgo. Russell ya lo dijo en Austin: «Sea este fin de semana o el siguiente, es cuestión de cuándo, no de si», en referencia al título de Antonelli. Con el campeonato prácticamente encaminado, meter un motor sin probar suficientemente sería arriesgar fiabilidad sin necesidad. Ojo a Max Verstappen, que ganó las dos últimas carreras y avisó que la humedad extrema de Malasia y Singapur pudo influir en el motor: Austin, más seco, será una buena prueba de potencia.",
+    "¿Tú qué crees: Mercedes hace bien en esperar a Brasil o debería arriesgar ya con el motor nuevo para ganar tiempo de cara a 2027?",
+    "*Fuentes: The Race — Josh Suttill, «Mercedes rolls back ADUO engine debut» (22 oct 2026); FormulaPassion — «Niente motore Mercedes con ADUO per Antonelli ad Austin»; BBC Sport — Andrew Benson, «Antonelli to 'just have fun' as he aims for title» (22 oct 2026); Yahoo Sports — «F1 US Grand Prix: Best Quotes From the Drivers on Media Day»; SB Nation — Mark Schofield, declaraciones de Max Verstappen en Austin (23 oct 2026).*"
+  ]
+}
