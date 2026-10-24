@@ -1,0 +1,40 @@
+{
+  "slug": "tandas-largas-austin-verstappen-leclerc-ritmo-carrera",
+  "title": "El ritmo que no se vio el viernes: Verstappen iguala a Leclerc en tanda larga y Norris asoma en Austin",
+  "excerpt": "Leclerc fue el más rápido a una vuelta, pero en las simulaciones de carrera Verstappen quedó a dos milésimas, Antonelli a cuatro centésimas y Norris sorprendió con el duro. Así llega Austin a la clasificación.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-24",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-blue-950 to-zinc-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/tandas-largas-austin-verstappen-leclerc-ritmo-carrera/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/tandas-largas-austin-verstappen-leclerc-ritmo-carrera/neumaticos-usados-garaje-dia.jpg",
+      "alt": "Juegos de neumáticos de competición usados, con el caucho granulado, apilados junto a la puerta abierta de un garaje a plena luz del día, sin logotipos, números ni texto",
+      "afterParagraph": 4
+    },
+    {
+      "src": "/articles/tandas-largas-austin-verstappen-leclerc-ritmo-carrera/monoplaza-azul-tanda-larga-dia.jpg",
+      "alt": "Monoplaza genérico azul marino con detalles rojos y amarillos rodando en solitario por una curva bajo el sol de Texas, sin logotipos, números ni texto",
+      "afterParagraph": 7
+    }
+  ],
+  "body": [
+    "Charles Leclerc terminó el viernes de Austin como el más rápido de los dos libres, con **1:35.291** en la segunda sesión, 42 milésimas por delante de **Kimi Antonelli** y 189 por delante de **Max Verstappen**. Pero el GP de Estados Unidos no se decide a una vuelta. Cuando se miran las tandas largas, las simulaciones de carrera con más combustible, la ventaja de Ferrari prácticamente desaparece.",
+    "Los números los recopiló GPblog a partir de los tiempos vuelta a vuelta de los Libres 2. Verstappen promedió **1:41.481** en 11 vueltas con el neumático blando. Leclerc, con el mismo compuesto, firmó **1:41.479** en las primeras 11 vueltas de su tanda. La diferencia es de **dos milésimas**: un empate técnico.",
+    "## Dos maneras de llegar al mismo promedio",
+    "Lo interesante es cómo llega cada uno a esa cifra. Leclerc salió fuerte, con tres vueltas seguidas por debajo de 1:41 (1:40.691, 1:40.644 y 1:40.656), y luego se fue con más frecuencia por encima de 1:42. Verstappen solo bajó de 1:41 una vez (1:40.785), pero sostuvo mejor el ritmo al final: tras su vuelta más lenta, un 1:42.188, volvió a 1:41.555 y 1:41.401.",
+    "Esa curva importa en COTA. Pirelli midió **43 °C** de asfalto el viernes y el desgaste térmico del neumático trasero es uno de los factores de la carrera. Un coche que cuida mejor la goma al final del stint puede alargar la parada o atacar cuando el rival ya está sufriendo. Hay una advertencia clara: no se conocen las cargas de combustible y ambos usaron juegos de blandos que ya tenían tres vueltas, así que las conclusiones sobre el desgaste son provisionales.",
+    "## Mercedes y McLaren juegan otra partida",
+    "El empate entre Ferrari y Red Bull no deja fuera a nadie. Antonelli promedió **1:41.521** con el neumático medio, a solo cuatro centésimas de Verstappen, aunque con tres vueltas atípicas descartadas del cálculo. George Russell, también con medios, se quedó en 1:41.844 en una tanda más corta. Es una nueva señal de que el líder del campeonato está sacando más del W17 que su compañero.",
+    "El dato más llamativo es el de **Lando Norris**: 1:41.289 de media con el neumático **duro**, más rápido que Verstappen y Leclerc con blandos. Según Pirelli, el duro (C2) es unas nueve décimas más lento por vuelta que el medio (C3). Por eso hay dos lecturas posibles: o McLaren tiene más ritmo de carrera del que mostró a una vuelta, donde terminó a más de un segundo, o Norris rodó con menos combustible. Su tanda, además, fue más corta y también se descartó una vuelta lenta.",
+    "## La estrategia apunta a una parada",
+    "Dario Marrafuschi, director de Pirelli Motorsport, cree que el duro tendrá «un papel limitado» y que los equipos se centrarán en el medio y el blando. «Con el nivel de degradación observado y la rápida evolución del agarre, una carrera a una parada parece ahora el escenario más probable», explicó tras el viernes. También advirtió que los baches de COTA pueden desequilibrar el coche y provocar bloqueos de rueda delantera en las frenadas más fuertes.",
+    "Con una sola parada, la posición en pista pesa todavía más. Por eso la clasificación de este sábado, a las **16:00 hora de Austin** (también 16:00 en Ecuador), vale tanto: Leclerc tiene la ventaja a una vuelta, pero si sale por delante de Verstappen tendrá que defenderse de un coche que, según el viernes, cuida mejor los neumáticos al final del stint.",
+    "Todo esto se juega con el título en el aire. Antonelli llega con **102 puntos** de ventaja sobre Russell y puede ser campeón el domingo si gana, Russell termina noveno o peor y Hamilton queda quinto o peor. Si el ritmo de carrera es tan parejo como dicen los números del viernes, la victoria va a estar muy cara. ¿Quién crees que tiene el mejor coche para el domingo: Leclerc, Verstappen, Antonelli o el Norris que nadie esperaba?",
+    "*Fuentes: GPblog (Shanna Lutgert, análisis de tandas largas, 24 oct 2026); ScuderiaFans (comparativa de ritmo de carrera de los Libres 2, 24 oct 2026); Pirelli, resumen del viernes del GP de Estados Unidos y declaraciones de Dario Marrafuschi (24 oct 2026); tiempos oficiales de los Libres 1 y 2; Sky Sports y F1i.com (escenarios del título).*"
+  ]
+}
