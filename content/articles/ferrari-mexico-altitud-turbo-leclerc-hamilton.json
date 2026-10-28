@@ -1,0 +1,44 @@
+{
+  "slug": "ferrari-mexico-altitud-turbo-leclerc-hamilton",
+  "title": "Ferrari contra el aire fino: por qué México puede ser su peor carrera justo después del podio de Austin",
+  "excerpt": "Las mejoras del SF-26 funcionaron en Austin, pero a 2.200 metros de altitud el turbo pequeño de Ferrari tiene que trabajar más que nunca. Analizamos qué teme la Scuderia, qué puede salvarla y qué se juegan Leclerc y Hamilton.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-28",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-red-950 to-zinc-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/ferrari-mexico-altitud-turbo-leclerc-hamilton/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/ferrari-mexico-altitud-turbo-leclerc-hamilton/monoplaza-rojo-recta-dia.jpg",
+      "alt": "Monoplaza genérico rojo con detalles blancos en una pista seca bajo el cielo azul con montañas al fondo, sin logotipos, números ni texto",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/ferrari-mexico-altitud-turbo-leclerc-hamilton/motor-turbo-garaje-dia.jpg",
+      "alt": "Unidad de potencia híbrida con turbocompresor y radiadores sobre un soporte en un garaje luminoso, sin personas, logotipos ni texto",
+      "afterParagraph": 7
+    }
+  ],
+  "body": [
+    "Ferrari salió de Austin con una sonrisa. **Charles Leclerc** terminó segundo detrás de Kimi Antonelli, **Lewis Hamilton** fue cuarto y la Scuderia fue el equipo que más puntos sumó en el Circuito de las Américas. El paquete de mejoras del **SF-26** (fondo, bargeboards, entradas de los pontones y difusor) funcionó desde los primeros libres e incluso puso a Leclerc en la pelea por la pole.",
+    "El problema es que la siguiente parada es el Autódromo Hermanos Rodríguez, y ahí lo que manda no es el chasis. Según informó Formula1.it y recogió F1 Oversteer este miércoles, las simulaciones de Maranello indican que México podría ser la carrera en la que su motor sufra más de todo el año. En la fábrica ya hablan de un fin de semana para **limitar daños**.",
+    "## El problema: un turbo pequeño en aire fino",
+    "El circuito está a unos **2.200 metros sobre el nivel del mar**. El aire es aproximadamente un 20 % menos denso que al nivel del mar, lo que reduce en la misma proporción la carga aerodinámica y la capacidad de refrigeración. Los motores turbo no pierden potencia como los antiguos atmosféricos, pero el turbo tiene que girar mucho más rápido para comprimir el aire que falta.",
+    "Ahí está el punto débil de Ferrari. Su unidad de potencia usa un **turbocompresor más pequeño** que el de sus rivales, una elección que ayuda en respuesta y empaquetado, pero que a gran altitud obliga a trabajar al límite. La ventaja de poder hacer funcionar el motor a mayor temperatura no parece suficiente para compensarlo, según esas mismas fuentes.",
+    "La decisión viene de atrás. Ferrari estudió cambiar el tamaño del turbo cuando introdujo su mejora de motor en Monza, en la ronda 13, pero lo descartó por dudas de fiabilidad. El turbo más grande llegará en **2027**. México es justo el tipo de pista donde esa decisión se paga.",
+    "## Lo que dice Vasseur: frío, agarre y alerones pequeños",
+    "Fred Vasseur no esconde la incertidumbre. «Sinceramente, nadie lo sabe, porque será el ejercicio más difícil en términos de refrigeración por la altitud», explicó el jefe de Ferrari. Y añadió un cambio importante: por primera vez irán a México con un paquete de **baja carga**, cuando antes se usaban alerones grandes. «Los pilotos tendrán que adaptarse, y en los Libres 1 los oiremos quejarse de la falta de agarre».",
+    "Además, la pista se ha **reasfaltado** en buena parte (de la curva 16 a la 1 y de la 7 a la 16). Como explica Williams en su previa, nadie sabe todavía cuánto agarre ni cuánto graining dará el asfalto nuevo, y calentar los neumáticos ya era difícil aquí. Pirelli lleva sus compuestos más blandos: C3, C4 y C5.",
+    "## Por qué no todo está perdido",
+    "El SF-26 ha sido durante toda la temporada mejor coche en carrera que en clasificación, y México premia a quien cuida los frenos, la temperatura y los neumáticos en tandas largas. Con la refrigeración al límite, ir detrás de otro coche castiga mucho, así que una buena salida y aire limpio pueden valer más que unos caballos extra en la recta.",
+    "Hamilton, además, cree que tiene margen propio. En Austin perdió tiempo en las dos primeras tandas por llevar poco alerón delantero: «Añadí cuatro clics en una parada, otros cuatro en la siguiente, y aun así me faltaban cuatro», contó a RACER. Su objetivo es acertar con la puesta a punto desde el viernes. Y Ferrari tiene buenos recuerdos recientes del lugar: Carlos Sainz ganó aquí en 2024.",
+    "## Qué se juega Ferrari",
+    "En el campeonato de constructores, el segundo puesto está prácticamente asegurado: según F1 Oversteer, Mercedes lidera con 133 puntos sobre Ferrari, que tiene 119 de ventaja sobre Red Bull y McLaren, empatados. Lo que está en juego es otra cosa: el subcampeonato de pilotos, donde Hamilton y Leclerc siguen en la pelea con Russell y Verstappen, separados por muy pocos puntos.",
+    "## Nuestra lectura",
+    "Austin demostró que Ferrari sabe desarrollar el coche; México medirá cuánto le cuesta el motor. No sería raro ver a la Scuderia lejos del podio el sábado, pero más cerca el domingo si gestiona bien la temperatura. Como apunta Formula Web Magazine, sería un error juzgar las mejoras por lo que pase a 2.200 metros. ¿Crees que Ferrari puede dar la sorpresa en México o será su peor fin de semana del año?",
+    "*Datos y declaraciones vía F1 Oversteer con información de Formula1.it (28 oct 2026), Scuderia Fans (declaraciones de Fred Vasseur), RACER (27 oct 2026), Formula Web Magazine, la previa técnica de Williams (28 oct 2026) y Formula1.com.*"
+  ]
+}
