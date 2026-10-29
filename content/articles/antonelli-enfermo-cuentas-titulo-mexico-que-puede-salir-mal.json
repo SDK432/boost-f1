@@ -1,0 +1,44 @@
+{
+  "slug": "antonelli-enfermo-cuentas-titulo-mexico-que-puede-salir-mal",
+  "title": "Antonelli, enfermo a tres días del título: las cuentas de México y lo único que puede salir mal",
+  "excerpt": "El líder del Mundial se perdió el día de medios por un virus. Le bastan dos puntos para ser el campeón más joven de la historia, pero México es la pista de la altitud, los motores al límite y los coches de seguridad. Analizamos cada escenario.",
+  "category": "analisis",
+  "author": "Rick Aules",
+  "date": "2026-10-29",
+  "readingMinutes": 5,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-teal-950 to-zinc-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/antonelli-enfermo-cuentas-titulo-mexico-que-puede-salir-mal/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/antonelli-enfermo-cuentas-titulo-mexico-que-puede-salir-mal/monoplaza-plata-recta-dia.jpg",
+      "alt": "Monoplaza genérico plateado con detalles verde azulado en una recta seca bajo cielo azul, sin logotipos, números ni texto",
+      "afterParagraph": 3
+    },
+    {
+      "src": "/articles/antonelli-enfermo-cuentas-titulo-mexico-que-puede-salir-mal/garaje-monoplaza-plata-dia.jpg",
+      "alt": "Monoplaza genérico plateado dentro de un garaje luminoso y ordenado, sin personas, logotipos ni texto",
+      "afterParagraph": 10
+    }
+  ],
+  "body": [
+    "La semana que debía ser la más tranquila de **Kimi Antonelli** empezó con un parte médico. Mercedes confirmó este jueves que su piloto «no se encuentra bien» y que se está recuperando de **una enfermedad viral**. Como precaución, la FIA lo liberó de sus obligaciones con la prensa en el Autódromo Hermanos Rodríguez para que pudiera descansar. El equipo espera tenerlo de vuelta el viernes para los Libres 1.",
+    "No es un detalle menor: este domingo, con 20 años, Antonelli puede convertirse en el **campeón más joven de la historia de la Fórmula 1**, tres años más joven que Sebastian Vettel cuando ganó su primer título. Y no fue el único enfermo del día: **Valtteri Bottas** también se quedó sin día de medios en Cadillac, aunque el equipo insiste en que no afecta a su participación.",
+    "## Las cuentas: dos puntos y listo",
+    "Tras su victoria en Austin, la novena del año, Antonelli llega a México con **365 puntos**. **George Russell** suma 242 (a 123) y **Lewis Hamilton** 241 (a 124). Después de este domingo solo quedarán Brasil, Las Vegas, Catar y Abu Dabi: 100 puntos en juego, sin más sprints.",
+    "La clave está en el desempate. Si dos pilotos terminan igualados, el título es para el que tenga más victorias. Antonelli tiene nueve, y Russell, aunque ganara las cinco carreras que faltan, llegaría como mucho a ocho. Por eso a Antonelli le basta con salir de México con **100 puntos de ventaja**, no con 101.",
+    "Traducido a escenarios, según los cálculos publicados por Sky Sports, ESPN y Formula1.com:",
+    "**Si termina entre los nueve primeros**, es campeón pase lo que pase, aunque gane Russell.",
+    "**Si termina décimo**, también es campeón, salvo que gane Russell. Si el que gana es Hamilton, ese punto le basta.",
+    "**Si no puntúa o abandona**, sigue siendo campeón siempre que no gane ni Russell ni Hamilton.",
+    "Dicho al revés, la fiesta solo se aplaza a Brasil en dos casos: **Russell gana y Antonelli termina décimo o peor**, o **Hamilton gana y Antonelli no puntúa**. En Austin estuvo cerca: Hamilton fue cuarto y Russell octavo, cada uno una sola posición mejor de lo que Antonelli necesitaba para cantar campeón ese mismo domingo.",
+    "## Por qué México sí puede complicarlo",
+    "Sobre el papel, terminar noveno con el Mercedes es casi un trámite. Pero el Hermanos Rodríguez está a unos **2.250 metros de altitud**, con cerca de un 20 % menos de densidad del aire. Eso significa menos carga aerodinámica y, sobre todo, menos refrigeración. Con el reglamento 2026 ya no existe el MGU-H, así que el turbo tiene que trabajar mucho más para alimentar el motor, y los equipos nunca habían probado estas unidades de potencia en esas condiciones. Es, históricamente, una carrera de desgaste.",
+    "Hay otra incógnita: gran parte del trazado se ha **reasfaltado** (de la curva 7 a la 16 y de la 16 a la 1). Pirelli trae los compuestos más blandos (C3, C4 y C5) y avisa de que el asfalto nuevo puede traer *graining* y un agarre que cambie mucho sesión a sesión. Además, según Williams, en México **siempre ha habido al menos una intervención** en carrera: el coche de seguridad virtual ha salido en el 70 % de las ediciones y el coche de seguridad, en la mitad.",
+    "Y luego está el cuerpo. Un piloto que arrastra un virus en un sitio donde el aire tiene menos oxígeno lo nota más en el coche: más fatiga, más calor en la cabina y menos margen de error. Mercedes no ha dado más detalles, así que el dato de verdad llegará el viernes, cuando veamos si Antonelli completa con normalidad los Libres 1.",
+    "## Nuestra lectura",
+    "El escenario más probable sigue siendo el de siempre: Antonelli campeón el domingo. Para que no ocurra hacen falta dos cosas a la vez, que él tenga un problema serio y que uno de sus dos perseguidores gane la carrera. Y aquí está el detalle curioso: según The National, la última evolución de Mercedes ha estrechado la ventana de puesta a punto y Russell está sufriendo para encontrar ritmo, mientras que Ferrari llega con Leclerc en buena forma. El rival con más opciones de forzar el aplazamiento quizá no sea su compañero, sino Hamilton. Mercedes solo necesita un fin de semana limpio. ¿Crees que Antonelli cierra el título en México o la fiesta se va a Brasil?",
+    "*Datos vía Mercedes-AMG F1, Cadillac F1 Team, Formula1.com, Sky Sports, ESPN, Speedcafe, Pirelli, Williams Racing (vista previa de Paul Williams) y The National (29 oct 2026).*"
+  ]
+}
