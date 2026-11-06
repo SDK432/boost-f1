@@ -6,7 +6,7 @@
   "author": "Rick Aules",
   "date": "2026-11-05",
   "readingMinutes": 5,
-  "featured": true,
+  "featured": false,
   "coverGradient": "from-zinc-950 via-stone-900 to-lime-950",
   "coverPattern": "circuit",
   "coverImage": "/articles/verstappen-antivirus-fia-software-interlagos/cover.jpg",
