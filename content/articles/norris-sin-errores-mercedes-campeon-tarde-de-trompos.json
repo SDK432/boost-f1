@@ -1,0 +1,45 @@
+{
+  "slug": "norris-sin-errores-mercedes-campeon-tarde-de-trompos",
+  "title": "Ganó el que no se equivocó: Norris dio en Interlagos la lección que Mercedes, campeón, todavía no aprendió",
+  "excerpt": "Mercedes festejó el título de constructores en su tarde más torpe del año: dos pilotos, dos trompos, una victoria regalada. Norris, en cambio, ganó una carrera de tres climas sin un solo error. En días así, no gana el más rápido, sino el que menos se equivoca.",
+  "category": "opinion",
+  "author": "Rick Aules",
+  "date": "2026-11-08",
+  "readingMinutes": 5,
+  "featured": true,
+  "coverGradient": "from-orange-950 via-amber-900 to-stone-800",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/norris-sin-errores-mercedes-campeon-tarde-de-trompos/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/norris-sin-errores-mercedes-campeon-tarde-de-trompos/monoplaza-cobre-crema-curva-bosque.jpg",
+      "alt": "Monoplaza genérico cobre y crema en una curva entre árboles con luz de atardecer, sin logotipos, números ni texto",
+      "afterParagraph": 5
+    },
+    {
+      "src": "/articles/norris-sin-errores-mercedes-campeon-tarde-de-trompos/monoplaza-cobre-crema-recta-bruma-dorada.jpg",
+      "alt": "Monoplaza genérico cobre y crema sobre una recta envuelta en bruma dorada, sin logotipos, números ni texto",
+      "afterParagraph": 11
+    }
+  ],
+  "body": [
+    "Hay domingos en los que la tabla dice una cosa y la pista, otra. El de Interlagos fue uno de esos. La tabla dice que **Mercedes es campeón de constructores 2026**, con 652 puntos y una ventaja imposible de descontar. La pista dice que el mejor de la tarde fue **Lando Norris**, y que lo fue por algo que parece menor pero no lo es: **no se equivocó ni una vez**.",
+    "Mi postura es esta: **el GP de São Paulo no lo ganó el auto más rápido, sino el piloto más limpio**. Y Mercedes, aun con la copa en la mano, debería mirar este domingo con más preocupación que alegría.",
+    "## Dos pilotos, dos trompos, una victoria regalada",
+    "Repasemos lo que hizo el campeón. **Kimi Antonelli** hizo un trompo **antes de largar**, en la vuelta de reconocimiento. Después largó mejor que el poleman, se escapó con intermedios y llegó a tener más de ocho segundos de ventaja. Era su carrera. Y la perdió en la vuelta 20, girando en la curva 1 con slicks recién puestos. Luego se pasó de largo en esa misma curva una y otra vez, y terminó quinto, con una penalización por liberación insegura de por medio y una orden de equipo para dejarle el cuarto lugar a Russell.",
+    "Es justo decir que el italiano había avisado por radio de que el auto se sentía «raro» y que sospecha de un problema en la geometría trasera. Si Mercedes encuentra una falla, le cambia el relato. Pero también es justo decir que, con la pista resbaladiza, un campeón tiene que saber cuándo el auto no le da para atacar.",
+    "**George Russell**, por su parte, reconoció con honestidad su propio error: «Probablemente tomé demasiado riesgo, porque veía una oportunidad de ir por la victoria». El trompo en la salida de boxes, cruzado mientras los demás pasaban a ambos lados, le costó entre 15 y 20 segundos según la BBC. Y Russell venía en plena pelea por el podio.",
+    "Mercedes ganó el título con un cuarto y un quinto lugar. Está bien: los campeonatos se construyen en muchas fechas, y Wolff tiene razón cuando dice que el arranque arrollador de la temporada «los llevó hasta la meta». Pero el domingo de la coronación dejó una foto incómoda: **el mejor auto del año, en manos de sus dos pilotos, cometió más errores que nadie entre los de adelante**.",
+    "## Norris, el arte de no hacer nada mal",
+    "Ahora la otra cara. Norris largó mal: Antonelli lo pasó y Lawson le ganó por fuera. Con intermedios, no tenía el ritmo del Mercedes. Pero McLaren lo paró en el momento justo, una vuelta antes que el líder. Con slicks aguantó la presión de los Red Bull, hizo una segunda parada sin perder la punta en los hechos y, cuando volvió la lluvia, mantuvo los diez segundos de ventaja mientras otros giraban, se pasaban de largo o se perdían en boxes.",
+    "Él mismo lo dijo sin vueltas: «Lo principal hoy fue que mantuve la calma y no cometí errores». En una temporada en la que McLaren dejó de ser el auto a vencer, esa frase vale oro. Norris no tuvo el mejor auto del año, pero ganó la carrera más difícil del año.",
+    "## Verstappen y la misma lección, con otro final",
+    "El otro gran nombre del día confirma la regla. **Max Verstappen** largó 21.º, ganó ocho lugares en la primera vuelta, aprovechó cada error ajeno y terminó segundo. Cuando el auto le cambió y aparecieron los problemas de balance, no forzó lo que no tenía: aseguró 18 puntos y estiró su ventaja como subcampeón provisional. Eso también es pilotar sin errores.",
+    "Del otro lado de la grilla, la Ferrari de **Lewis Hamilton**, en su GP número 400, terminó novena por una llamada a boxes que llegó tarde y un trompo con la lluvia. **Charles Leclerc** perdió un lugar por chocar a Lawson en la penúltima vuelta. Ferrari sumó apenas ocho puntos. Cada error tuvo un precio.",
+    "## Lo que debería preocupar en Brackley",
+    "Nadie le va a quitar a Mercedes un título merecido. Ganó los seis primeros Grandes Premios, suma doce victorias en el año y tiene un campeón de 20 años que firmó una temporada histórica. Pero Interlagos mostró que, cuando la pista se pone traicionera, su joven campeón todavía no tiene el colchón de oficio que tienen Norris o Verstappen. Y Russell, que tiene ese oficio, también se tentó.",
+    "Con tres carreras por delante y nada en juego para ellos, Mercedes tiene la oportunidad perfecta para corregir eso sin presión. Si lo hace, 2027 puede ser todavía más suyo. Si no, el domingo de la coronación quedará como una advertencia: **la velocidad gana campeonatos, pero la calma gana carreras**.",
+    "Y en Interlagos, bajo tres climas distintos, la calma tuvo nombre y apellido: Lando Norris.",
+    "*Fuentes: Formula1.com, FIA, BBC Sport, Autosport, Crash.net, AFP (resultado oficial, crónica, penalizaciones y declaraciones; 8 nov 2026).*"
+  ]
+}
