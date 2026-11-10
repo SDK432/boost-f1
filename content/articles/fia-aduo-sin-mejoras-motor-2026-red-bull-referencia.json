@@ -1,0 +1,43 @@
+{
+  "slug": "fia-aduo-sin-mejoras-motor-2026-red-bull-referencia",
+  "title": "La FIA cierra el último análisis del ADUO: no habrá más mejoras de motor en 2026",
+  "excerpt": "El tercer y último período de evaluación del año no otorgó homologaciones extra a ningún fabricante. Red Bull sigue como la referencia, Mercedes todavía guarda su mejora pendiente y la FIA ya anticipa ajustes al sistema para el futuro.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-11-10",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-purple-950 via-zinc-900 to-black",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/fia-aduo-sin-mejoras-motor-2026-red-bull-referencia/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/fia-aduo-sin-mejoras-motor-2026-red-bull-referencia/motor-banco-pruebas-laboratorio-cobre.jpg",
+      "alt": "Unidad de potencia híbrida genérica montada en un banco de pruebas de laboratorio con luces cobrizas, sin logotipos ni texto",
+      "afterParagraph": 4
+    },
+    {
+      "src": "/articles/fia-aduo-sin-mejoras-motor-2026-red-bull-referencia/monoplazas-violeta-gris-recta-atardecer.jpg",
+      "alt": "Dos monoplazas genéricos, uno violeta con detalles cobrizos y otro gris oscuro, lado a lado en una recta al atardecer, sin logotipos, números ni texto",
+      "afterParagraph": 9
+    }
+  ],
+  "body": [
+    "La FIA cerró este martes el último capítulo técnico de la temporada 2026 fuera de la pista. El organismo confirmó que el tercer y último período de análisis del **ADUO** (las Oportunidades Adicionales de Desarrollo y Mejora, por sus siglas en inglés) no otorgó ninguna mejora extra de motor a los fabricantes. Con tres carreras por delante, el mapa de concesiones queda congelado tal como estaba desde mitad de año.",
+    "El tercer período abarcó las carreras 12 a 18 del calendario y se cerró después del Gran Premio de Estados Unidos. Según el comunicado oficial, las diferencias de rendimiento respecto del mejor motor de combustión \"evolucionaron\", pero esos cambios \"no resultaron en homologaciones adicionales para ningún fabricante de unidades de potencia\".",
+    "## Cómo funciona el ADUO",
+    "El sistema nació con el nuevo reglamento de motores de 2026 y figura en el Artículo C4 del reglamento técnico. Su objetivo es evitar que un fabricante quede atrapado durante años con un motor inferior. La FIA mide solo el rendimiento del motor de combustión interna, no de toda la unidad de potencia, y lo compara con el mejor de la grilla en tres períodos por temporada.",
+    "Si un fabricante queda al menos un **2%** por debajo de la referencia, recibe una homologación adicional para la temporada en curso y otra para la siguiente. Si la diferencia supera el **4%**, recibe dos y dos. Además, las concesiones vienen acompañadas de más margen en el tope presupuestario y más horas de banco de pruebas.",
+    "## Red Bull, la referencia que nadie esperaba",
+    "El primer análisis, cerrado después del GP de Canadá, fue el que generó polémica. La FIA determinó que el mejor motor de combustión era el de **Red Bull**, la unidad que la escudería de Milton Keynes desarrolla con Ford. Eso dejó a **Mercedes** en la franja de entre 2% y 4%, con una mejora para 2026 y otra para 2027, mientras que **Ferrari**, **Audi** y **Honda** quedaron a más del 4% y recibieron dos mejoras para este año y dos para el próximo.",
+    "La sorpresa fue grande porque Mercedes había ganado todas las carreras hasta ese momento y casi todo el paddock la consideraba la mejor unidad de potencia. En su momento, el propio **Max Verstappen** discutió que el motor de Red Bull fuera señalado como la referencia, mientras que **Lewis Hamilton** habló durante toda la temporada del déficit de potencia de Ferrari. El segundo período, cerrado tras el GP de Hungría, tampoco cambió nada.",
+    "## Quién ya usó sus cartas",
+    "Con el reparto confirmado, la situación de cada fabricante es distinta. Según The Race, Ferrari y Honda ya utilizaron sus dos mejoras permitidas para 2026, mientras que Audi estaría guardando la siguiente para la temporada 2027. Mercedes, flamante campeón de constructores, todavía no introdujo la mejora que tiene disponible para este año. Red Bull sigue siendo el único fabricante que no puede actualizar su motor bajo este sistema.",
+    "El impacto va más allá de los equipos oficiales. Mercedes provee motores a McLaren, Williams y Alpine; Ferrari, a Haas y Cadillac; Red Bull, a Racing Bulls; Honda trabaja en exclusiva con Aston Martin, y Audi solo equipa a su propio equipo. Cada mejora que se introduce, o que se reserva, repercute en media grilla.",
+    "## La FIA defiende el sistema, pero anticipa ajustes",
+    "La FIA aclaró que, por la naturaleza confidencial de los datos, no dará más detalles sobre las mediciones de rendimiento. **Nikolas Tombazis**, director de monoplazas del organismo, defendió el trabajo realizado: \"Hemos hecho un análisis extenso como parte de la revisión del ADUO este año. Por la calidad de los datos y la solidez del proceso de evaluación, confiamos en nuestras conclusiones\".",
+    "El dirigente también dejó una puerta abierta: \"El primer año de aplicación reforzó nuestra convicción de que el concepto del ADUO es el correcto para la Fórmula 1. Sin embargo, es importante que el sistema siga evolucionando para que sea eficiente, relevante y adecuado a su propósito\". Por eso, la FIA trabaja con los fabricantes y los equipos en posibles ajustes a la metodología para las próximas temporadas.",
+    "El próximo período de evaluación arrancará en 2027 y cubrirá las carreras 1 a 6. Mientras tanto, el campeonato vuelve a la pista en **Las Vegas**, con la carrera del sábado 21 de noviembre, y después llegarán Qatar y Abu Dabi para cerrar el año.",
+    "*Fuentes: FIA, Sky Sports F1, Motorsport.com, The Race y GPblog (10 nov 2026).*"
+  ]
+}
