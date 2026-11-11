@@ -1,0 +1,44 @@
+{
+  "slug": "honda-falla-bateria-stroll-aston-martin-las-vegas",
+  "title": "Honda no encuentra el origen de la falla de batería que dejó a Stroll fuera en Interlagos",
+  "excerpt": "Lance Stroll sufrió dos problemas de batería en Brasil y sumó su 13.º abandono de 2026. Honda sabe qué se rompió, pero no por qué, y busca una solución de emergencia antes de Las Vegas mientras su fiabilidad retrocede al cierre del año.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-11-11",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-emerald-950 via-slate-900 to-black",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/honda-falla-bateria-stroll-aston-martin-las-vegas/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/honda-falla-bateria-stroll-aston-martin-las-vegas/monoplaza-verde-garaje-diagnostico.jpg",
+      "alt": "Monoplaza genérico verde con detalles lima conectado a equipos de diagnóstico en un garaje oscuro, sin logotipos, números ni texto",
+      "afterParagraph": 5
+    },
+    {
+      "src": "/articles/honda-falla-bateria-stroll-aston-martin-las-vegas/monoplaza-verde-detenido-atardecer.jpg",
+      "alt": "Monoplaza genérico verde con detalles lima detenido sobre el pasto junto a la pista al atardecer, con tribunas vacías al fondo, sin logotipos, números ni texto",
+      "afterParagraph": 11
+    }
+  ],
+  "body": [
+    "El fin de semana de Interlagos dejó una mala noticia que va más allá de un abandono. **Honda** reconoció que sabe qué se rompió en el **Aston Martin** de **Lance Stroll**, pero todavía no sabe por qué. Y a diez días de **Las Vegas**, con tres carreras por delante, eso es justo lo que más preocupa en Sakura y en Silverstone.",
+    "Stroll abandonó el Gran Premio de São Paulo en la vuelta 30, cuando marchaba 18.º y a 28 segundos de su compañero **Fernando Alonso**. Según Grandprix.com, el auto perdió potencia a la salida de la curva 12 y el canadiense alcanzó a volver a boxes para retirarse. Ya el sábado había tenido que parar en la tercera práctica libre después de apenas siete vueltas por un problema en el sistema de recuperación de energía (ERS).",
+    "## \"Sabemos qué pasó, pero no la causa raíz\"",
+    "**Shintaro Orihara**, jefe de ingenieros de Honda en pista, fue bastante directo con la prensa: \"Ayer tuvimos un problema de batería en el auto de Lance, y hoy tuvimos otro problema de batería en el auto de Lance. En este momento sabemos qué pasó, pero no sabemos cuál es la causa raíz\", explicó a Motorsport.com. Agregó que revisarán los datos y la propia batería, y que encontrar el origen \"puede tomar algunas semanas\".",
+    "En el informe oficial de Honda, el ingeniero japonés fue un poco más allá: por los datos, sospechan que las fallas del sábado y del domingo comparten el mismo origen y necesitan dar con él antes de la próxima carrera. El trabajo sigue en Gran Bretaña y en Japón. Según The Race, la idea es llegar a Las Vegas con algún tipo de contramedida mientras se rastrea la causa de fondo para corregirla de cara a 2027.",
+    "\"Tenemos que encontrar la causa raíz real de este error para el próximo año. De lo contrario, seguiremos teniendo el mismo problema\", resumió Orihara.",
+    "## Una temporada que no termina de despegar",
+    "Los números explican la alarma. Con el abandono de Interlagos, Stroll suma su 13.º retiro de 2026, sin contar Melbourne, donde no completó suficientes vueltas para ser clasificado. En total terminó apenas seis de las 20 carreras disputadas. Alonso, por su parte, acumula siete abandonos. Fue además la tercera retirada del binomio Aston Martin-Honda en esta seguidilla de tres carreras.",
+    "Lo más inquietante es que parece un retroceso. A principio de año las vibraciones del motor dañaban las baterías una y otra vez, al punto de que el AMR26 no podía completar una distancia de carrera sin pausas. A mitad de temporada la situación mejoró: Alonso encadenó cinco llegadas seguidas antes y después de las vacaciones de verano y sumó puntos en Malasia. \"A mitad de temporada nuestra fiabilidad era mejor, y en las últimas dos o tres carreras tuvimos varios problemas\", admitió Orihara.",
+    "En México fue otra cosa: una falla en el sistema de refrigeración dentro del ERS terminó con problemas en el MGU-K de Alonso cuando estaba cerca del top 10. Son fallas distintas, pero con un patrón parecido: Honda identifica el síntoma y no la raíz, como ya le pasó a comienzos de año, cuando los problemas no aparecían en el banco de pruebas.",
+    "## La lluvia escondió el problema de fondo",
+    "Interlagos sí dejó una señal positiva. Con pista mojada, Alonso le dio a Aston Martin y Honda su mejor clasificación del año: entró por primera vez a la Q3 y largó octavo. Pero en la primera vuelta cayó fuera de los puntos y terminó 12.º, a 20 segundos de **Nico Hülkenberg**, décimo. \"Las condiciones de mojado esconden nuestra debilidad en rendimiento del motor y en el despliegue de energía\", reconoció Orihara.",
+    "El momento tampoco ayudó. El director ejecutivo de Honda, **Toshihiro Mibe**, estuvo en Brasil. Orihara dijo que su presencia motiva al equipo, \"pero, por otro lado, tuvimos un problema de batería dos veces este fin de semana\".",
+    "## Lo que viene: Las Vegas y 2027",
+    "El Gran Premio de Las Vegas se corre del 20 al 22 de noviembre. Con largas rectas y un motor de combustión que, según The Race, sigue corto de potencia, no parece el escenario ideal para Aston Martin. Pero la prioridad inmediata es otra: que el auto vea la bandera a cuadros.",
+    "El problema también pega en 2027. Cada hora dedicada a buscar fallas sale de un banco de pruebas con horas limitadas por el reglamento y de un presupuesto con tope de costos. Según The Race, no se espera un gran salto de Honda al inicio del próximo año, sino mejoras escalonadas durante la temporada. Mientras tanto, como dijo Stroll tras la carrera, toca usar estos días \"para ver dónde podemos mejorar\" antes de viajar a Nevada.",
+    "*Fuentes: The Race, Motorsport.com, Grandprix.com, F1 in Generale y lancestroll.com (9–11 nov 2026).*"
+  ]
+}
