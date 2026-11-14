@@ -1,0 +1,42 @@
+{
+  "slug": "valor-equipos-f1-50-mil-millones-ferrari-sportico",
+  "title": "La F1 vale 50.000 millones de dólares: Ferrari sigue siendo el equipo más caro de la parrilla",
+  "excerpt": "El ranking anual de Sportico tasa a los 11 equipos de la F1 en unos 50.000 millones de dólares. Ferrari lidera con 8.200 millones, Mercedes y McLaren completan el podio, y Haas, Audi y Alpine son los que más crecieron.",
+  "category": "noticias",
+  "author": "Rick Aules",
+  "date": "2026-11-14",
+  "readingMinutes": 4,
+  "featured": false,
+  "coverGradient": "from-zinc-950 via-amber-950 to-zinc-900",
+  "coverPattern": "circuit",
+  "coverImage": "/articles/valor-equipos-f1-50-mil-millones-ferrari-sportico/cover.jpg",
+  "bodyImages": [
+    {
+      "src": "/articles/valor-equipos-f1-50-mil-millones-ferrari-sportico/sala-directorio-maqueta-grafito-amarillo.jpg",
+      "alt": "Sala de directorio vacía en lo alto de un rascacielos de noche, con una maqueta de monoplaza genérico grafito y amarillo sobre la mesa y luces de la ciudad tras los ventanales, sin personas, logotipos ni texto",
+      "afterParagraph": 4
+    },
+    {
+      "src": "/articles/valor-equipos-f1-50-mil-millones-ferrari-sportico/monoplaza-grafito-amarillo-circuito-nocturno.jpg",
+      "alt": "Monoplaza genérico grafito con detalles amarillos acelerando de noche en un circuito urbano entre fachadas iluminadas, sin logotipos, números ni texto",
+      "afterParagraph": 9
+    }
+  ],
+  "body": [
+    "La Fórmula 1 ya no solo bate récords en la pista. Según el ranking anual de valuaciones que publicó **Sportico** esta semana, los **11 equipos de la parrilla valen en conjunto unos 50.000 millones de dólares**. El equipo promedio está tasado en **4.550 millones**, un 33 % más que hace un año y casi el triple que en 2023.",
+    "El salto es todavía más llamativo si se deja afuera a **Cadillac**, que debutó este año y, al ocupar el último lugar de la tabla, baja el promedio: sin el equipo estadounidense, la suba interanual llega al 39 %. Y viene después de un incremento del 48 % el año pasado.",
+    "## Ferrari, otra vez en la cima",
+    "**Ferrari** encabeza la lista por cuarto año consecutivo con un valor estimado de **8.200 millones de dólares**, un 28 % más que en 2025. Con esa cifra, la Scuderia se ubica en el puesto 30 entre todas las franquicias deportivas del mundo. Detrás aparecen **Mercedes** (7.750 millones), el flamante campeón de pilotos y constructores, y **McLaren** (6.300 millones).",
+    "El resto del top cinco lo completan **Red Bull** (5.600 millones) y **Aston Martin** (4.150 millones), lo que significa que los cinco primeros superan la barrera de los 4.000 millones. Más abajo figuran **Alpine** (3.280 millones), **Williams** (3.240 millones), **Racing Bulls** (3.050 millones), **Audi** (3.000 millones), **Haas** (2.800 millones) y **Cadillac** (2.700 millones).",
+    "## Los de abajo son los que más crecen",
+    "La paradoja de la tabla es que las subas más fuertes no están arriba. **Haas** fue el equipo que más se revalorizó, con un 67 %, seguido por **Audi** (60 %), **Alpine** (58 %) y **Williams** (51 %). Sportico lo explica por la escasez: con solo 11 lugares en la parrilla, el precio de entrada a la categoría no deja de subir. De hecho, el valor de Cadillac es un 280 % mayor que el que tenía Haas en 2023, cuando era el último del ranking.",
+    "Los números de negocio acompañan. De acuerdo con la publicación, los diez equipos que corrieron en 2025 generaron unos **5.200 millones de dólares en ingresos**, desde los 259 millones de Haas hasta los 926 millones de Ferrari. Siete de cada diez equipos fueron rentables antes de intereses e impuestos, con Mercedes a la cabeza con 220 millones de ganancia. Y la escudería alemana va camino a superar este año los 1.000 millones de dólares de facturación.",
+    "## Se viene una ola de ventas",
+    "El ranking llega en un momento de mucho movimiento accionario. El dueño de los New York Jets, **Woody Johnson**, compró este año más del 15 % de Aston Martin con una valuación cercana a los 4.700 millones. Además, **Otro Capital**, el grupo que en 2023 adquirió el 24 % de Alpine cuando el equipo valía unos 900 millones, contrató al banco BDT & MSD Partners para explorar la venta de esa participación. Y según Sportico, **Mark Walter** busca vender su parte de Cadillac con un precio de al menos 3.000 millones, en un equipo que perdería unos 400 millones este año por los costos de arranque.",
+    "Hay una lectura incómoda detrás de tanto optimismo. El exdirector ejecutivo de Liberty Media, **Greg Maffei**, advirtió en un evento de Sportico que \"el dinero fácil ya se hizo\" y que el EBITDA de la F1 no volverá a triplicarse en los próximos ocho o nueve años. Aun así, el patrocinio, que representa cerca de dos tercios de los ingresos de los equipos, sigue creciendo más rápido que los premios.",
+    "## El debate del lunes",
+    "Que los equipos más chicos valgan cada vez más no significa que puedan pelear arriba. Ese es justamente el argumento de **James Vowles**: el jefe de Williams propuso un mecanismo de compensación dentro del tope presupuestario, bautizado como **\"ADUO para equipos\"**, que permitiría gastar más a los que terminan fuera de los cuatro primeros. Según The Race, la idea se discutirá este lunes en la Comisión de F1, aunque por ahora solo cuenta con el apoyo de Cadillac, Alpine, Aston Martin y Audi, y difícilmente llegue a tiempo para 2027.",
+    "La F1 vale más que nunca. La pregunta es si ese valor se va a traducir en una parrilla más pareja o si seguirá concentrado, en la pista, en los mismos de siempre.",
+    "*Fuentes: Sportico (12 nov 2026), f1i.com, GPFans y SB Nation (13 y 14 nov 2026), The Race (14 nov 2026).*"
+  ]
+}
